@@ -114,9 +114,10 @@ def exporta_dataset(ano, formato):
     """
 
     df_result = processamento(rreo)
+    df_result.sort_values(['ano', 'mes_num'], inplace=True)
 
     if platform == "linux":
-        dir_arquivo = "~/findata/app/dashboards/_datasets/stn"
+        dir_arquivo = "./src/rreo03"
     else:
         dir_arquivo = "src/rreo03"
 

@@ -1,0 +1,14 @@
+.env
+send.bat
+**/*.csv
+**/*.gzip
+**/*.rar
+
+ve/
+
+
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
