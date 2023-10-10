@@ -117,9 +117,9 @@ def exporta_dataset(ano, formato):
     df_result.sort_values(['ano', 'mes_num'], inplace=True)
 
     if platform == "linux":
-        dir_arquivo = "./src/rreo03"
+        dir_arquivo = "./src/rreo03/outputs"
     else:
-        dir_arquivo = "src/rreo03"
+        dir_arquivo = "src/rreo03/outputs"
 
     if formato == "parquet":
         df_result.to_parquet(
@@ -140,7 +140,7 @@ def exporta_dataset(ano, formato):
     )
 
 
-def executa_extracao(ano_ext=None, bimestre_ext=None, ano_agreg=None,
+def executa_extracao(ano_ext=None, bimestre_ext= None, ano_agreg=None,
                      formato="parquet"):
 
     ultimo_ano = datetime.now().year
