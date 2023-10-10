@@ -1,0 +1,305 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);150101453.64;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);198670657.37;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);166783441.6;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);170383956.99;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);168341745.05;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);198342821.85;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);180809571.35;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);163544934.15;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);168594398.0;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);163513630.37;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);151790650.52;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);170771310.44;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;31041075.7;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;34325855.87;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;33854284.99;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;31287271.47;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;48603363.38;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;80204065.2;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;38958906.93;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;37179579.48;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;37337739.99;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;39069904.54;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;38058255.34;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;38944270.8;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1996146.49;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1819583.17;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2974322.45;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2977465.22;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;12012546.31;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;33986502.53;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3661131.56;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;255471.57;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4030661.42;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3996423.55;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2159736.0;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2249440.0;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;17985167.09;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18860817.22;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18186446.37;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;17352270.43;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;17625315.95;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19294175.93;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19676229.54;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18565388.74;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19816877.44;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20025792.65;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21519236.72;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20689974.03;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6320912.62;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7195098.07;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8248858.42;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6645760.14;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6729196.13;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8440334.95;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8816341.68;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9376239.25;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7695707.08;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8914784.47;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7688088.25;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9282430.77;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2897246.93;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5041097.28;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2217344.57;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2161973.69;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4112412.51;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3346745.84;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2155565.52;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3020646.78;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3229620.11;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3367995.61;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3273292.86;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3180442.86;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1841602.57;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1409260.13;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2227313.18;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2149801.99;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;8123892.48;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;15136305.95;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4649638.63;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;5961833.14;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2564873.94;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2764908.26;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3417901.51;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3541983.14;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;6334984.2;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;8853374.93;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;6575481.7;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;6735904.0;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;6337373.35;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;6789876.27;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;7072819.81;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;6686029.47;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;7106145.15;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;6520866.68;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;6835570.03;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;6613888.31;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;1746201.86;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;2326138.34;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;3495494.36;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;1859764.12;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;3613430.66;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;2019200.68;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;631317.44;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;1573113.84;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;2984586.23;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;1863576.82;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;2145247.99;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;5513668.85;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1746201.86;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2326138.34;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3475380.78;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1847743.56;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3590452.15;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1996524.74;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;604526.01;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1539163.07;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2959162.81;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1844008.56;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2121279.35;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5491482.03;10;5;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;20113.58;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;12020.56;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;22978.51;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;22675.94;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;26791.43;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;33950.77;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;25423.42;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;19568.26;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;23968.64;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;22186.82;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;106212751.7;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;148734648.11;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;118667049.44;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;127990427.17;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;108091591.27;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;104476276.4;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;130757637.29;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;114844012.14;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;117138387.61;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;111819135.64;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;102278661.63;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;116066101.25;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;22710377.15;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;43696042.46;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27847973.79;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;36406011.18;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;24515478.36;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;25703680.4;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;31544660.51;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;29540074.45;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20062866.7;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;25310488.08;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19089189.39;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21685195.28;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;29730034.05;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;30435624.96;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;32429979.18;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;28491244.27;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;26825406.03;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;20687440.92;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;36403157.73;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;25588147.72;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;25750766.88;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;27959392.75;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;31989288.94;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;40270944.58;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5045362.66;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3481417.53;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6750808.18;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5319706.59;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7255064.53;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7585889.24;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6561343.72;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9378620.49;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7820019.38;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8333053.67;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6032370.96;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4353362.21;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;3504.25;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;1911.86;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;2819.07;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;3011.27;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;1190.21;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;1194.98;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;1200.38;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;2536.98;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;4983.91;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;2446.45;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;5447.48;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;32965.41;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;31604.56;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;31604.56;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30483.84;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30483.84;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30483.84;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30483.84;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30483.84;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30483.84;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30483.84;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30483.84;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30483.84;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30483.84;10;5;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;359582.93;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;383047.77;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;405020.45;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;283590.62;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;378244.74;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;415864.94;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;500223.48;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;486014.79;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;509305.48;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;488159.55;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;14024629.99;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;17146208.66;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16922079.04;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;21288083.71;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15526558.98;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13715711.13;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23032769.49;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16973414.74;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16267630.09;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16724146.6;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12872035.65;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16819135.21;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;34667239.04;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;53941838.08;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;34323323.41;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;36068838.54;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;33532388.87;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;36468285.27;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;32805776.88;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;32914868.98;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;46701413.33;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;32973109.46;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;31750539.89;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;32385855.17;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4766440.18;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4430640.12;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4191131.11;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2510590.23;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1695986.39;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4853403.3;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3388889.88;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3262199.22;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4027539.02;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4240146.69;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2472915.53;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3633381.23;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15835939.12;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);18197257.42;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17897300.08;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17952936.65;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14616266.16;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15777140.25;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);21476263.52;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17255179.69;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15269908.49;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);16580620.2;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14723663.69;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17152800.79;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3113050.61;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5311419.79;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2601627.63;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3032875.56;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2865631.32;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3305610.27;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3444981.67;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3240682.98;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3621504.25;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2884959.4;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3274658.35;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3098127.56;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;927541.18;11;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1883163.34;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;858823.89;2;1;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1665415.61;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;796657.16;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;909836.19;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;905276.02;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;924873.58;8;4;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11795347.33;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12885837.63;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13412509.11;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;14061237.2;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11750634.84;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10806114.37;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17234624.69;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13104660.52;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10743128.22;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12770787.22;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11449005.34;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;14054673.23;10;5;250750;sim;João Pessoa;25
+2017-11-01;2018;RREO;5;PB;2507507;801718;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);134265514.52;11;6;250750;sim;João Pessoa;25
+2017-12-01;2018;RREO;5;PB;2507507;801718;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);180473399.95;12;6;250750;sim;João Pessoa;25
+2018-01-01;2018;RREO;5;PB;2507507;801718;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);148886141.52;1;1;250750;sim;João Pessoa;25
+2018-02-01;2018;RREO;5;PB;2507507;801718;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);152431020.34;2;1;250750;sim;João Pessoa;25
+2018-03-01;2018;RREO;5;PB;2507507;801718;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);153725478.89;3;2;250750;sim;João Pessoa;25
+2018-04-01;2018;RREO;5;PB;2507507;801718;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);182565681.6;4;2;250750;sim;João Pessoa;25
+2018-05-01;2018;RREO;5;PB;2507507;801718;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);159333307.83;5;3;250750;sim;João Pessoa;25
+2018-06-01;2018;RREO;5;PB;2507507;801718;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);146289754.46;6;3;250750;sim;João Pessoa;25
+2018-07-01;2018;RREO;5;PB;2507507;801718;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);153324489.51;7;4;250750;sim;João Pessoa;25
+2018-08-01;2018;RREO;5;PB;2507507;801718;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);146933010.17;8;4;250750;sim;João Pessoa;25
+2018-09-01;2018;RREO;5;PB;2507507;801718;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);137066986.83;9;5;250750;sim;João Pessoa;25
+2018-10-01;2018;RREO;5;PB;2507507;801718;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);153618509.65;10;5;250750;sim;João Pessoa;25

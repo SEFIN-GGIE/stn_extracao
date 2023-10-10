@@ -1,0 +1,348 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);452348424.91;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);499701526.93;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);499872335.15;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);823395371.77;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);942936897.35;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);486799553.96;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);536097466.92;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);549487591.65;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);464755118.27;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);540627542.17;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);624952408.7;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);574463397.86;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;173190142.24;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;182931399.48;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;200020586.96;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;351750229.61;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;458340124.21;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;145233960.93;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;190622873.82;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;145095553.48;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;148834404.59;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;158770802.14;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;176194666.11;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;181524237.69;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;28466545.85;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;30728439.63;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;28502402.87;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;153638346.22;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;240619125.64;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;11912623.46;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;41124737.34;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;26586290.96;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;31144037.7;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;31971999.26;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;32715577.3;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;30356178.11;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;89651961.29;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;89812102.61;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;91387553.04;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;93527571.93;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;103142990.75;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;86358039.03;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;81421177.94;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;71224004.29;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;67699391.67;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;72461455.56;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;81987973.29;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;86456175.57;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;18197141.38;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;25408454.14;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;24638780.31;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;26120441.53;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;19677275.48;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;17234456.98;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;16369528.96;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11772355.32;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;13712323.72;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;17094840.19;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;22895550.75;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;26529370.61;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24826597.14;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24592092.52;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;43635096.32;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;28163405.3;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;34998992.94;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24539875.35;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;34280295.41;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;25173865.63;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;25207187.36;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;25188466.1;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;25288374.86;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;25121714.28;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;12047896.58;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;12390310.58;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;11856754.42;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;50300464.63;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;59901739.4;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;5188966.11;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;17427134.17;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;10339037.28;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;11071464.14;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;12054041.03;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;13307189.91;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;13060799.12;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;20541255.16;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;31913259.2;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;25733089.82;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;29275064.64;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;26782986.36;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;25578985.03;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;27499483.51;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;26205604.64;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;18432743.27;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;23161180.29;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;23276843.52;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;23461955.67;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;19002115.24;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;21678522.44;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;26289468.94;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;11987942.42;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;131829176.02;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;23157461.16;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;4704276.23;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;11378348.82;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;5401148.52;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;4463991.0;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;42500701.04;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;10371185.56;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;17791291.29;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;20381223.39;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;23929248.39;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;10903808.4;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;50370059.87;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;17869278.79;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2307908.39;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4069580.97;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5028085.55;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3660580.33;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;41786210.07;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9538261.98;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1210823.95;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1297299.05;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2360220.55;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1084134.02;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;81459116.15;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5288182.37;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2396367.84;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;7308767.85;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;373062.97;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;803410.67;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;714490.97;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;832923.58;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;52298158.73;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;61144542.34;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;55173234.97;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;62445598.33;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;58428473.97;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;56966309.11;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;55829521.55;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;58179290.23;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;59296159.0;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;54538419.04;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;56649769.2;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;49340881.78;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;184630931.8;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;199052672.29;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;189287387.48;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;363476214.32;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;262070253.55;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;232273016.91;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;237910984.69;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;297321174.91;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;220256061.16;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;290134861.16;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;319023468.28;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;303746695.01;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19029712.66;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;17519321.83;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23776226.61;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;40534541.39;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;24183384.22;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;34943910.76;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20432671.72;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20028541.58;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20925291.68;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;17034309.87;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;29365407.93;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;18653614.78;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;56583399.54;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;68472105.79;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;55918011.19;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;93562603.91;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;50649476.57;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;60316668.96;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;70531832.07;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;38414492.36;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;41190388.45;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;53973512.0;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;44837007.12;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;55270680.07;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4456448.64;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3654702.4;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2529240.7;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;43470602.71;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;61380313.42;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;21289987.35;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;22252752.28;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;52076681.73;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;23106709.96;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;14017769.92;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8976087.03;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6764001.87;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;3109.85;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;15168.52;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;7262.39;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;585.08;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;13124.86;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;249.1;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;13341.99;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;164.53;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;41.87;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;854.72;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;647.91;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;55.86;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;722539.55;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1202122.36;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;841129.51;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;936595.07;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;856688.94;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;699667.05;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;749694.5;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;692049.83;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;580208.38;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;605864.99;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;664920.97;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;721385.5;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23496476.82;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;27986792.62;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;28751064.87;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;34146083.6;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;39144461.58;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;30926210.31;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;32016878.42;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;28531071.72;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23407894.13;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;22355584.69;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;26823790.6;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;26874569.84;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;80339244.74;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;80202458.77;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;77464452.21;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;150825202.56;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;85842803.96;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;84096323.38;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;91913813.71;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;157578173.16;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;111045526.69;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;182146964.97;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;208355606.72;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;195462387.09;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2685821.74;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2981131.18;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3368566.98;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4460322.45;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5485883.24;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3589820.82;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;19530327.12;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;11307619.57;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;12534601.73;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9558288.54;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7306960.55;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6018442.15;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);37777897.81;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);39533583.98;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);37941389.73;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);58539632.37;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);49555137.21;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);45323187.01;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);46405856.76;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);45096463.69;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);36700981.0;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);36461741.25;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);33743080.86;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);35778499.81;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;20532691.01;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;20224017.06;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;20236165.13;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;23123365.28;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;21174832.02;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;20688791.41;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;22488133.96;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;21735989.29;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18427381.5;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18219094.09;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18304540.54;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18388425.23;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1086164.81;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1136882.8;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1090850.6;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;2139448.04;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;963707.64;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1184299.01;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1121664.36;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1118088.46;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1113071.5;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1116184.94;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1049005.28;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1108127.0;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16159041.99;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;18172684.12;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16614374.0;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;33276819.05;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;27416597.55;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;23450096.59;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;22796058.44;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;22242385.94;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17160528.0;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17126462.22;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;14389535.04;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16281947.58;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);414570527.1;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);460167942.95;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);461930945.42;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);764855739.4;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);893381760.14;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);441476366.95;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);489691610.16;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);504391127.96;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);428054137.27;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);504165800.92;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);591209327.84;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);538684898.05;8;4;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);1144800.0;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);305200.0;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);457455.0;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);5900000.0;1;1;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);3450000.0;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);2265000.0;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);212495.0;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);3040000.0;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);200000.0;8;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);414570527.1;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);459023142.95;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);461625745.42;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);764398284.4;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);887481760.14;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);441476366.95;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);489691610.16;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);500941127.96;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);425789137.27;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);503953305.92;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);588169327.84;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);538484898.05;8;4;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);6861924.0;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);7479000.0;7;4;431490;sim;Porto Alegre;43
+2019-09-01;2020;RREO;4;RS;4314902;1483771;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);414570527.1;9;5;431490;sim;Porto Alegre;43
+2019-10-01;2020;RREO;4;RS;4314902;1483771;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);459023142.95;10;5;431490;sim;Porto Alegre;43
+2019-11-01;2020;RREO;4;RS;4314902;1483771;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);461625745.42;11;6;431490;sim;Porto Alegre;43
+2019-12-01;2020;RREO;4;RS;4314902;1483771;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);764398284.4;12;6;431490;sim;Porto Alegre;43
+2020-01-01;2020;RREO;4;RS;4314902;1483771;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);887481760.14;1;1;431490;sim;Porto Alegre;43
+2020-02-01;2020;RREO;4;RS;4314902;1483771;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);441476366.95;2;1;431490;sim;Porto Alegre;43
+2020-03-01;2020;RREO;4;RS;4314902;1483771;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);489691610.16;3;2;431490;sim;Porto Alegre;43
+2020-04-01;2020;RREO;4;RS;4314902;1483771;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);500941127.96;4;2;431490;sim;Porto Alegre;43
+2020-05-01;2020;RREO;4;RS;4314902;1483771;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);425789137.27;5;3;431490;sim;Porto Alegre;43
+2020-06-01;2020;RREO;4;RS;4314902;1483771;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);497091381.92;6;3;431490;sim;Porto Alegre;43
+2020-07-01;2020;RREO;4;RS;4314902;1483771;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);580690327.84;7;4;431490;sim;Porto Alegre;43
+2020-08-01;2020;RREO;4;RS;4314902;1483771;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);538484898.05;8;4;431490;sim;Porto Alegre;43

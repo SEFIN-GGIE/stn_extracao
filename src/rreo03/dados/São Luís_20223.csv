@@ -1,0 +1,327 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);328007406.43;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);325744708.22;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);344714274.61;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);312181184.2;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);382217300.15;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);424143391.57;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);360482875.36;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);352447327.2;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);392217479.17;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);379805011.67;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);399091658.43;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);387420526.04;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;111687412.94;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;82747110.78;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;84298374.18;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;84107356.02;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;92673513.85;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;93873687.69;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;76581095.84;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;82004960.5;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;82457812.65;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;80895723.06;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;85386098.96;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;96203590.15;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;38601851.47;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8527049.67;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;7381904.65;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;7624903.2;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;7658568.5;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8305163.04;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3385768.77;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4550214.36;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5130669.86;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3920415.2;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4243173.8;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;11627827.25;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;59003596.05;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;59830872.57;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;61029906.99;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;63237894.19;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;63648033.17;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;69359026.16;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;60998480.9;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;58682462.14;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;59825930.84;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;61291526.82;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;65669745.68;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;70210432.16;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4347675.86;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4503051.9;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5100739.25;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3969562.42;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4506180.83;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4467625.04;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3259858.89;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2994462.18;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3413485.18;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3751637.43;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4035308.35;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3932659.18;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8474786.23;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8548974.82;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9839961.02;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8505872.66;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;15865194.23;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;10652253.61;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5905678.66;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11452193.54;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9842291.98;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;10099605.34;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9821462.86;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8857945.85;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1259503.33;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1337161.82;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;945862.27;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;769123.55;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;995537.12;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1089619.84;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3031308.62;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4325628.28;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4245434.79;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1832538.27;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1616408.27;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1574725.71;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;2682828.82;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;13301211.13;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;13416371.71;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;12433477.54;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;19840910.64;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;13687084.09;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;11820121.12;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;14991913.1;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;13904406.13;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;12128285.94;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;15434290.07;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;13437968.33;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;2176757.1;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;4337241.11;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;4920808.38;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;6446954.05;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;13444357.19;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;12651081.57;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;8623087.16;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;11486038.39;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;21898811.61;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;16262437.87;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;17360297.71;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;13175896.29;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2101786.55;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4265830.44;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4873927.13;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;6420991.34;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;13250767.79;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;12452905.19;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;8613629.85;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;11425933.56;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;21838480.94;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;16225467.88;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;17286914.8;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;13152870.55;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;74970.55;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;71410.67;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;46881.25;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;25962.71;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;193589.4;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;198176.38;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;9457.31;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;60104.83;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;60330.67;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;36969.99;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;73382.91;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;23025.74;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;209670990.56;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;223640195.42;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;240216627.86;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;205389329.52;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;253014935.35;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;298035159.67;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;261713156.24;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;241943153.37;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;269549867.26;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;266466981.93;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;274212446.5;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;256406335.17;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;75131578.04;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;60070093.78;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;47175291.57;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;52569017.57;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;68272784.1;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;101637374.32;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;71378228.91;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;99637988.72;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;60404591.6;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;71600830.31;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;79648778.52;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;74526631.8;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;57741178.99;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;68371838.96;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;60732647.26;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;67577149.16;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;69609123.45;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;73650371.32;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;69642594.25;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;53287761.98;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;63804963.75;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;69861208.27;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;62828480.17;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;77150678.71;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8871977.42;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;10415159.45;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5843569.21;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5248552.64;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3590606.24;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3323415.24;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9295042.77;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9011358.36;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;27206101.01;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;16721684.82;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;17129396.87;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12786628.77;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;60.4;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;338.85;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;12235.02;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;9687.47;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;903.27;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;1158.86;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;1909.85;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;1489.99;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;1491.15;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;525.28;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;1613.91;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;759.74;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;681692.4;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;573245.67;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;682070.56;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;702065.87;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;672568.76;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;529333.57;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;216550.77;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;604917.32;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;685309.21;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;696979.29;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;134406.52;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;982759.66;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;33698995.3;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;36470955.36;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;40376741.64;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;41200081.79;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;51935581.56;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;49209393.95;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;27935871.95;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;31588229.78;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;25018186.02;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;28217816.59;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;28959167.67;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;29557070.51;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;33545508.01;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;47738563.35;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;85394072.6;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;38082775.02;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;58933367.97;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;69684112.41;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;83242957.74;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;47811407.22;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;92429224.52;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;79367937.37;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;85510602.84;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;61401805.98;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1789417.01;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1718949.78;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1862092.48;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3804067.07;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3243583.12;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5896378.55;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1745415.0;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2021261.84;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4406581.52;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4051582.87;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6698525.19;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8196736.1;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);20098045.43;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);35061150.58;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);30016146.01;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);31545505.06;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);42134271.33;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);36760287.47;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);38305526.11;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);45401474.1;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);51335563.08;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);44588240.78;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);47697105.22;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);48807437.59;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;-2950770.67;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7175015.3;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7126983.36;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6324210.57;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;13705074.22;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7086365.37;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6136463.74;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7340987.11;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7340580.5;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5574256.23;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9484912.3;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7384949.62;6;3;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;357322.25;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;356082.66;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;393017.65;3;2;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;6246643.77;6;3;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;1704874.89;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;5195701.1;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;13181473.67;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;7237739.04;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;6263657.78;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;2086352.53;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;23048816.1;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;27886135.28;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;22889162.65;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;25221294.49;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28429197.11;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;29673922.1;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;30106865.23;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;32508703.23;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;30420491.26;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;31776245.51;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;31948535.14;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;33089491.67;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);307909361.0;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);290683557.64;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);314698128.6;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);280635679.14;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);340083028.82;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);387383104.1;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);322177349.25;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);307045853.1;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);340881916.09;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);335216770.89;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);351394553.21;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);338613088.45;6;3;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);1926097.0;3;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);-1926097.0;5;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);307909361.0;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);290683557.64;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);314698128.6;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);280635679.14;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);340083028.82;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);387383104.1;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);322177349.25;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);307045853.1;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);338955819.09;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);335216770.89;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);353320650.21;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);338613088.45;6;3;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);1926097.0;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);2610000.0;6;3;211130;sim;São Luís;21
+2021-07-01;2022;RREO;3;MA;2111300;1115932;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);307909361.0;7;4;211130;sim;São Luís;21
+2021-08-01;2022;RREO;3;MA;2111300;1115932;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);290683557.64;8;4;211130;sim;São Luís;21
+2021-09-01;2022;RREO;3;MA;2111300;1115932;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);314698128.6;9;5;211130;sim;São Luís;21
+2021-10-01;2022;RREO;3;MA;2111300;1115932;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);280635679.14;10;5;211130;sim;São Luís;21
+2021-11-01;2022;RREO;3;MA;2111300;1115932;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);340083028.82;11;6;211130;sim;São Luís;21
+2021-12-01;2022;RREO;3;MA;2111300;1115932;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);387383104.1;12;6;211130;sim;São Luís;21
+2022-01-01;2022;RREO;3;MA;2111300;1115932;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);322177349.25;1;1;211130;sim;São Luís;21
+2022-02-01;2022;RREO;3;MA;2111300;1115932;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);307045853.1;2;1;211130;sim;São Luís;21
+2022-03-01;2022;RREO;3;MA;2111300;1115932;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);338955819.09;3;2;211130;sim;São Luís;21
+2022-04-01;2022;RREO;3;MA;2111300;1115932;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);335216770.89;4;2;211130;sim;São Luís;21
+2022-05-01;2022;RREO;3;MA;2111300;1115932;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);351394553.21;5;3;211130;sim;São Luís;21
+2022-06-01;2022;RREO;3;MA;2111300;1115932;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);336003088.45;6;3;211130;sim;São Luís;21

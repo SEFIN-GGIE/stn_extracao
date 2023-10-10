@@ -1,0 +1,303 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);153291952.38;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);197467589.36;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);174409352.87;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);164283757.69;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);162729860.12;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);247525372.01;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);183408766.37;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);167051648.12;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);199283734.15;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);189662508.04;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);177783849.33;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);198538862.9;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;48848574.43;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;60271692.04;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;53712783.27;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;42035774.23;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;45886352.81;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;123007072.79;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;57498441.06;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;55814471.83;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;54982942.52;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;69136944.76;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;61257032.69;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;64599108.75;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;11579812.49;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6203827.5;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4702317.26;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4258849.66;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;10160472.52;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;79129887.57;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;15436222.57;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;15323324.71;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;14646140.38;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;24896064.44;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;18075639.04;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;16130693.58;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;27160599.25;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;29847894.19;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;28006664.08;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;23552911.04;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;23754879.56;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;27096893.02;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;27589073.93;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;26297264.98;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;27238088.82;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;28662384.6;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;29705689.19;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;29225971.68;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3618274.24;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2771704.28;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2605357.25;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3529178.02;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3506345.49;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4145202.64;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3697350.29;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3408749.33;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3908430.14;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3534124.06;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3821207.19;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4321798.49;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3911664.77;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;18974426.09;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2270612.94;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7238879.21;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5713091.58;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9722637.4;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7881602.04;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7706945.32;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5845708.43;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8048401.13;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5767360.31;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11960797.9;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2578223.68;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2473839.98;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;16127831.74;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3455956.3;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2751563.66;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2912452.16;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2894192.23;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3078187.49;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3344574.75;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3995970.53;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3887136.96;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2959847.1;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;2442594.13;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;13855652.55;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;14324073.17;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;12941117.79;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;9095689.2;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;9090245.79;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;9246938.88;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;9672625.8;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;9325694.13;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;9656244.29;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;9411179.3;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;9627582.0;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;2464674.82;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;4205225.39;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;1313446.1;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;2741749.51;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;2121741.98;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;2878433.13;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;2155390.18;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;24333.58;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;1110933.31;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;1664966.63;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;1227811.28;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;1767164.28;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;937593.73;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2867058.17;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;344506.33;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1161642.82;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;953317.78;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1647970.39;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1138120.47;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-790589.52;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;355414.29;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;385365.8;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;324265.63;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;420661.29;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1527081.09;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1338167.22;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;968939.77;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1580106.69;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1168424.2;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1230462.74;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1017269.71;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;814923.1;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;755519.02;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1279600.83;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;903545.65;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1346502.99;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;83085.85;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;84814.7;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;126114.64;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;83969.5;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;75883.64;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;128316.62;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;93239.4;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;59959.02;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;66114.29;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;66125.42;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;72867.62;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;70446.65;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;93905423.62;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;112907133.84;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;100537424.59;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;99483879.16;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;96696428.98;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;106777443.61;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;108906213.54;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;98108319.61;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;126986222.06;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;100204068.34;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;97384728.7;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;116302456.51;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;12257633.07;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21450941.0;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;13411866.45;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;14732132.25;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;11030582.23;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;10761547.05;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;13810570.47;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;10878556.06;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;14876384.73;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;10858746.49;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;9665885.8;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;8898703.15;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;28462538.84;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;27906058.38;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;30262434.18;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;25149583.48;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;23638887.79;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;25820435.31;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;24755401.06;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;21039355.9;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;31361075.27;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;27204458.84;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;23882812.02;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;35265473.69;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2111219.01;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2610166.57;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8264225.34;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;11872821.76;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12649512.44;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;15810166.12;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;13797223.69;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;11770203.0;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;11654468.78;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6533966.29;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6565812.18;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4170421.46;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;25429.75;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;22608.39;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;23189.57;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;4683.6;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;6618.18;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;6647.45;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;8571.94;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;7935.02;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;5860.28;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;6990.55;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;16401.02;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;159423.25;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;102546.67;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;102546.67;12;6;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;17427061.2;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;18269516.61;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;20371529.63;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19039902.3;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16988401.17;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;18380784.29;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;18746076.65;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15659315.43;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19583175.42;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;17850083.15;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15943182.91;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;22185963.85;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;33518995.08;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;42545296.22;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;28204179.42;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;28684755.77;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;32382427.17;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;35997863.39;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;37788369.73;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;38752954.2;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;49505257.58;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;37749823.02;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;41310634.77;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;45622471.11;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5547599.53;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6143070.84;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4395511.1;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6997267.5;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8853763.51;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5643860.07;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5508543.31;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3371938.28;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6811827.84;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8934158.6;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8430229.74;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6172104.71;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12606708.8;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15645726.83;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);20762924.59;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);20974605.55;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17657160.75;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);16634526.78;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15970381.05;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14485834.7;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15933360.54;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15374497.82;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14524185.67;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15901089.51;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2442594.13;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4949058.19;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9747474.05;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;8251100.69;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4812184.02;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4698769.36;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4598463.55;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4830886.08;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4867647.6;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4905440.36;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4946421.13;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4924415.07;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1572241.27;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1566514.21;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;623107.5;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;2393112.39;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;3379856.67;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1455998.31;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;897564.16;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;915738.7;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;671986.24;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1548225.1;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1551582.44;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1277870.29;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8591873.4;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9130154.43;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10392343.04;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10330392.47;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9465120.06;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10479759.11;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10474353.34;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8739209.92;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10393726.7;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8920832.36;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8026182.1;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9698804.15;10;5;510340;sim;Cuiabá;51
+2018-11-01;2019;RREO;5;MT;5103403;607153;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);140685243.58;11;6;510340;sim;Cuiabá;51
+2018-12-01;2019;RREO;5;MT;5103403;607153;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);181821862.53;12;6;510340;sim;Cuiabá;51
+2019-01-01;2019;RREO;5;MT;5103403;607153;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);153646428.28;1;1;510340;sim;Cuiabá;51
+2019-02-01;2019;RREO;5;MT;5103403;607153;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);143309152.14;2;1;510340;sim;Cuiabá;51
+2019-03-01;2019;RREO;5;MT;5103403;607153;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);145072699.37;3;2;510340;sim;Cuiabá;51
+2019-04-01;2019;RREO;5;MT;5103403;607153;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);230890845.23;4;2;510340;sim;Cuiabá;51
+2019-05-01;2019;RREO;5;MT;5103403;607153;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);167438385.32;5;3;510340;sim;Cuiabá;51
+2019-06-01;2019;RREO;5;MT;5103403;607153;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);152565813.42;6;3;510340;sim;Cuiabá;51
+2019-07-01;2019;RREO;5;MT;5103403;607153;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);183350373.61;7;4;510340;sim;Cuiabá;51
+2019-08-01;2019;RREO;5;MT;5103403;607153;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);174288010.22;8;4;510340;sim;Cuiabá;51
+2019-09-01;2019;RREO;5;MT;5103403;607153;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);163259663.66;9;5;510340;sim;Cuiabá;51
+2019-10-01;2019;RREO;5;MT;5103403;607153;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);182637773.39;10;5;510340;sim;Cuiabá;51

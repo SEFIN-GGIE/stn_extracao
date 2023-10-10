@@ -1,0 +1,336 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);699841433.39;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);558105331.35;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);591308840.56;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);557280724.5;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);576333578.13;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);746557022.75;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);516737262.26;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);819631753.28;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);618695238.0;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);525132046.37;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);591422686.35;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);574979382.53;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;194791201.26;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;180963764.0;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;182784982.1;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;220158313.35;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;232080788.98;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;283907074.47;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;184620183.95;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;427889338.94;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;254194204.25;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;180318446.38;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;192971451.67;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;195237473.4;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;40154057.66;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;35714120.81;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;37254469.03;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;62117670.83;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;63113060.74;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;66980912.66;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;51955866.57;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;243818851.75;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;97678667.81;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;43886195.21;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;48744922.98;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;50636805.38;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;82515743.28;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;80842157.59;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;89230262.06;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;95682079.4;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;102284569.83;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;124063526.51;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;80272069.56;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;86732424.4;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;92669109.14;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;87733324.2;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;87708104.97;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;90775991.12;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;15836715.14;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;20999002.35;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;21401921.91;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;21535279.9;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;21887585.52;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;31263913.98;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;17664275.39;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;16702162.09;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;19645190.46;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;17305074.21;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;19383916.97;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;20495248.4;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;19893297.92;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;18411128.61;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;18398533.31;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;19126264.28;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;18775710.81;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;39011585.46;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;17759458.1;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;19012804.52;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;19176018.35;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;16612450.35;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;21881620.11;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;18424621.68;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;36391387.26;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;24997354.64;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;16499795.79;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;21697018.94;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;26019862.08;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;22587135.86;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;16968514.33;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;61623096.18;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;25025218.49;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14781402.41;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;15252886.64;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14904806.82;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;32002558.84;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;29826188.59;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;30023661.5;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;29564547.83;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;37881608.19;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;57480315.47;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;23373899.84;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;33972988.34;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;31108961.51;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;33691609.04;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;31609705.43;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;35612346.51;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;5158291.89;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;4506219.1;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;3615637.46;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;3625653.55;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;7349754.82;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;6219839.87;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;6033643.65;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;3571311.44;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;6485330.6;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;5348162.92;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;6985831.63;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;8122708.46;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4124378.96;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3249393.53;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;465368.37;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2014751.48;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3183449.35;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3755434.41;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2597140.09;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2076877.81;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3267493.68;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3964695.51;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5515204.35;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;6307740.43;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1033912.93;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1256825.57;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3150269.09;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1610902.07;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4166305.47;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2464405.46;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3436503.56;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1494433.63;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3217836.92;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1383467.41;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1470627.28;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1814968.03;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;27413.33;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;122632.18;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;133055.08;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;358962.86;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;150983.17;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;151608.81;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;21981.14;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;73779.84;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;1257.25;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;5065049.14;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;7983617.38;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;5577180.72;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;454767429.03;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;332380178.52;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;365639373.44;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;294105919.54;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;286679884.09;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;387093154.97;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;293764704.07;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;343494144.05;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;310694631.65;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;293533022.19;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;344531105.32;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;321495885.7;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;83901165.55;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;53296042.27;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;42930431.49;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;57767031.7;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;76565825.18;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;114165559.06;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;82937961.15;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;108710638.28;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;72866456.79;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;76176359.26;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;91553494.53;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;76385650.14;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;49374279.51;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;60248950.85;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;68967334.93;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;65424086.62;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;68217132.76;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;104688835.98;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;53207747.43;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;67759321.05;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;77908209.96;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;57193356.7;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;69097130.55;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;72997961.87;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;36103864.75;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;33020701.15;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;29304351.28;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;20570780.71;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8708102.49;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7225768.79;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;15787589.25;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;28154590.89;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12826797.51;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;14632529.88;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;21642167.83;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;28497263.26;6;3;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;2421.22;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;1530.47;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;210.99;11;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;90.06;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;6.92;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;67.94;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;13.96;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;42064.31;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;75.27;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;497942.24;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;575878.5;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;676438.17;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;774156.39;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;848608.62;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;892516.38;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;737084.77;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;602936.17;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;715941.08;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;718055.7;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;694041.53;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;636655.51;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;42811361.25;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;43773102.87;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;46270642.55;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;47924154.66;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;52654095.23;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;65581869.96;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;63787336.83;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;63916639.88;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;54966011.87;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;60302501.67;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;64720725.91;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;58984476.35;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;242078815.73;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;141465502.88;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;177487753.8;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;101644178.99;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;79685908.82;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;94538604.8;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;77306894.58;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;74350010.86;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;91411146.5;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;84510205.02;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;96781480.66;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;83993803.3;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;13094539.04;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10306348.96;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9112130.98;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9467327.37;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;12190558.88;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;11705029.16;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8922849.61;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10630190.67;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;16210852.74;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7175756.7;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7340974.92;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8933787.74;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);44829245.24;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);45959518.65;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);45991744.52;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);45802595.77;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);49568663.27;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);81818638.22;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);47395493.77;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);58257793.13;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);49935360.91;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);46824691.01;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);51882287.4;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);52160761.67;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16794516.88;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16155674.11;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;17004696.89;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16575137.07;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18290774.32;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;42323158.87;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16859015.17;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16927929.8;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16719060.59;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16728095.83;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14925018.31;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18341191.77;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;857218.29;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;375530.13;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;610852.37;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;319941.66;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;409913.06;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;884421.15;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;2384.18;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;284364.78;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;352805.8;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;352532.19;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;351489.45;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;351174.08;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;27177510.07;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;29428314.41;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28376195.26;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28907517.04;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;30867975.89;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;38611058.2;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;30534094.42;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;41045498.55;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;32863494.52;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;29744062.99;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;36605779.64;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;33468395.82;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);655012188.15;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);512145812.7;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);545317096.04;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);511478128.73;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);526764914.86;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);664738384.53;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);469341768.49;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);761373960.15;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);568759877.09;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);478307355.36;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);539540398.95;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);522818620.86;6;3;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);655012188.15;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);512145812.7;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);545317096.04;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);511478128.73;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);526764914.86;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);664738384.53;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);469341768.49;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);761373960.15;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);568759877.09;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);478307355.36;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);539540398.95;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);522818620.86;6;3;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);1000000.0;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);500000.0;1;1;292740;sim;Salvador;29
+2020-07-01;2021;RREO;3;BA;2927408;2886698;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);655012188.15;7;4;292740;sim;Salvador;29
+2020-08-01;2021;RREO;3;BA;2927408;2886698;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);512145812.7;8;4;292740;sim;Salvador;29
+2020-09-01;2021;RREO;3;BA;2927408;2886698;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);545317096.04;9;5;292740;sim;Salvador;29
+2020-10-01;2021;RREO;3;BA;2927408;2886698;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);511478128.73;10;5;292740;sim;Salvador;29
+2020-11-01;2021;RREO;3;BA;2927408;2886698;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);526764914.86;11;6;292740;sim;Salvador;29
+2020-12-01;2021;RREO;3;BA;2927408;2886698;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);663738384.53;12;6;292740;sim;Salvador;29
+2021-01-01;2021;RREO;3;BA;2927408;2886698;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);468841768.49;1;1;292740;sim;Salvador;29
+2021-02-01;2021;RREO;3;BA;2927408;2886698;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);761373960.15;2;1;292740;sim;Salvador;29
+2021-03-01;2021;RREO;3;BA;2927408;2886698;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);568759877.09;3;2;292740;sim;Salvador;29
+2021-04-01;2021;RREO;3;BA;2927408;2886698;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);478307355.36;4;2;292740;sim;Salvador;29
+2021-05-01;2021;RREO;3;BA;2927408;2886698;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);539540398.95;5;3;292740;sim;Salvador;29
+2021-06-01;2021;RREO;3;BA;2927408;2886698;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);522818620.86;6;3;292740;sim;Salvador;29

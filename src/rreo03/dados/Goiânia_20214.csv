@@ -1,0 +1,337 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);504552953.4;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);503334934.63;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);396703286.01;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);695851822.76;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);430990220.69;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);694905942.91;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);474023658.97;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);429849741.41;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);449963745.34;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);454731757.63;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);530662012.93;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);591161406.47;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;143680760.36;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;141237263.46;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;144233597.32;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;218815468.28;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;168469335.82;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;411336881.8;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;167062850.67;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;154114247.08;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;153878964.29;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;156860250.29;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;191746190.92;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;185877105.53;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;39370050.85;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;36112256.89;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;37053454.39;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;71903205.22;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;59748618.25;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;302159713.05;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;54184068.37;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;45432829.18;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;43423158.94;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;42981860.94;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;53710972.32;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;56137471.8;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;64691143.27;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;60150939.86;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;64917712.97;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;71386014.63;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;75038437.12;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;62989459.15;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;63797650.77;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;62633753.97;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;60607523.85;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;65693716.35;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;80045054.26;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;75724085.92;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;16182184.41;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;17610401.69;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;15033152.99;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;27618218.43;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;14412681.97;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;14775586.19;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;17181963.02;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;15440137.32;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;16087259.68;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;21171590.06;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;24126516.2;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;21623866.96;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;18017654.6;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;22195962.38;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;22077738.0;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;41514472.01;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9691921.35;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24733227.97;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;25153243.7;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;20531334.1;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;29453967.51;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;22512332.4;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;28133669.39;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;25095626.09;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;5419727.23;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;5167702.64;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;5151538.97;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;6393557.99;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;9577677.13;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;6678895.44;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;6745924.81;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;10076192.51;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4307054.31;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4500750.54;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;5729978.75;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7296054.76;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;32829401.06;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;32376500.88;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;31742032.82;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;51019005.98;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;25455164.03;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;33037417.93;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;34297296.59;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;31847548.73;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;30495902.79;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;34827797.77;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;42166539.36;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;38546092.2;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;14840924.36;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;31382904.86;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;-56393635.64;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;6202679.43;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;6200133.35;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;5608302.05;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;6775965.91;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;6949343.74;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;8774551.15;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;8429116.78;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;10470706.69;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;10822437.97;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1671802.93;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2909019.78;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-61051183.77;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1338999.66;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1286866.35;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;651478.08;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1725839.81;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1707025.75;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3719624.84;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3383960.02;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4629456.67;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4882653.91;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;13169121.43;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;28473885.08;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4657548.13;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4863679.77;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4913267.0;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4956823.97;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5050126.1;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5242317.99;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5054926.31;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5045156.76;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5841250.02;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5939784.06;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;2266018.13;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;2258548.5;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;2259855.5;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;370869.85;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;351298.25;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;2282666.14;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;1716917.23;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;1746782.52;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;1745767.49;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;1759070.2;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;1740951.8;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;1790902.68;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;299176845.71;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;288435169.11;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;266520160.24;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;398362711.7;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;226381495.22;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;228905383.31;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;256451837.24;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;228918277.65;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;248422384.9;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;245556087.27;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;273924633.8;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;337332815.19;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20034201.35;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;26957948.13;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;35730718.42;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;53277260.89;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;38704381.88;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;50731631.19;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;34004346.51;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;35548967.65;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;42724964.12;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;36955396.18;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;50488420.44;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;40367103.02;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;66506512.44;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;54585100.99;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;64032602.52;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;69415149.06;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;59576007.28;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;53619665.32;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;68452792.07;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;56204386.97;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;61928373.85;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;69541736.47;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;64858842.32;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;83764440.26;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;37110829.09;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;41058113.59;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;41242170.5;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;35334171.13;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;16183870.87;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;17447191.54;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;19476841.18;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;13371819.68;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;13490097.36;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;19227048.47;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;28276147.45;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;63628194.74;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;30921.79;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;122859.04;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;46877.04;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;86682.43;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;63855.15;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;3189.61;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;45931.18;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;8668.49;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;6013.1;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;5148.45;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;1621.35;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;1176768.64;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;433784.55;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;477548.8;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;462350.02;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;653567.78;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;485868.6;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;468151.55;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;494787.82;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;560660.91;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;586361.09;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;407712.07;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;549636.57;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;438590.0;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;35891422.6;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;68315946.32;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;45767114.58;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;48912385.09;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;43871376.38;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;44993017.06;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;42154140.66;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;47932000.62;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;47666793.86;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;45872150.59;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;49770889.39;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;53409531.16;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;139169173.89;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;96917652.24;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;79238327.16;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;190683495.32;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;67496135.06;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;61642537.04;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;91822997.82;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;75291773.33;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;82019781.52;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;73546895.04;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;79979076.28;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;94548187.37;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;11759003.78;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7644547.82;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8341275.77;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;21081087.52;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4132794.02;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;13735291.68;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7718791.33;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6273541.69;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6646174.72;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7299435.32;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10612990.36;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;16792052.9;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);41243736.2;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);39156658.81;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);44815963.02;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);50289361.28;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);33850976.46;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);47760343.03;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);41022970.33;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);37147543.32;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);39189403.55;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);44726304.47;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);51394209.79;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);57230007.84;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15644206.27;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;13798573.98;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15687223.84;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;20781671.83;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10747008.65;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15733889.51;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15911590.1;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15511158.07;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14882305.21;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19357903.67;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19711650.65;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19583448.59;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;776280.07;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;717770.73;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;825795.51;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;919946.13;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;101171.07;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7572487.7;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;616440.5;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;497484.51;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;559936.46;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;141979.8;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;6500940.94;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;-228460.07;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;24823249.86;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;24640314.1;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28302943.67;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28587743.32;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;23002796.74;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;24453965.82;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;24494939.73;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;21138900.74;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;23747161.88;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;25226421.0;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;25181618.2;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;37875019.32;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);463309217.2;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);464178275.82;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);351887322.99;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);645562461.48;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);397139244.23;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);647145599.88;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);433000688.64;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);392702198.09;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);410774341.79;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);410005453.16;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);479267803.14;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);533931398.63;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);463309217.2;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);464178275.82;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);351887322.99;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);645562461.48;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);397139244.23;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);647145599.88;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);433000688.64;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);392702198.09;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);410774341.79;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);410005453.16;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);479267803.14;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);533931398.63;8;4;520870;sim;Goiânia;52
+2020-09-01;2021;RREO;4;GO;5208707;1536097;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);463309217.2;9;5;520870;sim;Goiânia;52
+2020-10-01;2021;RREO;4;GO;5208707;1536097;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);464178275.82;10;5;520870;sim;Goiânia;52
+2020-11-01;2021;RREO;4;GO;5208707;1536097;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);351887322.99;11;6;520870;sim;Goiânia;52
+2020-12-01;2021;RREO;4;GO;5208707;1536097;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);645562461.48;12;6;520870;sim;Goiânia;52
+2021-01-01;2021;RREO;4;GO;5208707;1536097;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);397139244.23;1;1;520870;sim;Goiânia;52
+2021-02-01;2021;RREO;4;GO;5208707;1536097;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);647145599.88;2;1;520870;sim;Goiânia;52
+2021-03-01;2021;RREO;4;GO;5208707;1536097;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);433000688.64;3;2;520870;sim;Goiânia;52
+2021-04-01;2021;RREO;4;GO;5208707;1536097;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);392702198.09;4;2;520870;sim;Goiânia;52
+2021-05-01;2021;RREO;4;GO;5208707;1536097;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);410774341.79;5;3;520870;sim;Goiânia;52
+2021-06-01;2021;RREO;4;GO;5208707;1536097;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);410005453.16;6;3;520870;sim;Goiânia;52
+2021-07-01;2021;RREO;4;GO;5208707;1536097;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);479267803.14;7;4;520870;sim;Goiânia;52
+2021-08-01;2021;RREO;4;GO;5208707;1536097;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);533931398.63;8;4;520870;sim;Goiânia;52

@@ -1,0 +1,368 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2264241829.76;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);4829030671.57;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);3058660202.89;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2229837287.49;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2849917205.01;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);3257014748.06;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2522337964.92;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);4483022092.53;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2478394099.26;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2290127425.72;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2919123908.45;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2657389531.87;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1164914983.92;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1012684733.76;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1052298553.07;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1034412732.07;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1001484075.29;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1458162529.04;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1243661509.73;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;2523363215.25;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1029010465.07;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1085955015.01;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1100737938.25;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1101695012.88;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;233396695.22;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;216307093.57;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;215053601.53;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;217733320.22;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;211427083.75;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;288687863.81;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;303759735.46;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1581145060.63;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;265804590.45;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;245589810.62;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;257302461.19;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;265339028.33;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;678967049.25;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;531827878.32;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;570366321.83;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;548967654.38;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;547130828.85;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;850276305.31;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;654788666.35;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;526030576.11;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;519766653.94;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;556022027.8;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;566848503.96;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;567492223.97;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;100667768.34;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;114196019.61;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;115411465.38;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;118152430.79;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;100726221.76;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;103301010.06;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;71832936.5;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;76156428.67;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;83816165.52;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;87004286.12;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;91150455.01;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;86661854.28;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;109715201.12;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;111786973.59;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;114410939.34;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;112909692.2;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;108060266.82;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;193254301.57;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;155887818.24;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;136905546.91;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;109089787.7;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;128552117.08;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;135424359.26;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;136479317.75;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;42168269.99;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;38566768.67;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;37056224.99;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;36649634.48;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;34139674.11;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;22643048.29;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;57392353.18;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;203125602.93;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;50533267.46;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;68786773.39;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;50012158.83;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;45722588.55;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;98184886.34;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;114628635.8;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;115329679.09;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;122444679.82;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;120604459.72;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;199477620.6;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;123389883.96;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;136766489.79;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;117553598.5;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;136769766.07;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;138731597.75;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;147610399.49;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;24149305.89;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;2687934376.93;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;951705768.82;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;59468846.76;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;621402806.92;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;81188036.76;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;60874350.78;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;407865633.43;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;112058575.71;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;100038094.83;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;562667751.68;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;142329369.05;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;12036654.64;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;17065110.94;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;29579337.33;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;34011693.95;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;41690157.85;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;63320109.28;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;51256436.9;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;64491436.05;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;86857149.27;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;79983950.93;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;105321494.23;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;98539124.82;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;12112651.25;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2670869265.99;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;922126431.49;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;25457152.81;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;579712649.07;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;17867927.48;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;9617913.88;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;343374197.38;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;25201426.44;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;20054143.9;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;457346257.45;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;43790244.23;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3ReceitaIndustrial;Receita Industrial;148447.67;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3ReceitaIndustrial;Receita Industrial;160982.47;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3ReceitaIndustrial;Receita Industrial;148641.0;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3ReceitaIndustrial;Receita Industrial;188190.91;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3ReceitaIndustrial;Receita Industrial;193168.13;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3ReceitaIndustrial;Receita Industrial;205511.66;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3ReceitaIndustrial;Receita Industrial;175062.52;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3ReceitaIndustrial;Receita Industrial;156275.1;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3ReceitaIndustrial;Receita Industrial;202707.05;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3ReceitaIndustrial;Receita Industrial;346204.82;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3ReceitaIndustrial;Receita Industrial;403509.5;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3ReceitaIndustrial;Receita Industrial;306994.64;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;6785740.97;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;6915134.99;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;8249371.76;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;7215841.03;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;13180626.91;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;8747479.4;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;8220252.57;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;8457754.87;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;5146007.51;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;7110865.85;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;6724412.52;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;6584841.04;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;878993313.72;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;950416183.88;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;878780825.79;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;950836541.72;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;988994594.35;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;1398934970.47;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;984372964.19;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;1354248830.26;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;1166456859.28;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;916178538.66;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;1058679439.14;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;1205579765.38;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;48084209.93;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;38444860.03;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;30192186.59;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33644171.26;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;43694581.82;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;65047918.28;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;45682066.5;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;63768312.79;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;38658938.62;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;45824531.39;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;50975218.25;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;47697044.34;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;210340006.88;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;239493975.82;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;234342482.36;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;251246057.78;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;263559791.24;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;346607202.18;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;202055480.47;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;219747495.18;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;183084184.99;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;197254385.85;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;227036077.15;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;225012166.33;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;34168935.5;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;32892604.04;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;23553111.51;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;21626442.58;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;25174767.2;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;26861370.08;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;127699257.03;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;374272143.1;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;123018386.96;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;102296469.88;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;55690722.15;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;36634957.35;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;268744.31;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;4202.8;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;26698.17;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;63653.86;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;218600.1;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;59475.6;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;16590.29;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;18878.27;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;55059.81;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;49484.2;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;19613.31;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;1195756.67;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;607641.55;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;570398.61;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;570398.61;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;-12909639.76;10;5;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;7167094.19;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5719060.39;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;7227378.93;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;7583097.34;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;7159544.81;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8260010.52;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5884043.68;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5661023.36;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5758967.03;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5681510.44;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;3908396.24;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4482373.94;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;261299056.99;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;297799652.53;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;283897487.04;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;305668950.33;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;328511630.62;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;302233936.83;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;331697119.05;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;351950901.86;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;310211075.88;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;292497077.91;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;319788847.51;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;303348931.72;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;317057624.37;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;335491429.66;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;298971082.58;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;343913808.33;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;320675678.56;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;649865056.98;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;271338407.17;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;338830075.7;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;505670245.99;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;272575078.99;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;401260564.53;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;587208535.03;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;91065151.25;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;56290623.74;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;52147363.36;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;55270455.18;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;104057473.69;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;110298600.13;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;101643941.17;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;52163893.83;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;47965886.14;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;43728940.48;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;51179259.61;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;53283149.39;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);155157155.73;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);148044523.87;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);144566110.76;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);151587197.56;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);157878080.9;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);259466148.9;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);164663986.32;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);231508536.03;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);147827356.82;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);160909257.23;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);158975144.48;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);165779614.42;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;60239852.39;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;77487810.71;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;78243799.14;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;83155128.8;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;81195809.85;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;158217282.58;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;78158982.32;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;90377584.1;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;69756826.44;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;79143394.19;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;83172255.76;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;91060015.06;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;38390853.23;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7245772.57;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7253940.14;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;5599384.22;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;8720814.06;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;15820492.2;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;9745466.07;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;8138217.8;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7721005.14;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;11155249.63;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7767007.96;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;11090004.12;6;3;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;492050.36;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;299163.63;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;234417.78;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;389337.07;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;509875.37;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;625135.53;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;56526450.11;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;63310940.59;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;59068371.48;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;62832684.54;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;67961456.99;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;85428374.12;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;76267487.57;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;132693570.5;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;70115107.46;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;70221276.34;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;67526005.39;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;63004459.71;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2109084674.03;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);4680986147.7;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2914094092.13;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2078250089.93;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2692039124.11;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2997548599.16;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2357673978.6;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);4251513556.5;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2330566742.44;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2129218168.49;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2760148763.97;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2491609917.45;6;3;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);1366107.0;8;4;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);29911972.0;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);2400000.0;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);700000.0;12;6;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);1488000.0;3;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);401433.43;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);16123306.0;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2109084674.03;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);4679620040.7;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2914094092.13;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2048338117.93;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2689639124.11;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2996848599.16;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2357673978.6;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);4251513556.5;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2329078742.44;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2129218168.49;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2759747330.54;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2475486611.45;6;3;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);35332821.0;12;6;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);2000000.0;6;3;330455;sim;Rio de Janeiro;33
+2021-07-01;2022;RREO;3;RJ;3304557;6775561;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2109084674.03;7;4;330455;sim;Rio de Janeiro;33
+2021-08-01;2022;RREO;3;RJ;3304557;6775561;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);4679620040.7;8;4;330455;sim;Rio de Janeiro;33
+2021-09-01;2022;RREO;3;RJ;3304557;6775561;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2914094092.13;9;5;330455;sim;Rio de Janeiro;33
+2021-10-01;2022;RREO;3;RJ;3304557;6775561;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2048338117.93;10;5;330455;sim;Rio de Janeiro;33
+2021-11-01;2022;RREO;3;RJ;3304557;6775561;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2689639124.11;11;6;330455;sim;Rio de Janeiro;33
+2021-12-01;2022;RREO;3;RJ;3304557;6775561;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2961515778.16;12;6;330455;sim;Rio de Janeiro;33
+2022-01-01;2022;RREO;3;RJ;3304557;6775561;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2357673978.6;1;1;330455;sim;Rio de Janeiro;33
+2022-02-01;2022;RREO;3;RJ;3304557;6775561;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);4251513556.5;2;1;330455;sim;Rio de Janeiro;33
+2022-03-01;2022;RREO;3;RJ;3304557;6775561;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2329078742.44;3;2;330455;sim;Rio de Janeiro;33
+2022-04-01;2022;RREO;3;RJ;3304557;6775561;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2129218168.49;4;2;330455;sim;Rio de Janeiro;33
+2022-05-01;2022;RREO;3;RJ;3304557;6775561;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2759747330.54;5;3;330455;sim;Rio de Janeiro;33
+2022-06-01;2022;RREO;3;RJ;3304557;6775561;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2473486611.45;6;3;330455;sim;Rio de Janeiro;33

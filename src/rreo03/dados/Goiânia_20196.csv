@@ -1,0 +1,313 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);381471355.02;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);551836208.99;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);360003694.28;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);435690025.56;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);396651533.69;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);367867061.37;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);424424339.89;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);384160464.42;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);398054328.98;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);423120230.85;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);406109488.22;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);595964890.5;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;148084700.26;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;316020748.47;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;121936614.52;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;154478204.84;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;128237595.23;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;122980371.74;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;135630540.56;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;133771171.01;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;133299294.7;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;131471196.13;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;155090773.78;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;157330147.51;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;56093426.09;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;231465952.19;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;38035939.35;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;47263020.1;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;35599820.62;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;35200712.36;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;35846808.63;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;39560789.26;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;36600497.48;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;36939268.18;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;50305934.04;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;45705584.28;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;57093717.95;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;51127026.92;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;50268407.39;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;66199024.34;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;55571105.79;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;57005313.54;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;56166306.05;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;59255480.5;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;58006907.49;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;58673857.22;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;68622943.16;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;62823232.24;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9213978.28;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11507396.86;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10731735.9;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11441662.85;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11996504.18;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9598608.23;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11929429.49;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11290081.2;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10594573.4;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;12092454.57;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10945728.41;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;17401264.2;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;10977813.52;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;16010987.27;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;17846155.25;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;22254765.86;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;20315576.94;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;17541425.27;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;27101849.81;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;19552077.98;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;20187825.62;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;20673426.9;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;20910697.33;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;27525268.15;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14705764.42;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;5909385.23;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;5054376.63;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7319731.69;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4754587.7;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3634312.34;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4586146.58;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4112742.07;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7909490.71;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3092189.26;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4305470.84;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3874798.64;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;24451666.44;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;23763594.04;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;22628425.87;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;43328699.07;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;28791162.34;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;28735772.15;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;34536463.46;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;32977331.58;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;33184067.3;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;22505206.23;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;27787994.41;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;44390241.51;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;18415962.49;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;10097355.24;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;11357470.13;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;16357046.16;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;20988191.54;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;15366042.76;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;16993929.33;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;5042693.21;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;18478139.62;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;19995502.28;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;-2537416.8;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;63074213.8;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;15201739.24;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4392772.29;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5348300.78;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9004947.52;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;14977736.25;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;14987754.81;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;10699575.86;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1872869.05;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;15317144.98;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;16622605.97;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-3054819.88;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;14004364.29;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3214223.25;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5704582.95;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;6009169.35;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;7352098.64;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;6010455.29;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;378287.95;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;6294353.47;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3169824.16;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3160994.64;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3372896.31;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;517403.08;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;49069849.51;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;317197.41;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;367671.3;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;312518.75;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;1145087.43;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;2849142.49;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;2888648.71;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;2947862.75;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;1861846.0;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;313631.99;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;1820671.78;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;1146898.5;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;1859112.26;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;180971923.69;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;193205541.89;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;193411657.48;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;204436742.47;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;203530986.75;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;185688008.57;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;223587065.67;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;201033145.1;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;203031178.79;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;228108448.39;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;220957247.01;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;308922530.27;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;35206149.43;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;38671847.18;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;28955278.36;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;28249061.04;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;36252747.5;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;28556209.65;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;39050509.89;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;28504209.54;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;25372950.2;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23359095.76;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;31701635.49;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;54046055.21;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;45591330.73;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;45957415.76;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;46402565.39;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;58451136.35;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;41950661.59;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;45960734.09;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;57533738.91;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;49047735.52;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;50816275.88;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;60362843.77;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;50891064.61;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;65503014.07;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;13368765.28;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;16381624.15;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;21904043.65;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;25479149.33;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;24854661.18;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;23194509.51;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;26165498.0;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;26116387.73;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;29787130.14;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;40855228.59;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;33976817.28;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;23768145.8;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;8035.24;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;1689.81;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;602.29;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;6836.88;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;6401.59;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;23683.95;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;2136.36;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;498.72;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;12556.47;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;73812.81;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;14689.18;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;39046.9;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;481214.24;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;382909.04;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;405305.53;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;389820.31;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;395204.34;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;386952.99;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;405658.09;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;714166.71;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;434723.77;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;443086.64;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;383572.39;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;427095.56;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;33982155.47;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;34079791.79;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;31470491.31;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;31933496.23;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;38140434.87;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;31635481.96;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;32675196.0;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;36411218.37;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;33473362.87;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;39374084.75;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;36038485.74;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;43332618.55;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;52334273.3;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;57730264.16;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;64273370.95;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;59927242.33;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;61930875.68;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;55930436.42;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;67754328.42;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;60238928.51;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;63134179.46;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;63640296.07;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;67950982.32;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;121806554.18;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9229904.73;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8381298.05;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10357007.53;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;15944245.59;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;12254455.34;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;12208217.44;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10728478.12;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9474277.52;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9748016.58;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;19219206.04;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3663991.32;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;20388645.15;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);30795063.65;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);35109942.16;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);33186616.42;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);41322392.96;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);35240828.86;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);34418809.47;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);36543767.21;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);39152144.43;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);39695759.17;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);43924474.7;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);41568571.77;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);47230865.88;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10458069.58;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14158771.64;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12929678.95;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14766273.5;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;13854396.46;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14072215.4;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14224249.48;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;13987429.5;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14339787.66;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14327406.48;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14498730.33;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;17727257.3;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1405895.08;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;672073.34;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;723378.43;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;4040918.7;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;694497.17;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;722176.06;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;800816.01;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;4288115.29;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;4071244.24;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;4578254.7;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;3676285.67;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;3979159.1;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;18931098.99;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;20279097.18;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;19533559.04;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;22515200.76;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;20691935.23;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;19624418.01;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;21518701.72;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;20876599.64;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;21284727.27;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;25018813.52;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;23393555.77;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;25524449.48;12;6;520870;sim;Goiânia;52
+2019-01-01;2019;RREO;6;GO;5208707;1495705;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);350676291.37;1;1;520870;sim;Goiânia;52
+2019-02-01;2019;RREO;6;GO;5208707;1495705;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);516726266.83;2;1;520870;sim;Goiânia;52
+2019-03-01;2019;RREO;6;GO;5208707;1495705;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);326817077.86;3;2;520870;sim;Goiânia;52
+2019-04-01;2019;RREO;6;GO;5208707;1495705;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);394367632.6;4;2;520870;sim;Goiânia;52
+2019-05-01;2019;RREO;6;GO;5208707;1495705;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);361410704.83;5;3;520870;sim;Goiânia;52
+2019-06-01;2019;RREO;6;GO;5208707;1495705;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);333448251.9;6;3;520870;sim;Goiânia;52
+2019-07-01;2019;RREO;6;GO;5208707;1495705;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);387880572.68;7;4;520870;sim;Goiânia;52
+2019-08-01;2019;RREO;6;GO;5208707;1495705;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);345008319.99;8;4;520870;sim;Goiânia;52
+2019-09-01;2019;RREO;6;GO;5208707;1495705;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);358358569.81;9;5;520870;sim;Goiânia;52
+2019-10-01;2019;RREO;6;GO;5208707;1495705;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);379195756.15;10;5;520870;sim;Goiânia;52
+2019-11-01;2019;RREO;6;GO;5208707;1495705;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);364540916.45;11;6;520870;sim;Goiânia;52
+2019-12-01;2019;RREO;6;GO;5208707;1495705;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);548734024.62;12;6;520870;sim;Goiânia;52

@@ -1,0 +1,410 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2606496133.42;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2437432725.73;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);3062284726.14;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);3230491132.22;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2498753787.63;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);3287509438.38;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2599016963.88;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);3154331313.55;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2855072267.18;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2700095027.08;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);3472768226.58;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);3317262512.31;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1636733414.97;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1602014912.53;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1528839476.18;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1609096601.2;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1543843274.88;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1672942703.85;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1678260848.92;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1897973799.08;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1665226477.19;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1621234880.11;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;2218323998.71;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1794399895.46;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;869748691.82;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;841496438.7;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;851507548.03;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;884363594.49;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;897950718.04;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;931900787.49;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;950318877.07;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;810517024.86;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;804499068.25;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;892547135.65;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;872255781.3;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;914377608.79;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;50285846.08;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;44571559.0;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;39527051.1;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;41440282.89;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;32403748.51;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;39340528.64;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;105340973.02;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;468074420.35;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;181770458.57;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;113550446.45;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;120013622.82;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;108335571.15;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;19127552.85;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;20364223.09;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;44207069.28;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;17389930.84;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;16863811.16;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;22881520.07;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;20537613.79;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;19305370.74;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;33818360.27;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;20499311.62;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;26485399.11;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;32151620.84;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;131285420.66;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;120915686.32;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;51066210.72;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;61473594.88;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;45210951.85;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;45245022.36;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;65033920.57;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;28382011.32;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;44310645.16;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;45883765.44;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;525984530.79;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;102641491.4;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;187062700.39;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;188799140.47;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;194200658.89;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;183893408.2;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;205026814.98;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;217454127.76;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;207567486.67;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;205729694.14;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;195655306.98;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;209814350.69;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;206533444.74;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;199845231.59;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;55804177.95;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;57206420.0;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;57449197.54;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;60582314.51;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;45783729.16;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;31190142.45;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;31684441.19;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;38620251.41;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;88489207.95;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;28066656.93;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;40657028.84;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;42805983.22;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;282650312.53;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;289941390.4;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;271988587.5;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;294433980.46;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;279044296.39;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;345103489.26;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;270509468.45;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;273268169.93;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;276758487.44;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;284245273.4;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;311357778.76;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;348529025.98;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;40768712.69;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;38720054.55;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;18893153.12;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;65519494.93;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;21559204.79;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;39827085.82;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;27268068.16;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;54076856.33;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;39924942.57;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;26627939.93;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;115036412.35;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;45713362.49;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;199611382.76;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;175673623.97;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;158261782.42;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;150405130.84;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;178420333.9;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;197207168.76;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;178852209.8;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;153432372.5;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;163220806.64;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;180060707.88;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;205010038.09;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;180404119.41;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;15981471.79;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;50804352.1;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;576078963.03;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;749595854.7;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;57025469.3;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;171819641.44;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;70530402.1;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;314557239.12;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;204588879.35;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;105926186.72;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;156704775.32;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;279790026.4;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;12359261.71;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;47518271.65;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;34155124.45;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;150259926.35;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;53734151.18;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;115128363.95;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;66118341.99;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;87900270.82;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;141016632.2;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;102696555.55;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;123336815.73;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;72090939.91;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3622210.08;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3286080.45;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;541923838.58;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;599335928.35;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3291318.12;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;56691277.49;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4412060.11;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;226656968.3;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;63572247.15;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3229631.17;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;33367959.59;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;207699086.49;6;3;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3ReceitaAgropecuaria;Receita Agropecuária;152.0;8;4;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3ReceitaAgropecuaria;Receita Agropecuária;5029.81;11;6;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3ReceitaIndustrial;Receita Industrial;231072.8;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3ReceitaIndustrial;Receita Industrial;330028.38;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3ReceitaIndustrial;Receita Industrial;296961.06;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3ReceitaIndustrial;Receita Industrial;288406.75;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3ReceitaIndustrial;Receita Industrial;159284.6;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3ReceitaIndustrial;Receita Industrial;299214.1;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3ReceitaIndustrial;Receita Industrial;259526.21;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3ReceitaIndustrial;Receita Industrial;205968.09;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3ReceitaIndustrial;Receita Industrial;305707.44;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3ReceitaIndustrial;Receita Industrial;354349.74;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3ReceitaIndustrial;Receita Industrial;248909.39;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3ReceitaIndustrial;Receita Industrial;269551.75;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;36888234.79;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;45037278.81;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;50373882.05;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;59989485.37;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;45995541.94;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;75465930.6;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;38398183.08;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;56481629.23;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;55216397.37;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;42811855.66;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;40581290.39;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;71959777.86;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;645794154.66;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;510096002.12;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;681557189.33;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;612517151.76;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;615129325.94;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;1019199592.72;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;576300443.5;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;643758651.86;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;635787605.58;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;699662051.37;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;784164880.61;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;905268138.02;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3CotaParteDoFPE;Cota-Parte do FPE;58570821.93;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3CotaParteDoFPE;Cota-Parte do FPE;72485243.71;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3CotaParteDoFPE;Cota-Parte do FPE;58352660.83;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3CotaParteDoFPE;Cota-Parte do FPE;64238837.57;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3CotaParteDoFPE;Cota-Parte do FPE;83097085.81;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3CotaParteDoFPE;Cota-Parte do FPE;86255879.45;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3CotaParteDoFPE;Cota-Parte do FPE;86907700.25;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3CotaParteDoFPE;Cota-Parte do FPE;120124775.42;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3CotaParteDoFPE;Cota-Parte do FPE;73247209.8;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3CotaParteDoFPE;Cota-Parte do FPE;86528230.32;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3CotaParteDoFPE;Cota-Parte do FPE;96612786.74;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3CotaParteDoFPE;Cota-Parte do FPE;200889616.25;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;24042104.97;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19030205.74;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;15288317.58;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;16822085.62;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21847290.91;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;32523959.14;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;22937862.5;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;31787327.14;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;22349170.17;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;22912265.72;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;25487609.12;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;53109133.21;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;23557.17;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;10962.83;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;70935.59;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;438540.65;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;48301.45;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;118608.06;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;67481.57;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;85908.09;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;62477.34;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;59542.46;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;54673.56;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;170014.92;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1002065.63;7;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;2004131.26;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;-8016525.04;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1002065.63;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;-1002065.63;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1002065.63;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1002065.63;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1670109.39;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1670109.39;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1002065.63;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1336087.51;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;606532.53;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;505962.06;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;610949.08;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;624659.6;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;598414.79;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;611791.43;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;740314.66;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;663924.36;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;750983.74;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;763772.24;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;406050.19;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1352478.73;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;227578929.21;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;50492188.21;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;230378859.11;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;183124824.6;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;198618218.52;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;203944022.98;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;189312632.48;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;175900426.14;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;208376985.68;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;260052762.06;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;296210290.94;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;124546902.7;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;333970143.22;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;367571439.57;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;374851335.88;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;355284728.76;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;309917948.83;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;696747397.29;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;275332386.41;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;314194225.08;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;329330669.46;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;327675369.18;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;364391404.43;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;523863904.7;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;71256401.65;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;53476375.82;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;66876472.07;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;48598501.6;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;58175527.26;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;150575186.91;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;56415350.27;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;87921653.67;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;130726393.61;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;50044995.6;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;67734334.07;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;85171003.41;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);424408914.89;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);262183034.26;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);413543101.96;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);360130830.76;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);403918681.04;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);455179208.32;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);404716668.84;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);406466377.77;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);497613812.63;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);502852767.2;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);519922632.04;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);346799290.05;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;177416414.83;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;153570060.29;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;156075837.71;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;129710845.46;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;157694424.2;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;153800974.44;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;157908408.21;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;151517999.03;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;160840657.19;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;152620990.22;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;180276788.5;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;178060592.95;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;19287402.36;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;17847545.56;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;17840520.94;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;14515430.53;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;17307410.48;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;34431527.57;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;17347871.45;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;17317648.15;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;19090574.89;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;19022299.5;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;18854455.9;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;18999352.14;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;126168.49;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;40273240.2;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;9247884.2;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;32779730.17;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;30298627.84;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;63002683.33;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;40147756.7;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;61730304.45;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;109305594.87;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;71156715.42;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;24581096.7;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;25192442.26;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;227578929.21;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;50492188.21;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;230378859.11;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;183124824.6;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;198618218.52;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;203944022.98;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;189312632.48;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;175900426.14;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;208376985.68;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;260052762.06;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;296210290.94;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;124546902.7;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2182087218.53;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2175249691.47;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2648741624.18;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2870360301.46;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2094835106.59;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2832330230.06;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2194300295.04;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2747864935.78;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2357458454.55;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2197242259.88;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2952845594.54;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2970463222.26;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);1663209.68;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);8566036.77;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);6239285.82;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);11211428.32;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);424382.82;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);12064617.89;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);640842.23;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);8585332.19;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);3112431.7;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);3206568.7;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);1263391.7;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);16487010.23;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2180424008.85;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2166683654.7;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2642502338.36;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2859148873.14;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2094410723.77;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2820265612.17;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2193659452.81;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2739279603.59;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2354346022.85;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2194035691.18;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2951582202.84;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);2953976212.03;6;3;53;sim;Distrito Federal;53
+2021-07-01;2022;RREO;3;DF;53;3094325;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2180424008.85;7;4;53;sim;Distrito Federal;53
+2021-08-01;2022;RREO;3;DF;53;3094325;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2166683654.7;8;4;53;sim;Distrito Federal;53
+2021-09-01;2022;RREO;3;DF;53;3094325;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2642502338.36;9;5;53;sim;Distrito Federal;53
+2021-10-01;2022;RREO;3;DF;53;3094325;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2859148873.14;10;5;53;sim;Distrito Federal;53
+2021-11-01;2022;RREO;3;DF;53;3094325;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2094410723.77;11;6;53;sim;Distrito Federal;53
+2021-12-01;2022;RREO;3;DF;53;3094325;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2820265612.17;12;6;53;sim;Distrito Federal;53
+2022-01-01;2022;RREO;3;DF;53;3094325;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2193659452.81;1;1;53;sim;Distrito Federal;53
+2022-02-01;2022;RREO;3;DF;53;3094325;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2739279603.59;2;1;53;sim;Distrito Federal;53
+2022-03-01;2022;RREO;3;DF;53;3094325;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2354346022.85;3;2;53;sim;Distrito Federal;53
+2022-04-01;2022;RREO;3;DF;53;3094325;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2194035691.18;4;2;53;sim;Distrito Federal;53
+2022-05-01;2022;RREO;3;DF;53;3094325;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2951582202.84;5;3;53;sim;Distrito Federal;53
+2022-06-01;2022;RREO;3;DF;53;3094325;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);2953976212.03;6;3;53;sim;Distrito Federal;53

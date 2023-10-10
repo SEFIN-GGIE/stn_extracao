@@ -1,0 +1,280 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);115309596.27;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);140762566.33;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);131385768.35;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);128211817.02;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);128313704.0;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);122740662.46;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);186384272.47;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);129683497.9;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);145532463.96;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);137779796.86;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);136836723.69;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);137749663.54;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;29590322.34;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;37450854.81;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;41593899.89;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;34235042.46;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;31760752.14;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;31834737.74;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;88675269.5;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;38059571.68;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;40018377.05;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;40247813.34;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;36204143.3;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;36921032.08;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1422182.23;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2279902.93;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;836634.24;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;601542.42;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1437822.05;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6351585.43;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;55588841.1;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8897618.64;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8685037.24;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;7723229.44;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;7437301.0;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6287953.44;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21051736.35;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21787392.43;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21159720.5;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;17052278.55;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21724603.31;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19633021.31;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19085564.69;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22345226.73;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22919708.08;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22315271.99;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19779139.58;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20761599.36;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2884028.13;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3427697.16;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3042891.74;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3094369.07;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3069022.7;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2335452.86;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3421291.84;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2666360.86;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3367453.34;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2844420.98;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2777089.51;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2455276.31;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2456513.33;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8116639.75;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4089002.82;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;10682755.81;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2563251.52;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1924187.04;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7178979.69;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2522537.63;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3208651.92;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5284912.58;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4734076.39;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5974760.82;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;OutrasReceitasTributarias;Outras Receitas Tributárias;1775862.3;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;OutrasReceitasTributarias;Outras Receitas Tributárias;1839222.54;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;OutrasReceitasTributarias;Outras Receitas Tributárias;12465650.59;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;OutrasReceitasTributarias;Outras Receitas Tributárias;2804096.61;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;OutrasReceitasTributarias;Outras Receitas Tributárias;2966052.56;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;OutrasReceitasTributarias;Outras Receitas Tributárias;1590491.1;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;OutrasReceitasTributarias;Outras Receitas Tributárias;3400592.18;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;OutrasReceitasTributarias;Outras Receitas Tributárias;1627827.82;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;OutrasReceitasTributarias;Outras Receitas Tributárias;1837526.47;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;OutrasReceitasTributarias;Outras Receitas Tributárias;2079978.35;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;OutrasReceitasTributarias;Outras Receitas Tributárias;1476536.82;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;OutrasReceitasTributarias;Outras Receitas Tributárias;1441442.15;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;8164632.69;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;8891138.44;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;4662713.46;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;5511417.43;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;5295343.9;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;5362548.24;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;4427997.04;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;2884912.54;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;9441863.07;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;9763505.34;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;3366972.85;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;6457584.01;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;3250470.28;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;8114772.28;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;3813995.94;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;3448894.61;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;3094609.19;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;3436423.63;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;2661588.15;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;4285774.67;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;2744141.03;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;3181498.03;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;4646049.3;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;3784424.88;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;252405.77;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;245633.03;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;348308.46;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;266260.93;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;190248.78;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;114519.87;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;405561.11;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;252969.44;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;252681.07;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;274680.52;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;281308.24;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;266096.86;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;69090001.37;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;75687177.86;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;76643265.53;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;80969444.28;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;82496173.02;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;77693001.58;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;85445987.93;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;80179025.61;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;83867288.27;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;78631871.89;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;87034444.11;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;86452985.05;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;CotaParteDoFPM;Cota-Parte do FPM;10106861.79;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;CotaParteDoFPM;Cota-Parte do FPM;16255937.21;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;CotaParteDoFPM;Cota-Parte do FPM;12362837.31;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;CotaParteDoFPM;Cota-Parte do FPM;13962231.36;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;CotaParteDoFPM;Cota-Parte do FPM;9191861.29;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;CotaParteDoFPM;Cota-Parte do FPM;9920454.04;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;CotaParteDoFPM;Cota-Parte do FPM;12199391.21;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;CotaParteDoFPM;Cota-Parte do FPM;10614707.11;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;CotaParteDoFPM;Cota-Parte do FPM;9298132.75;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;CotaParteDoFPM;Cota-Parte do FPM;9192653.3;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;CotaParteDoFPM;Cota-Parte do FPM;7663972.24;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;CotaParteDoFPM;Cota-Parte do FPM;8730870.53;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;CotaParteDoICMS;Cota-Parte do ICMS;20783989.59;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;CotaParteDoICMS;Cota-Parte do ICMS;21865881.09;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;CotaParteDoICMS;Cota-Parte do ICMS;20653617.65;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;CotaParteDoICMS;Cota-Parte do ICMS;17542575.07;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;CotaParteDoICMS;Cota-Parte do ICMS;22330000.57;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;CotaParteDoICMS;Cota-Parte do ICMS;19501111.36;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;CotaParteDoICMS;Cota-Parte do ICMS;20580649.5;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;CotaParteDoICMS;Cota-Parte do ICMS;21183028.94;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;CotaParteDoICMS;Cota-Parte do ICMS;21341450.27;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;CotaParteDoICMS;Cota-Parte do ICMS;20094612.71;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;CotaParteDoICMS;Cota-Parte do ICMS;28938766.41;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;CotaParteDoICMS;Cota-Parte do ICMS;17974612.22;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;CotaParteDoIPVA;Cota-Parte do IPVA;2562478.17;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;CotaParteDoIPVA;Cota-Parte do IPVA;1378616.45;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;CotaParteDoIPVA;Cota-Parte do IPVA;1177967.8;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;CotaParteDoIPVA;Cota-Parte do IPVA;12826594.49;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;CotaParteDoIPVA;Cota-Parte do IPVA;8728940.16;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;CotaParteDoIPVA;Cota-Parte do IPVA;10353099.48;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;CotaParteDoIPVA;Cota-Parte do IPVA;11864032.46;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;CotaParteDoIPVA;Cota-Parte do IPVA;7083310.66;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;CotaParteDoIPVA;Cota-Parte do IPVA;11054083.45;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;CotaParteDoIPVA;Cota-Parte do IPVA;6432504.9;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;CotaParteDoIPVA;Cota-Parte do IPVA;3903803.7;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;CotaParteDoIPVA;Cota-Parte do IPVA;2158907.93;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;CotaParteDoITR;Cota-Parte do ITR;33792.99;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;CotaParteDoITR;Cota-Parte do ITR;29853.45;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;CotaParteDoITR;Cota-Parte do ITR;19754.57;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;CotaParteDoITR;Cota-Parte do ITR;788.75;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;CotaParteDoITR;Cota-Parte do ITR;4683.14;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;CotaParteDoITR;Cota-Parte do ITR;2147.93;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;CotaParteDoITR;Cota-Parte do ITR;2860.34;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;CotaParteDoITR;Cota-Parte do ITR;6363.48;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;CotaParteDoITR;Cota-Parte do ITR;8548.63;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;CotaParteDoITR;Cota-Parte do ITR;5499.7;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;CotaParteDoITR;Cota-Parte do ITR;5138.01;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;CotaParteDoITR;Cota-Parte do ITR;134018.53;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;TransferenciasDaLC871996;Transferências da LC 87/1996;110958.83;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;TransferenciasDaLC871996;Transferências da LC 87/1996;221917.66;12;6;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;TransferenciasDaLC871996;Transferências da LC 87/1996;430900.37;4;2;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;TransferenciasDaLC871996;Transferências da LC 87/1996;107725.08;6;3;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;TransferenciasDaLC871996;Transferências da LC 87/1996;107725.08;8;4;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;TransferenciasDoFUNDEB;Transferências do FUNDEB;11858921.49;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;TransferenciasDoFUNDEB;Transferências do FUNDEB;12672925.17;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;TransferenciasDoFUNDEB;Transferências do FUNDEB;12911552.15;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;TransferenciasDoFUNDEB;Transferências do FUNDEB;12874154.85;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;TransferenciasDoFUNDEB;Transferências do FUNDEB;13200517.19;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;TransferenciasDoFUNDEB;Transferências do FUNDEB;12370978.14;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;TransferenciasDoFUNDEB;Transferências do FUNDEB;14910775.46;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;TransferenciasDoFUNDEB;Transferências do FUNDEB;13471952.62;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;TransferenciasDoFUNDEB;Transferências do FUNDEB;12230194.96;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;TransferenciasDoFUNDEB;Transferências do FUNDEB;12620336.7;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;TransferenciasDoFUNDEB;Transferências do FUNDEB;12691452.97;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;TransferenciasDoFUNDEB;Transferências do FUNDEB;14412406.41;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;23632998.51;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;23262046.83;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;29517536.05;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;23763099.76;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;29040170.67;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;25114310.26;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;25888278.96;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;27711937.72;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;29934878.21;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;30178539.5;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;33831310.78;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;43042169.43;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4961763.82;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10372989.91;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4323585.07;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3780757.31;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5476576.97;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4299431.4;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4767868.74;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4021243.96;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9208113.47;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5680427.74;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5303805.89;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3867540.66;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10818694.32;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15035983.48;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9224347.42;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12281097.61;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);11201381.31;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10858574.5;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12848860.65;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);11009605.64;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);11661726.0;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10690274.47;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10534502.77;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8543527.86;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3595141.08;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6484601.89;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2098826.37;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3119711.42;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3120583.62;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2784585.45;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2810867.97;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2823610.46;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2995271.88;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3187371.55;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3366972.85;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3418886.05;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;453178.01;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;550467.4;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;281604.93;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;300326.3;2;1;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1071045.66;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;363861.62;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;303104.55;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;303104.55;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;303104.55;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;303104.55;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6770375.23;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8000914.19;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6843916.12;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8861059.89;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8080797.69;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8073989.05;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8966947.02;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7822133.56;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8363349.57;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7199798.37;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6864425.37;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;4821537.26;10;5;510340;sim;Cuiabá;51
+2014-11-01;2015;RREO;5;MT;5103403;575480;<MR-11>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);104490901.95;11;6;510340;sim;Cuiabá;51
+2014-12-01;2015;RREO;5;MT;5103403;575480;<MR-10>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);125726582.85;12;6;510340;sim;Cuiabá;51
+2015-01-01;2015;RREO;5;MT;5103403;575480;<MR-9>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);122161420.93;1;1;510340;sim;Cuiabá;51
+2015-02-01;2015;RREO;5;MT;5103403;575480;<MR-8>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);115930719.41;2;1;510340;sim;Cuiabá;51
+2015-03-01;2015;RREO;5;MT;5103403;575480;<MR-7>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);117112322.69;3;2;510340;sim;Cuiabá;51
+2015-04-01;2015;RREO;5;MT;5103403;575480;<MR-6>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);111882087.96;4;2;510340;sim;Cuiabá;51
+2015-05-01;2015;RREO;5;MT;5103403;575480;<MR-5>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);173535411.82;5;3;510340;sim;Cuiabá;51
+2015-06-01;2015;RREO;5;MT;5103403;575480;<MR-4>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);118673892.26;6;3;510340;sim;Cuiabá;51
+2015-07-01;2015;RREO;5;MT;5103403;575480;<MR-3>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);133870737.96;7;4;510340;sim;Cuiabá;51
+2015-08-01;2015;RREO;5;MT;5103403;575480;<MR-2>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);127089522.39;8;4;510340;sim;Cuiabá;51
+2015-09-01;2015;RREO;5;MT;5103403;575480;<MR-1>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);126302220.92;9;5;510340;sim;Cuiabá;51
+2015-10-01;2015;RREO;5;MT;5103403;575480;<MR>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);129206135.68;10;5;510340;sim;Cuiabá;51

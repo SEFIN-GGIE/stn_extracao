@@ -1,0 +1,55 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);208103235.04;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);218190015.39;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;43987860.25;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;45297497.14;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6405632.9;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8291894.25;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;25232372.81;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;23847050.78;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5259935.72;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3393615.04;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3401110.71;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5760255.9;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3688808.11;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4004681.17;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;10457341.28;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;13296279.16;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;228016.93;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;211315.84;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;217466.8;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;200765.71;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;10550.13;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;10550.13;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;151864018.13;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;157242585.31;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;46076645.09;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;60394799.04;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;32577562.92;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;25755737.51;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8035847.13;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;15819245.14;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;16095.91;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;986.02;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;12181.79;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;11738.27;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;25830783.6;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;21974328.0;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;39314901.69;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;33285751.33;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1565998.45;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2142337.94;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);21496979.57;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);26242756.46;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4148800.85;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5843392.33;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;4512.19;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;2862.95;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17343666.53;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;20396501.18;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);186606255.47;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);191947258.93;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);186606255.47;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);191947258.93;2;1;270430;sim;Maceió;27
+2021-01-01;2021;RREO;1;AL;2704302;1025360;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);186606255.47;1;1;270430;sim;Maceió;27
+2021-02-01;2021;RREO;1;AL;2704302;1025360;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);191947258.93;2;1;270430;sim;Maceió;27

@@ -1,0 +1,284 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);95539045.15;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);94042287.23;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);97768141.61;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);105046670.42;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);104891098.55;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);132948740.57;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);101141115.22;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);98464023.64;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);250160478.0;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);103958038.58;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);106062615.0;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);103896382.61;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;36110413.33;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;33823404.81;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;34956658.07;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;35232459.98;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;44035667.28;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;47150926.58;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;34504010.32;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;43378798.14;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;188927212.94;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;41751429.76;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;40477965.67;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;40580011.35;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5197486.51;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4563670.52;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4558320.76;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4870333.83;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4979010.19;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5504773.48;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4687940.07;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9883896.77;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;128902788.46;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;7816080.18;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;7229071.14;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6963324.58;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18639297.66;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18003741.52;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18054581.39;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18201594.21;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18422557.44;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20861718.41;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18854927.01;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;17576513.35;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18082985.34;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18594562.94;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18480568.37;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;17923781.54;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5951861.94;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5292578.72;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6116433.97;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5725715.63;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5112101.45;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9292449.11;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4794668.25;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6598061.44;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8388842.67;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8820715.73;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8218712.11;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7863434.11;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3777038.01;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3714159.64;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3731697.67;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3748298.8;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;12585626.75;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8289373.15;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3698999.04;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4248966.98;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4187538.97;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3741324.39;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3599379.22;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5170536.43;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;OutrasReceitasTributarias;Outras Receitas Tributárias;2544729.21;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;OutrasReceitasTributarias;Outras Receitas Tributárias;2249254.41;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;OutrasReceitasTributarias;Outras Receitas Tributárias;2495624.28;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;OutrasReceitasTributarias;Outras Receitas Tributárias;2686517.51;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;OutrasReceitasTributarias;Outras Receitas Tributárias;2936371.45;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;OutrasReceitasTributarias;Outras Receitas Tributárias;3202612.43;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;OutrasReceitasTributarias;Outras Receitas Tributárias;2467475.95;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;OutrasReceitasTributarias;Outras Receitas Tributárias;5071359.6;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;OutrasReceitasTributarias;Outras Receitas Tributárias;29365057.5;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;OutrasReceitasTributarias;Outras Receitas Tributárias;2778746.52;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;OutrasReceitasTributarias;Outras Receitas Tributárias;2950234.83;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;OutrasReceitasTributarias;Outras Receitas Tributárias;2658934.69;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;5956563.79;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;4752873.21;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;8773310.25;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;6048908.94;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;6375836.99;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;11674641.26;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;7326739.14;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;6011540.09;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;8195574.64;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;7509634.17;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;8043241.44;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;8094873.07;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;1791448.27;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;2409959.51;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;1942354.98;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;11630205.27;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;2243000.5;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;2088621.94;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;2528566.05;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;1522280.32;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;2297157.46;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;2856796.23;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;2931062.8;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;2981643.14;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;44889964.36;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;46352685.81;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;46326442.69;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;45339045.23;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;44737837.23;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;56875593.92;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;51909628.9;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;43020293.93;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;45274034.13;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;46352289.78;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;47495236.8;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;46311601.55;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;CotaParteDoFPM;Cota-Parte do FPM;6743881.97;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;CotaParteDoFPM;Cota-Parte do FPM;8192669.18;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;CotaParteDoFPM;Cota-Parte do FPM;7181559.54;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;CotaParteDoFPM;Cota-Parte do FPM;6787313.33;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;CotaParteDoFPM;Cota-Parte do FPM;8983877.14;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;CotaParteDoFPM;Cota-Parte do FPM;14449721.98;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;CotaParteDoFPM;Cota-Parte do FPM;10989188.72;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;CotaParteDoFPM;Cota-Parte do FPM;11217832.65;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;CotaParteDoFPM;Cota-Parte do FPM;8170543.38;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;CotaParteDoFPM;Cota-Parte do FPM;8818181.36;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;CotaParteDoFPM;Cota-Parte do FPM;10843903.3;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;CotaParteDoFPM;Cota-Parte do FPM;9435295.21;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;CotaParteDoICMS;Cota-Parte do ICMS;10576099.16;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;CotaParteDoICMS;Cota-Parte do ICMS;11095489.88;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;CotaParteDoICMS;Cota-Parte do ICMS;11897077.7;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;CotaParteDoICMS;Cota-Parte do ICMS;12265903.56;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;CotaParteDoICMS;Cota-Parte do ICMS;13532601.73;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;CotaParteDoICMS;Cota-Parte do ICMS;13034889.73;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;CotaParteDoICMS;Cota-Parte do ICMS;11950734.75;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;CotaParteDoICMS;Cota-Parte do ICMS;10623352.78;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;CotaParteDoICMS;Cota-Parte do ICMS;10667952.45;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;CotaParteDoICMS;Cota-Parte do ICMS;11487014.24;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;CotaParteDoICMS;Cota-Parte do ICMS;10869642.09;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;CotaParteDoICMS;Cota-Parte do ICMS;10416573.52;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;CotaParteDoIPVA;Cota-Parte do IPVA;7289459.42;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;CotaParteDoIPVA;Cota-Parte do IPVA;6233866.61;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;CotaParteDoIPVA;Cota-Parte do IPVA;6447034.7;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;CotaParteDoIPVA;Cota-Parte do IPVA;5626710.93;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;CotaParteDoIPVA;Cota-Parte do IPVA;3700842.22;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;CotaParteDoIPVA;Cota-Parte do IPVA;2379195.18;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;CotaParteDoIPVA;Cota-Parte do IPVA;3687486.3;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;CotaParteDoIPVA;Cota-Parte do IPVA;4987689.34;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;CotaParteDoIPVA;Cota-Parte do IPVA;6460586.58;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;CotaParteDoIPVA;Cota-Parte do IPVA;6773171.04;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;CotaParteDoIPVA;Cota-Parte do IPVA;6602539.36;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;CotaParteDoIPVA;Cota-Parte do IPVA;7154788.94;6;3;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;CotaParteDoITR;Cota-Parte do ITR;341.31;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;CotaParteDoITR;Cota-Parte do ITR;1389.95;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;CotaParteDoITR;Cota-Parte do ITR;7037.39;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;CotaParteDoITR;Cota-Parte do ITR;1006.69;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;CotaParteDoITR;Cota-Parte do ITR;1481.63;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;CotaParteDoITR;Cota-Parte do ITR;475.3;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;CotaParteDoITR;Cota-Parte do ITR;1774.3;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;CotaParteDoITR;Cota-Parte do ITR;240.41;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;CotaParteDoITR;Cota-Parte do ITR;122.27;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;CotaParteDoITR;Cota-Parte do ITR;289.69;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;CotaParteDoITR;Cota-Parte do ITR;342.1;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;TransferenciasDaLC871996;Transferências da LC 87/1996;46700.32;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;TransferenciasDaLC871996;Transferências da LC 87/1996;46700.32;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;TransferenciasDaLC871996;Transferências da LC 87/1996;46700.32;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;TransferenciasDaLC871996;Transferências da LC 87/1996;46700.32;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;TransferenciasDaLC871996;Transferências da LC 87/1996;46700.32;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;TransferenciasDaLC871996;Transferências da LC 87/1996;93400.64;12;6;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;TransferenciasDaLC871996;Transferências da LC 87/1996;181876.51;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;TransferenciasDaLC871996;Transferências da LC 87/1996;45469.13;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;TransferenciasDaLC871996;Transferências da LC 87/1996;45469.13;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;TransferenciasDaLC611989;Transferências da LC 61/1989;179689.1;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;TransferenciasDaLC611989;Transferências da LC 61/1989;185219.73;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;TransferenciasDaLC611989;Transferências da LC 61/1989;174301.36;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;TransferenciasDaLC611989;Transferências da LC 61/1989;186662.13;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;TransferenciasDaLC611989;Transferências da LC 61/1989;214343.76;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;TransferenciasDaLC611989;Transferências da LC 61/1989;211494.93;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;TransferenciasDaLC611989;Transferências da LC 61/1989;248728.49;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;TransferenciasDaLC611989;Transferências da LC 61/1989;147969.99;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;TransferenciasDaLC611989;Transferências da LC 61/1989;145179.62;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;TransferenciasDaLC611989;Transferências da LC 61/1989;152268.22;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;TransferenciasDaLC611989;Transferências da LC 61/1989;171775.58;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;TransferenciasDaLC611989;Transferências da LC 61/1989;163616.43;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;TransferenciasDoFUNDEB;Transferências do FUNDEB;7752687.76;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;TransferenciasDoFUNDEB;Transferências do FUNDEB;8293013.48;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;TransferenciasDoFUNDEB;Transferências do FUNDEB;8463160.81;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;TransferenciasDoFUNDEB;Transferências do FUNDEB;8842338.57;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;TransferenciasDoFUNDEB;Transferências do FUNDEB;9231460.3;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;TransferenciasDoFUNDEB;Transferências do FUNDEB;9171895.9;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;TransferenciasDoFUNDEB;Transferências do FUNDEB;9328820.6;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;TransferenciasDoFUNDEB;Transferências do FUNDEB;8630490.45;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;TransferenciasDoFUNDEB;Transferências do FUNDEB;8416819.69;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;TransferenciasDoFUNDEB;Transferências do FUNDEB;9107640.4;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;TransferenciasDoFUNDEB;Transferências do FUNDEB;9191481.72;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;TransferenciasDoFUNDEB;Transferências do FUNDEB;8733249.36;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;12301446.63;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;12305385.3;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;12115218.31;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;11576379.0;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;9027005.07;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;17533513.93;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;15704194.74;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;7411184.42;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;11412712.0;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;9832015.74;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;9770135.93;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;10362266.86;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6790655.4;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6703363.89;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5769375.62;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6796051.0;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7498756.55;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;15158956.87;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4872170.81;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4531111.16;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5466498.83;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5487888.64;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7115108.29;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5928253.5;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8969717.09;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);7961106.0;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12061311.98;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8787130.19;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9399079.72;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14400705.91;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10119107.14;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8675116.71;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10277303.12;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9697611.89;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10202735.01;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10416732.06;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3949918.94;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2757550.49;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4946103.74;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3771492.12;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4014265.02;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7396674.18;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4665151.86;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3160089.12;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5112496.12;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4016325.32;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4495905.97;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4147422.01;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;53357.54;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;53357.54;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1965290.76;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;31160.81;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;90959.45;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1900995.7;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;78591.28;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;118812.2;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;75906.7;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;198889.84;4;2;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;825783.71;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;4966440.61;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5150197.97;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5149917.48;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;4984477.26;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5293855.25;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5103036.03;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5375364.0;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5396215.39;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5088900.3;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5482396.73;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5706829.04;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5443526.34;6;3;420540;sim;Florianópolis;42
+2014-07-01;2015;RREO;3;SC;4205407;461524;<MR-11>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);86569328.06;7;4;420540;sim;Florianópolis;42
+2014-08-01;2015;RREO;3;SC;4205407;461524;<MR-10>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);86081181.23;8;4;420540;sim;Florianópolis;42
+2014-09-01;2015;RREO;3;SC;4205407;461524;<MR-9>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);85706829.63;9;5;420540;sim;Florianópolis;42
+2014-10-01;2015;RREO;3;SC;4205407;461524;<MR-8>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);96259540.23;10;5;420540;sim;Florianópolis;42
+2014-11-01;2015;RREO;3;SC;4205407;461524;<MR-7>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);95492018.83;11;6;420540;sim;Florianópolis;42
+2014-12-01;2015;RREO;3;SC;4205407;461524;<MR-6>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);118548034.66;12;6;420540;sim;Florianópolis;42
+2015-01-01;2015;RREO;3;SC;4205407;461524;<MR-5>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);91022008.08;1;1;420540;sim;Florianópolis;42
+2015-02-01;2015;RREO;3;SC;4205407;461524;<MR-4>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);89788906.93;2;1;420540;sim;Florianópolis;42
+2015-03-01;2015;RREO;3;SC;4205407;461524;<MR-3>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);239883174.88;3;2;420540;sim;Florianópolis;42
+2015-04-01;2015;RREO;3;SC;4205407;461524;<MR-2>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);94260426.69;4;2;420540;sim;Florianópolis;42
+2015-05-01;2015;RREO;3;SC;4205407;461524;<MR-1>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);95859879.99;5;3;420540;sim;Florianópolis;42
+2015-06-01;2015;RREO;3;SC;4205407;461524;<MR>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);93479650.55;6;3;420540;sim;Florianópolis;42

@@ -1,6 +1,6 @@
 .env
 send.bat
-**/*.csv
+# **/*.csv
 **/*.gzip
 **/*.rar
 

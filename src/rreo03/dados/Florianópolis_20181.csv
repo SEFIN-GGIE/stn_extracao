@@ -1,0 +1,293 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);146994867.47;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);115000885.96;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);118388127.7;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);111325493.55;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);117622310.8;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);117274638.21;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);105100577.64;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);149504554.09;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);122014220.5;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);142910088.52;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);307693938.0;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);129263846.12;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;79360728.26;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;46773262.93;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;45554348.11;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;46157990.21;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;49439145.91;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;47157969.06;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;42040424.05;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;65824438.7;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;50388245.95;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;58652401.15;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;242729411.92;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;59664016.7;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;14575114.68;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9382859.3;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9355114.22;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8813223.29;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9695333.46;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8775156.57;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8428987.28;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9942247.85;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9282077.2;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9563758.06;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;166723400.95;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;18352827.3;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19768903.71;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21029910.27;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19912741.11;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21251641.5;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21836942.77;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22016445.94;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21685908.21;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21561395.02;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22817083.17;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;24117280.99;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;24438436.53;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22557971.65;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6521106.97;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6347847.13;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6425717.89;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6425623.95;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8339925.08;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6169748.7;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4593437.75;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6245193.26;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6050181.99;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7762419.72;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5757289.49;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5455309.38;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7465186.25;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5329738.12;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5194103.38;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5363414.79;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5175958.44;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5333642.36;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2887635.17;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;23543851.37;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7943776.79;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;12679970.36;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3579315.46;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5752496.22;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;31030416.65;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4682908.11;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4666671.51;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4304086.68;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4390986.16;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4862975.49;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4444455.64;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4531751.2;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4295126.8;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4528972.02;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;42230969.49;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7545412.15;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;5307439.91;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;8546891.34;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;12572391.42;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;4246823.24;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;6455113.18;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;6361378.0;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;2632015.71;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;24018878.0;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;17046888.27;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;14520657.34;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;6546817.53;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;6942575.88;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;3719865.54;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;2960507.28;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;3105974.83;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;4255287.61;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;3425071.71;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;3105783.57;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;2615262.46;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;2169663.41;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;1467722.61;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;1542619.5;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;2179023.52;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;1555469.63;2;1;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1471496.06;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1302627.92;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3719865.54;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2960507.28;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3105974.83;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4255287.61;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3425071.71;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3105783.57;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2615262.46;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2169663.41;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1467722.61;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1542619.5;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;707527.46;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;252841.71;2;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;3780.41;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;52096790.89;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;51996729.01;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;53237619.0;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;51289297.1;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;53945216.42;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;54706418.55;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;49640653.08;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;51791632.17;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;47944684.04;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;61630017.63;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;52778189.36;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;58016806.1;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;8411746.55;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;10134724.4;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;11496095.63;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;10596132.17;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;13681238.0;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;9281241.12;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;7793116.5;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;8831825.34;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;9084150.85;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;17478416.98;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;12591113.77;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;14562404.47;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;11723909.11;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;12165545.83;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;11130427.8;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;11690321.19;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;11702300.04;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;11943759.66;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;13070524.29;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;12338089.78;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;12581170.07;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;13452369.08;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;13850159.26;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;12306698.36;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7440282.16;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6636000.61;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7833490.69;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7427337.77;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7625766.91;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7615585.21;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6857546.51;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7174801.1;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5184225.02;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3027985.69;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5127626.41;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6308067.46;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;40.39;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;334.34;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;1875.61;5;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;6.48;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;326.5;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;734.39;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;6282.9;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;330.8;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;7268.23;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;312.5;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;193.73;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;42840.93;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;42840.93;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;42840.93;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;42840.93;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;42840.93;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;42840.93;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;42840.93;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;42840.93;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;42840.93;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;42840.93;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;41227.6;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;41227.6;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;136665.12;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;165023.52;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;154838.16;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;86701.61;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;174887.29;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;163653.59;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;174801.24;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;220603.3;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;180135.07;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;317512.4;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;209003.39;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;213214.95;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11126074.74;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11386820.89;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;10993351.07;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11448878.52;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;10710516.62;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11019408.61;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11671536.58;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11368162.72;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11171304.24;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12312296.72;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12561446.19;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12197784.67;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;13215231.89;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;11465438.49;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;11584699.11;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;9997084.91;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;10007660.15;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;14639602.93;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;10029552.64;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;11809026.1;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;9700527.06;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;14991327.6;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;8397300.24;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;12387214.86;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6510042.87;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4723495.4;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3917794.34;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5376095.39;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4357763.58;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5943089.03;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8172222.34;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5699941.81;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5166679.63;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6564392.9;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3460495.67;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3081197.4;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);7625246.64;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9819841.98;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15076319.74;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);6947346.26;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9078050.52;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9277852.26;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);6690133.8;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);26888275.44;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);19374307.47;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17306954.76;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10812435.99;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9687441.78;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2074201.99;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3991136.25;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;8944828.09;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;977879.27;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3532124.28;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3468858.79;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1101750.14;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;21165166.28;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;13960445.46;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;11468540.35;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2810654.43;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3001221.56;2;1;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;39143.78;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1928427.05;1;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5551044.65;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5828705.73;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6131491.65;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5969466.99;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5545926.24;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5808993.47;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5588383.66;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5723109.16;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5413862.01;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5799270.63;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6073354.51;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6686220.22;2;1;420540;sim;Florianópolis;42
+2017-03-01;2018;RREO;1;SC;4205407;477798;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);139369620.83;3;2;420540;sim;Florianópolis;42
+2017-04-01;2018;RREO;1;SC;4205407;477798;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);105181043.98;4;2;420540;sim;Florianópolis;42
+2017-05-01;2018;RREO;1;SC;4205407;477798;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);103311807.96;5;3;420540;sim;Florianópolis;42
+2017-06-01;2018;RREO;1;SC;4205407;477798;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);104378147.29;6;3;420540;sim;Florianópolis;42
+2017-07-01;2018;RREO;1;SC;4205407;477798;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);108544260.28;7;4;420540;sim;Florianópolis;42
+2017-08-01;2018;RREO;1;SC;4205407;477798;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);107996785.95;8;4;420540;sim;Florianópolis;42
+2017-09-01;2018;RREO;1;SC;4205407;477798;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);98410443.84;9;5;420540;sim;Florianópolis;42
+2017-10-01;2018;RREO;1;SC;4205407;477798;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);122616278.65;10;5;420540;sim;Florianópolis;42
+2017-11-01;2018;RREO;1;SC;4205407;477798;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);102639913.03;11;6;420540;sim;Florianópolis;42
+2017-12-01;2018;RREO;1;SC;4205407;477798;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);125603133.76;12;6;420540;sim;Florianópolis;42
+2018-01-01;2018;RREO;1;SC;4205407;477798;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);296881502.01;1;1;420540;sim;Florianópolis;42
+2018-02-01;2018;RREO;1;SC;4205407;477798;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);119576404.34;2;1;420540;sim;Florianópolis;42

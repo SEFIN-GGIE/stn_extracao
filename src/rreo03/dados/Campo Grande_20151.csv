@@ -1,0 +1,293 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);186609937.16;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);205162241.22;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);196460421.61;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);185073416.87;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);201262044.14;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);198845381.21;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);205877598.25;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);191944464.29;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);186077560.25;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);269805849.02;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);390649287.81;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);231549621.04;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;40730474.25;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;42731282.51;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;45965395.06;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;41781673.26;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;56645728.65;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;46848690.6;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;68367500.24;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;54583119.26;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;48700277.67;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;81147831.46;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;184032308.13;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;59647789.17;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;10022718.74;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9956006.26;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9827745.56;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8913346.31;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9471143.27;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8787914.75;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;26819175.76;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;13839127.63;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9392982.49;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;34652544.8;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;131747251.42;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;20107566.8;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19363480.53;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19920788.79;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20628217.41;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20727604.85;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;29509699.74;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;24304027.07;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;25669442.22;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;25506179.12;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;23538773.68;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;25481710.74;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;23035783.28;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19142704.72;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2892952.99;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4353320.18;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4728411.58;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3025985.38;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4705515.53;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3530145.3;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3883005.36;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4254941.58;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3840486.98;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4326053.87;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2640891.65;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3634453.34;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;6510761.06;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;6893362.68;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9039883.46;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7840588.36;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11151163.08;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8876260.81;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9667756.03;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9588855.62;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;10016949.31;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;13307288.67;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;16720514.06;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8532124.96;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;OutrasReceitasTributarias;Outras Receitas Tributárias;1940560.93;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;OutrasReceitasTributarias;Outras Receitas Tributárias;1607804.6;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;OutrasReceitasTributarias;Outras Receitas Tributárias;1741137.05;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;OutrasReceitasTributarias;Outras Receitas Tributárias;1274148.36;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;OutrasReceitasTributarias;Outras Receitas Tributárias;1808207.03;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;OutrasReceitasTributarias;Outras Receitas Tributárias;1350342.67;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;OutrasReceitasTributarias;Outras Receitas Tributárias;2328120.87;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;OutrasReceitasTributarias;Outras Receitas Tributárias;1394015.31;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;OutrasReceitasTributarias;Outras Receitas Tributárias;1911085.21;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;OutrasReceitasTributarias;Outras Receitas Tributárias;3380233.38;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;OutrasReceitasTributarias;Outras Receitas Tributárias;9887867.72;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;OutrasReceitasTributarias;Outras Receitas Tributárias;8230939.35;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;13233243.83;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;19700386.16;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;14732332.2;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;17220550.76;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;17751155.6;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;16713238.56;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;11828210.59;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;10217972.99;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;13367133.02;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;25301024.88;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;40970847.65;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;16186167.24;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;5217252.57;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;7232464.14;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;7621975.06;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;4645517.95;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;4960025.65;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;6831707.04;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;2027891.53;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;4517503.0;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;3927775.92;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;4024985.31;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;3418865.22;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;3807033.06;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;RREO3ReceitaIndustrial;Receita Industrial;377390.8;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;RREO3ReceitaIndustrial;Receita Industrial;348813.75;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;RREO3ReceitaIndustrial;Receita Industrial;368850.22;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;RREO3ReceitaIndustrial;Receita Industrial;343808.93;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;RREO3ReceitaIndustrial;Receita Industrial;619641.21;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;RREO3ReceitaIndustrial;Receita Industrial;425792.81;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;RREO3ReceitaIndustrial;Receita Industrial;555561.37;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;RREO3ReceitaIndustrial;Receita Industrial;512174.43;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;RREO3ReceitaIndustrial;Receita Industrial;468882.4;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;RREO3ReceitaIndustrial;Receita Industrial;459914.18;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;RREO3ReceitaIndustrial;Receita Industrial;515834.58;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;RREO3ReceitaIndustrial;Receita Industrial;438798.24;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;934635.62;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;946747.08;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;1021862.19;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;1016733.01;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;1062503.03;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;1399187.09;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;246223.04;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;218001.17;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;216711.43;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;265737.95;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;4297123.15;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;1368307.52;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;121168324.74;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;129535959.7;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;120841110.63;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;115724843.59;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;113463498.65;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;112716303.1;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;109251259.53;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;114814834.1;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;115333144.59;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;142750301.2;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;146453493.58;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;144139757.99;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;CotaParteDoFPM;Cota-Parte do FPM;8604938.17;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;CotaParteDoFPM;Cota-Parte do FPM;9821088.14;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;CotaParteDoFPM;Cota-Parte do FPM;13087807.47;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;CotaParteDoFPM;Cota-Parte do FPM;9815010.81;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;CotaParteDoFPM;Cota-Parte do FPM;8429852.45;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;CotaParteDoFPM;Cota-Parte do FPM;10240836.49;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;CotaParteDoFPM;Cota-Parte do FPM;8976949.43;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;CotaParteDoFPM;Cota-Parte do FPM;8484141.65;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;CotaParteDoFPM;Cota-Parte do FPM;11229846.43;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;CotaParteDoFPM;Cota-Parte do FPM;18062152.46;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;CotaParteDoFPM;Cota-Parte do FPM;13736485.89;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;CotaParteDoFPM;Cota-Parte do FPM;14022290.8;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;CotaParteDoICMS;Cota-Parte do ICMS;30862647.59;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;CotaParteDoICMS;Cota-Parte do ICMS;31770699.0;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;CotaParteDoICMS;Cota-Parte do ICMS;30572143.28;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;CotaParteDoICMS;Cota-Parte do ICMS;32148500.27;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;CotaParteDoICMS;Cota-Parte do ICMS;29496280.11;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;CotaParteDoICMS;Cota-Parte do ICMS;31162445.49;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;CotaParteDoICMS;Cota-Parte do ICMS;33271198.34;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;CotaParteDoICMS;Cota-Parte do ICMS;31295151.34;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;CotaParteDoICMS;Cota-Parte do ICMS;32732037.11;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;CotaParteDoICMS;Cota-Parte do ICMS;33684278.87;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;CotaParteDoICMS;Cota-Parte do ICMS;32801790.05;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;CotaParteDoICMS;Cota-Parte do ICMS;28151904.35;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;CotaParteDoIPVA;Cota-Parte do IPVA;7538296.97;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;CotaParteDoIPVA;Cota-Parte do IPVA;6924108.99;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;CotaParteDoIPVA;Cota-Parte do IPVA;3088252.61;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;CotaParteDoIPVA;Cota-Parte do IPVA;2188596.26;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;CotaParteDoIPVA;Cota-Parte do IPVA;1922795.76;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;CotaParteDoIPVA;Cota-Parte do IPVA;2005756.8;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;CotaParteDoIPVA;Cota-Parte do IPVA;1667951.68;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;CotaParteDoIPVA;Cota-Parte do IPVA;1595338.82;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;CotaParteDoIPVA;Cota-Parte do IPVA;1433035.01;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;CotaParteDoIPVA;Cota-Parte do IPVA;1084994.18;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;CotaParteDoIPVA;Cota-Parte do IPVA;6884246.4;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;CotaParteDoIPVA;Cota-Parte do IPVA;35846898.89;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;CotaParteDoITR;Cota-Parte do ITR;5496.2;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;CotaParteDoITR;Cota-Parte do ITR;9430.56;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;CotaParteDoITR;Cota-Parte do ITR;3021.48;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;CotaParteDoITR;Cota-Parte do ITR;13556.18;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;CotaParteDoITR;Cota-Parte do ITR;3819.79;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;CotaParteDoITR;Cota-Parte do ITR;13533.0;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;CotaParteDoITR;Cota-Parte do ITR;75010.6;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;CotaParteDoITR;Cota-Parte do ITR;2439863.91;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;CotaParteDoITR;Cota-Parte do ITR;557584.95;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;CotaParteDoITR;Cota-Parte do ITR;554510.44;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;CotaParteDoITR;Cota-Parte do ITR;376485.74;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;CotaParteDoITR;Cota-Parte do ITR;6080.54;2;1;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;TransferenciasDaLC871996;Transferências da LC 87/1996;111840.54;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;TransferenciasDaLC871996;Transferências da LC 87/1996;111840.54;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;TransferenciasDaLC871996;Transferências da LC 87/1996;111840.54;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;TransferenciasDaLC871996;Transferências da LC 87/1996;111840.54;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;TransferenciasDaLC871996;Transferências da LC 87/1996;111840.54;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;TransferenciasDaLC871996;Transferências da LC 87/1996;111840.54;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;TransferenciasDaLC871996;Transferências da LC 87/1996;111840.54;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;TransferenciasDaLC871996;Transferências da LC 87/1996;111840.54;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;TransferenciasDaLC871996;Transferências da LC 87/1996;223681.08;12;6;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;TransferenciasDoFUNDEB;Transferências do FUNDEB;25590200.0;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;TransferenciasDoFUNDEB;Transferências do FUNDEB;26369208.47;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;TransferenciasDoFUNDEB;Transferências do FUNDEB;26866701.93;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;TransferenciasDoFUNDEB;Transferências do FUNDEB;26131064.4;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;TransferenciasDoFUNDEB;Transferências do FUNDEB;23663190.61;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;TransferenciasDoFUNDEB;Transferências do FUNDEB;25694414.34;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;TransferenciasDoFUNDEB;Transferências do FUNDEB;26487248.06;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;TransferenciasDoFUNDEB;Transferências do FUNDEB;27174150.44;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;TransferenciasDoFUNDEB;Transferências do FUNDEB;27802618.64;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;TransferenciasDoFUNDEB;Transferências do FUNDEB;29682774.19;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;TransferenciasDoFUNDEB;Transferências do FUNDEB;31308432.71;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;TransferenciasDoFUNDEB;Transferências do FUNDEB;30686001.08;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;48566745.81;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;54529584.0;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;47111343.32;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;45316275.13;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;49835719.39;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;43487476.44;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;38661060.88;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;43714347.4;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;41466181.91;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;59457909.98;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;61346052.79;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;35426582.33;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4948615.35;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4666587.88;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5908896.25;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4340289.37;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6759491.35;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;13910462.01;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;13600951.95;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7080859.34;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4063635.22;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;15856054.04;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10960815.5;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5961767.82;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15120465.7;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15968502.24;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15586489.06;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15659783.69;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14833539.22;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15710411.37;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17520956.96;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9791891.8;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);16719831.1;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);27026720.41;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);22559232.05;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);24986316.16;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5717836.54;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6114002.17;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6213322.32;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6705747.75;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6757873.48;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6565615.49;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;8371943.85;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;818721.53;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7420216.62;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;17449389.91;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;11799430.49;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9380881.28;2;1;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;125556.49;4;2;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;97757.72;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;81869.13;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;437112.22;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;327117.65;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;185782.15;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;85681.2;11;6;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9402629.16;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9728943.58;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9373166.74;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8856278.22;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7993796.61;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8707683.66;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8821895.46;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8787388.12;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9213933.28;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9577330.5;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10759801.56;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15605434.88;2;1;500270;sim;Campo Grande;50
+2014-03-01;2015;RREO;1;MS;5002704;843120;<MR-11>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);171489471.46;3;2;500270;sim;Campo Grande;50
+2014-04-01;2015;RREO;1;MS;5002704;843120;<MR-10>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);189193738.98;4;2;500270;sim;Campo Grande;50
+2014-05-01;2015;RREO;1;MS;5002704;843120;<MR-9>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);180873932.55;5;3;500270;sim;Campo Grande;50
+2014-06-01;2015;RREO;1;MS;5002704;843120;<MR-8>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);169413633.18;6;3;500270;sim;Campo Grande;50
+2014-07-01;2015;RREO;1;MS;5002704;843120;<MR-7>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);186428504.92;7;4;500270;sim;Campo Grande;50
+2014-08-01;2015;RREO;1;MS;5002704;843120;<MR-6>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);183134969.84;8;4;500270;sim;Campo Grande;50
+2014-09-01;2015;RREO;1;MS;5002704;843120;<MR-5>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);188356641.29;9;5;500270;sim;Campo Grande;50
+2014-10-01;2015;RREO;1;MS;5002704;843120;<MR-4>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);182152572.49;10;5;500270;sim;Campo Grande;50
+2014-11-01;2015;RREO;1;MS;5002704;843120;<MR-3>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);169357729.15;11;6;500270;sim;Campo Grande;50
+2014-12-01;2015;RREO;1;MS;5002704;843120;<MR-2>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);242779128.61;12;6;500270;sim;Campo Grande;50
+2015-01-01;2015;RREO;1;MS;5002704;843120;<MR-1>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);368090055.76;1;1;500270;sim;Campo Grande;50
+2015-02-01;2015;RREO;1;MS;5002704;843120;<MR>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);206563304.88;2;1;500270;sim;Campo Grande;50

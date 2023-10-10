@@ -1,0 +1,286 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);72558363.1;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);55993464.64;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);54506964.88;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);60406118.76;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);54826463.8;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);53248138.2;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);57303315.58;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);76372024.11;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);63297649.63;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);68625930.81;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);69535917.12;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);58448229.1;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;11199587.34;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;7300303.33;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;8349356.06;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;8084628.02;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;8880417.67;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;7915390.02;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;7769399.63;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;9350954.18;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;7397954.64;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;5355481.89;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;6020629.95;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;9316386.43;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4931035.18;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1186389.64;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1161546.42;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;951170.49;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;759763.15;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;219152.69;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;228467.45;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;336782.14;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;183067.11;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;261926.13;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;491557.76;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2416596.68;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;4465482.6;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;4559515.42;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5420310.72;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5525431.92;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6352280.74;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6067826.98;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5989496.17;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6549355.49;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5204974.56;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;2355428.56;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;4282801.38;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;4931842.62;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;552478.06;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;372450.29;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;557071.5;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;436961.82;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;552283.11;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;524955.23;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;355052.84;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;459370.98;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;451789.59;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;288396.17;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;329553.34;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;342389.51;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1106628.54;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1049252.71;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1084849.14;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1047246.92;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1078411.45;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1003896.31;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1117951.38;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1904994.84;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;300519.02;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1864175.88;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;645569.33;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1436491.8;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;OutrasReceitasTributarias;Outras Receitas Tributárias;143962.96;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;OutrasReceitasTributarias;Outras Receitas Tributárias;132695.27;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;OutrasReceitasTributarias;Outras Receitas Tributárias;125578.28;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;OutrasReceitasTributarias;Outras Receitas Tributárias;123816.87;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;OutrasReceitasTributarias;Outras Receitas Tributárias;137679.22;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;OutrasReceitasTributarias;Outras Receitas Tributárias;99558.81;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;OutrasReceitasTributarias;Outras Receitas Tributárias;78431.79;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;OutrasReceitasTributarias;Outras Receitas Tributárias;100450.73;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;OutrasReceitasTributarias;Outras Receitas Tributárias;1257604.36;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;OutrasReceitasTributarias;Outras Receitas Tributárias;585555.15;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;OutrasReceitasTributarias;Outras Receitas Tributárias;271148.14;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;OutrasReceitasTributarias;Outras Receitas Tributárias;189065.82;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;2286925.53;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;2035470.5;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;1595845.8;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;2549145.62;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;1839532.26;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;2470287.48;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;1884132.24;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;2704893.46;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;1620936.8;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;2983066.57;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;1423103.48;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;1613366.46;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;3592257.02;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;1597216.62;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;2028970.72;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;3951144.03;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;-564679.86;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;2851793.81;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;1216650.12;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;857314.32;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;2965261.8;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;2761328.43;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;3753147.01;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;2367491.34;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;RREO3ReceitaIndustrial;Receita Industrial;6288059.77;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;RREO3ReceitaIndustrial;Receita Industrial;6611800.6;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;RREO3ReceitaIndustrial;Receita Industrial;6486321.6;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;RREO3ReceitaIndustrial;Receita Industrial;6659478.0;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;RREO3ReceitaIndustrial;Receita Industrial;7503129.38;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;RREO3ReceitaIndustrial;Receita Industrial;5664024.85;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;RREO3ReceitaIndustrial;Receita Industrial;2805067.55;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;RREO3ReceitaIndustrial;Receita Industrial;6400284.59;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;RREO3ReceitaIndustrial;Receita Industrial;2467197.08;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;RREO3ReceitaIndustrial;Receita Industrial;6539624.07;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;RREO3ReceitaIndustrial;Receita Industrial;4879197.85;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;RREO3ReceitaIndustrial;Receita Industrial;3782414.53;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;1390080.21;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;405329.41;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;354655.26;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;322360.04;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;229664.18;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;113917.44;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;122294.86;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;136608.71;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;52781.71;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;124526.26;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;308741.06;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;1064451.7;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;46945891.72;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;36846104.09;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;34620509.63;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;37822822.38;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;35868642.5;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;33113813.87;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;42559680.47;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;54543453.42;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;47850545.69;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;47067362.74;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;51557621.11;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;39414368.15;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;CotaParteDoFPM;Cota-Parte do FPM;23558053.45;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;CotaParteDoFPM;Cota-Parte do FPM;17667019.47;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;CotaParteDoFPM;Cota-Parte do FPM;15173734.41;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;CotaParteDoFPM;Cota-Parte do FPM;18433505.67;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;CotaParteDoFPM;Cota-Parte do FPM;16158508.98;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;CotaParteDoFPM;Cota-Parte do FPM;15271454.99;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;CotaParteDoFPM;Cota-Parte do FPM;20213723.57;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;CotaParteDoFPM;Cota-Parte do FPM;32511874.43;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;CotaParteDoFPM;Cota-Parte do FPM;24725674.61;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;CotaParteDoFPM;Cota-Parte do FPM;25240123.46;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;CotaParteDoFPM;Cota-Parte do FPM;18383722.58;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;CotaParteDoFPM;Cota-Parte do FPM;19840908.1;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;CotaParteDoICMS;Cota-Parte do ICMS;9466475.34;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;CotaParteDoICMS;Cota-Parte do ICMS;8832602.95;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;CotaParteDoICMS;Cota-Parte do ICMS;8895843.65;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;CotaParteDoICMS;Cota-Parte do ICMS;8409760.33;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;CotaParteDoICMS;Cota-Parte do ICMS;9209163.05;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;CotaParteDoICMS;Cota-Parte do ICMS;8812534.99;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;CotaParteDoICMS;Cota-Parte do ICMS;8791223.89;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;CotaParteDoICMS;Cota-Parte do ICMS;9493315.45;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;CotaParteDoICMS;Cota-Parte do ICMS;9776132.57;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;CotaParteDoICMS;Cota-Parte do ICMS;10239203.51;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;CotaParteDoICMS;Cota-Parte do ICMS;10561920.94;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;CotaParteDoICMS;Cota-Parte do ICMS;7733622.36;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;CotaParteDoIPVA;Cota-Parte do IPVA;1911592.17;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;CotaParteDoIPVA;Cota-Parte do IPVA;1581057.58;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;CotaParteDoIPVA;Cota-Parte do IPVA;1936134.84;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;CotaParteDoIPVA;Cota-Parte do IPVA;1568233.12;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;CotaParteDoIPVA;Cota-Parte do IPVA;1775182.08;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;CotaParteDoIPVA;Cota-Parte do IPVA;1297871.28;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;CotaParteDoIPVA;Cota-Parte do IPVA;911792.82;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;CotaParteDoIPVA;Cota-Parte do IPVA;720769.46;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;CotaParteDoIPVA;Cota-Parte do IPVA;1623226.83;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;CotaParteDoIPVA;Cota-Parte do IPVA;2250416.33;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;CotaParteDoIPVA;Cota-Parte do IPVA;2510021.05;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;CotaParteDoIPVA;Cota-Parte do IPVA;2263708.88;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;CotaParteDoITR;Cota-Parte do ITR;227.71;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;CotaParteDoITR;Cota-Parte do ITR;751.37;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;CotaParteDoITR;Cota-Parte do ITR;1395.45;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;CotaParteDoITR;Cota-Parte do ITR;887.5;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;CotaParteDoITR;Cota-Parte do ITR;6339.56;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;CotaParteDoITR;Cota-Parte do ITR;46512.35;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;CotaParteDoITR;Cota-Parte do ITR;8321.79;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;CotaParteDoITR;Cota-Parte do ITR;4606.54;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;CotaParteDoITR;Cota-Parte do ITR;5532.71;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;CotaParteDoITR;Cota-Parte do ITR;595.6;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;CotaParteDoITR;Cota-Parte do ITR;2167.84;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;CotaParteDoITR;Cota-Parte do ITR;1357.95;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;TransferenciasDaLC871996;Transferências da LC 87/1996;16872.54;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;TransferenciasDaLC871996;Transferências da LC 87/1996;16872.54;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;TransferenciasDaLC871996;Transferências da LC 87/1996;16872.54;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;TransferenciasDaLC871996;Transferências da LC 87/1996;16872.54;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;TransferenciasDaLC871996;Transferências da LC 87/1996;16872.54;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;TransferenciasDaLC871996;Transferências da LC 87/1996;16872.54;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;TransferenciasDaLC871996;Transferências da LC 87/1996;16872.54;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;TransferenciasDaLC871996;Transferências da LC 87/1996;33745.08;12;6;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;TransferenciasDaLC871996;Transferências da LC 87/1996;67490.25;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;TransferenciasDoFUNDEB;Transferências do FUNDEB;6360182.6;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;TransferenciasDoFUNDEB;Transferências do FUNDEB;5041877.81;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;TransferenciasDoFUNDEB;Transferências do FUNDEB;4551280.9;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;TransferenciasDoFUNDEB;Transferências do FUNDEB;5137079.55;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;TransferenciasDoFUNDEB;Transferências do FUNDEB;4812004.06;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;TransferenciasDoFUNDEB;Transferências do FUNDEB;4521726.81;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;TransferenciasDoFUNDEB;Transferências do FUNDEB;5537927.87;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;TransferenciasDoFUNDEB;Transferências do FUNDEB;6044746.19;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;TransferenciasDoFUNDEB;Transferências do FUNDEB;6788250.96;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;TransferenciasDoFUNDEB;Transferências do FUNDEB;7008747.97;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;TransferenciasDoFUNDEB;Transferências do FUNDEB;5528969.8;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;TransferenciasDoFUNDEB;Transferências do FUNDEB;5493786.12;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;5632487.91;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;3705922.37;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;4045247.84;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;4256483.67;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;3890572.23;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;3146840.91;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;7079817.99;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;5734396.27;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;4931728.01;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;2328275.87;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;14570818.9;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;4013494.49;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;855561.51;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1197240.09;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1071305.81;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1016540.67;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1069757.67;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1118910.73;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;946090.71;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2378515.43;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;942971.91;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3794540.85;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1593476.66;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;889750.49;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8467114.67;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);6729217.08;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);5978944.25;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);7358555.11;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);6513606.39;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);6726236.72;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);6962158.34;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8276492.59;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);7847677.45;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9805927.29;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);6944418.62;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);6795470.62;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1476017.19;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1109124.79;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;773706.34;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1672338.29;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1079963.71;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1636728.79;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;973305.87;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1784825.6;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;621069.58;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2259565.74;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;652564.34;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;813750.28;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6991097.48;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5620092.29;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5205237.91;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5686216.82;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5433642.68;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5089507.93;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5988852.47;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6491666.99;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7226607.87;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7546361.55;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6291854.28;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5981720.34;4;2;120040;sim;Rio Branco;12
+2014-05-01;2015;RREO;2;AC;1200401;363928;<MR-11>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);64091248.43;5;3;120040;sim;Rio Branco;12
+2014-06-01;2015;RREO;2;AC;1200401;363928;<MR-10>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);49264247.56;6;3;120040;sim;Rio Branco;12
+2014-07-01;2015;RREO;2;AC;1200401;363928;<MR-9>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);48528020.63;7;4;120040;sim;Rio Branco;12
+2014-08-01;2015;RREO;2;AC;1200401;363928;<MR-8>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);53047563.65;8;4;120040;sim;Rio Branco;12
+2014-09-01;2015;RREO;2;AC;1200401;363928;<MR-7>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);48312857.41;9;5;120040;sim;Rio Branco;12
+2014-10-01;2015;RREO;2;AC;1200401;363928;<MR-6>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);46521901.48;10;5;120040;sim;Rio Branco;12
+2014-11-01;2015;RREO;2;AC;1200401;363928;<MR-5>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);50341157.24;11;6;120040;sim;Rio Branco;12
+2014-12-01;2015;RREO;2;AC;1200401;363928;<MR-4>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);68095531.52;12;6;120040;sim;Rio Branco;12
+2015-01-01;2015;RREO;2;AC;1200401;363928;<MR-3>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);55449972.18;1;1;120040;sim;Rio Branco;12
+2015-02-01;2015;RREO;2;AC;1200401;363928;<MR-2>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);58820003.52;2;1;120040;sim;Rio Branco;12
+2015-03-01;2015;RREO;2;AC;1200401;363928;<MR-1>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);62591498.5;3;2;120040;sim;Rio Branco;12
+2015-04-01;2015;RREO;2;AC;1200401;363928;<MR>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);51652758.48;4;2;120040;sim;Rio Branco;12

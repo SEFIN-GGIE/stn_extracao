@@ -1,0 +1,338 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);768797995.34;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);782046122.31;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);764594368.37;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1185505961.54;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1941989099.83;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);960956160.36;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);962184428.15;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);842835698.4;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);770522834.83;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);905945760.12;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);974742469.62;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);988486551.3;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;294846957.44;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;290241517.7;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;308071785.72;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;378923332.45;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;971308817.5;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;300881066.22;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;280751017.08;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;237095306.94;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;267650882.26;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;258292273.34;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;304626595.5;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;296207780.94;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;80586183.19;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;73480493.36;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;73745483.24;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;94837259.38;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;626362028.82;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;84936260.09;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;75823298.43;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;54016596.82;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;64643871.57;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;67934598.15;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;82671850.87;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;70124574.96;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;131194098.79;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;133410708.35;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;153724626.19;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;150467748.96;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;142237964.76;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;125465739.8;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;125045415.9;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;116359980.1;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;105226147.53;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;107156037.56;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;131155535.84;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;133558779.12;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;34791111.49;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;36306188.82;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;36272749.46;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;36087344.22;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;35665076.77;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;30045438.81;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;29512143.29;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;19788755.06;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;22686514.4;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;25930012.84;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;32453724.37;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;35267698.76;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;26406941.86;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;26637107.1;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24705558.73;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;68463601.66;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;27759172.09;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;39592704.19;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;33066312.74;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;32677335.76;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;37929543.57;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;35395244.15;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;35240169.85;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;36638567.9;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;21868622.11;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;20407020.07;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;19623368.1;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;29067378.23;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;139284575.06;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;20840923.33;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;17303846.72;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14252639.2;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;37164805.19;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;21876380.64;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;23105314.57;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;20618160.2;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;30937910.2;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;30389579.31;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;34402729.93;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;50196603.95;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;35850099.05;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;33678941.43;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;32499876.07;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;31687152.89;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;31926853.18;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;33328449.55;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;31585096.84;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;33137609.71;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;23418940.74;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;36759252.65;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;18481546.51;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;29517456.91;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;24185547.87;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;17434059.9;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;12649878.87;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;21151233.67;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;28358390.03;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;28107752.12;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;32128315.62;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;11412830.89;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;15239441.49;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;18317086.62;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9399100.95;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;20102069.39;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;16130519.98;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9204289.93;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5160475.24;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;13752822.2;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;21357295.64;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;21103289.77;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;24749684.92;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4288991.09;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;8179499.25;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;18442166.03;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;9082445.56;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;9415387.52;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;8055027.89;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;8229769.97;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;7489403.63;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;7398411.47;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;7001094.39;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;7004462.35;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;7378630.7;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;7123839.8;8;4;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3ReceitaAgropecuaria;Receita Agropecuária;1238.35;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3ReceitaAgropecuaria;Receita Agropecuária;3001.65;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3ReceitaAgropecuaria;Receita Agropecuária;992.1;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3ReceitaAgropecuaria;Receita Agropecuária;925.6;1;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3ReceitaAgropecuaria;Receita Agropecuária;90.3;3;2;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;4226395.81;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;6202333.5;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;7720044.67;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;9773924.71;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;6122545.14;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;5640299.12;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;4920660.55;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;3054561.3;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;3043003.83;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;4914076.44;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;4162086.85;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;4356348.37;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;393064472.75;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;430435233.86;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;380094719.84;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;694552353.39;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;876264072.23;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;563800791.64;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;598816206.06;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;510784434.03;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;488561867.3;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;547548882.19;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;610728846.84;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;601119055.83;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;36247071.72;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33370136.8;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;45288050.7;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;77208650.26;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;46063589.02;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;66559830.04;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;38919374.7;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;38149602.99;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;39857698.45;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;32446304.52;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;55934110.36;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;35530694.84;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;84951396.3;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;94004038.49;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;71370217.27;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;111835912.07;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;83525505.9;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;93424535.95;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;108237953.02;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;58202495.0;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;75751155.37;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;89672146.0;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;69269930.74;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;85529388.17;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;17743638.56;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12124942.14;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9482417.45;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;21692489.61;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;479193917.96;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;154453361.81;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;134036399.78;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;23004642.48;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;21401494.09;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;24371427.1;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;21854457.27;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;18012207.15;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;149.52;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;75050.85;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;32138.2;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;955876.15;12;6;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;40984.07;3;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;32243.98;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;101.11;6;3;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;1126.36;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1105459.06;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;978659.77;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1027694.56;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1207909.57;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;775706.59;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;839147.72;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;774411.19;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;698817.22;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;696756.12;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;626569.28;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;742802.57;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;871490.72;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;60278666.9;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;67923768.28;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;58946547.68;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;81744089.22;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;93098325.1;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;87058190.6;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;84928761.69;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;59834203.23;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;65947694.23;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;76500432.16;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;64540185.32;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;74478561.36;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;192738090.69;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;221958637.53;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;193947653.98;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;399907426.51;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;173607027.66;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;161465725.52;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;231878321.61;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;330894673.11;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;284874825.06;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;323931902.02;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;398387360.58;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;386695587.23;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;22303318.4;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;-11983033.06;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;15820540.05;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;22541298.03;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;28257092.44;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;39521002.05;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;32546699.22;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;39063009.57;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;-49018161.77;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;33754326.48;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;-8488472.03;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;42252925.56;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);46377283.4;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);46550029.1;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);45235346.88;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);76710717.3;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);141527567.71;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);83013429.79;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);76067380.98;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);43284461.23;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);47739159.78;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);49809010.31;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);45321721.32;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);48088374.22;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18221574.62;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16700202.01;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19010573.73;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;36964269.44;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18736229.6;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18722689.48;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18759615.1;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18357422.49;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19273429.67;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19336501.54;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19295162.01;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19135733.44;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;146165.87;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1739261.65;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;784669.68;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1783740.51;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;879594.38;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1235365.36;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;905941.49;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;915927.33;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;917860.67;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1049199.34;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;998259.41;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;963659.46;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28009542.91;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28110565.44;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;25440103.47;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;37962707.35;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;121911743.73;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;63055374.95;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;56401824.39;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;24011111.41;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;27547869.44;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;29423309.43;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;25028299.9;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;27988981.32;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);722420711.94;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);735496093.21;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);719359021.49;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1108795244.24;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1800461532.12;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);877942730.57;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);886117047.17;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);799551237.17;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);722783675.05;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);856136749.81;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);929420748.3;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);940398177.08;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);722420711.94;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);735496093.21;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);719359021.49;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);1108795244.24;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);1800461532.12;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);877942730.57;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);886117047.17;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);799551237.17;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);722783675.05;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);856136749.81;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);929420748.3;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);940398177.08;8;4;310620;sim;Belo Horizonte;31
+2019-09-01;2020;RREO;4;MG;3106200;2512070;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);722420711.94;9;5;310620;sim;Belo Horizonte;31
+2019-10-01;2020;RREO;4;MG;3106200;2512070;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);735496093.21;10;5;310620;sim;Belo Horizonte;31
+2019-11-01;2020;RREO;4;MG;3106200;2512070;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);719359021.49;11;6;310620;sim;Belo Horizonte;31
+2019-12-01;2020;RREO;4;MG;3106200;2512070;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);1108795244.24;12;6;310620;sim;Belo Horizonte;31
+2020-01-01;2020;RREO;4;MG;3106200;2512070;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);1800461532.12;1;1;310620;sim;Belo Horizonte;31
+2020-02-01;2020;RREO;4;MG;3106200;2512070;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);877942730.57;2;1;310620;sim;Belo Horizonte;31
+2020-03-01;2020;RREO;4;MG;3106200;2512070;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);886117047.17;3;2;310620;sim;Belo Horizonte;31
+2020-04-01;2020;RREO;4;MG;3106200;2512070;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);799551237.17;4;2;310620;sim;Belo Horizonte;31
+2020-05-01;2020;RREO;4;MG;3106200;2512070;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);722783675.05;5;3;310620;sim;Belo Horizonte;31
+2020-06-01;2020;RREO;4;MG;3106200;2512070;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);856136749.81;6;3;310620;sim;Belo Horizonte;31
+2020-07-01;2020;RREO;4;MG;3106200;2512070;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);929420748.3;7;4;310620;sim;Belo Horizonte;31
+2020-08-01;2020;RREO;4;MG;3106200;2512070;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);940398177.08;8;4;310620;sim;Belo Horizonte;31

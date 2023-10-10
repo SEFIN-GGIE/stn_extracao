@@ -1,0 +1,294 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);129680115.38;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);129177783.11;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);139919763.85;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);120126637.57;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);141519220.28;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);119665079.35;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);102578083.13;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);117482661.39;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);140519244.25;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);202898725.5;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);140173803.87;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);215200624.76;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;42993434.53;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;35587932.88;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;45880104.39;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;38241353.87;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;36147102.24;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;35991949.45;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;28085663.28;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;35078697.23;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;32007975.22;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;37778416.9;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;39452138.51;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;87942217.95;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;10952233.69;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9206813.61;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8963574.7;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8058973.94;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;7128144.72;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5891948.49;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3978584.48;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3005764.46;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3546481.25;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4623540.38;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;11004958.96;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;60381675.72;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20504397.82;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18264061.28;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;28118495.24;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19310869.44;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18605158.42;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20078701.92;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19047902.03;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19071825.73;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19342758.16;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21412496.18;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20626198.07;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19560400.9;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3999966.64;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3186505.28;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4558077.34;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4610708.45;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4046944.67;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4088490.55;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3353649.63;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3245933.73;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3558653.59;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4771684.74;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3210559.98;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3293649.66;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4536845.08;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4003656.78;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3424605.08;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4843372.71;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5540525.41;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5152900.47;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;622853.03;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8800290.77;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4655676.21;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5039669.93;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3887273.88;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3549170.02;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;OutrasReceitasTributarias;Outras Receitas Tributárias;2999991.3;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;OutrasReceitasTributarias;Outras Receitas Tributárias;926895.93;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;OutrasReceitasTributarias;Outras Receitas Tributárias;815352.03;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;OutrasReceitasTributarias;Outras Receitas Tributárias;1417429.33;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;OutrasReceitasTributarias;Outras Receitas Tributárias;826329.02;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;OutrasReceitasTributarias;Outras Receitas Tributárias;779908.02;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;OutrasReceitasTributarias;Outras Receitas Tributárias;1082674.11;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;OutrasReceitasTributarias;Outras Receitas Tributárias;954882.54;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;OutrasReceitasTributarias;Outras Receitas Tributárias;904406.01;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;OutrasReceitasTributarias;Outras Receitas Tributárias;1931025.67;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;OutrasReceitasTributarias;Outras Receitas Tributárias;723147.62;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;OutrasReceitasTributarias;Outras Receitas Tributárias;1157321.65;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;5510470.69;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;5403331.48;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;3925913.92;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;5209648.51;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;5815421.17;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;3702266.21;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;3448440.59;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;4185231.57;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;3018170.01;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;16241569.43;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;8034270.5;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;18901297.56;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;6779230.32;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;7260522.68;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;5017291.09;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;7580205.78;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;8162516.93;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;5584850.62;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;7653154.57;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;4949283.54;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;1786487.44;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;8863769.54;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;8148273.72;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;15353173.32;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;34707.7;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;31.5;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;17080.0;5;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;19791.0;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;990.0;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;88.45;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;59.5;10;5;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;70514119.19;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;77052531.82;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;80949326.5;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;65175817.7;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;69648645.41;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;70613251.79;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;60217058.62;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;68898734.93;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;99268498.77;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;135030606.46;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;81305304.68;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;89089909.93;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;14636944.3;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;17400183.31;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23138043.86;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19115772.63;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;13859159.42;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;17187278.72;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;13976691.38;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;16966235.82;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;30954658.58;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;37424925.66;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20944679.36;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;26850515.27;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16576108.67;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;13425532.57;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16914281.18;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;12508044.27;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;10715846.92;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;13951254.3;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;10994034.99;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;11414800.41;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;22488506.8;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;31963779.33;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;25312212.54;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;13352152.94;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5473919.18;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6360409.93;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5915494.66;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6325330.17;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6323287.29;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6150960.09;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6094822.17;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4780493.76;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2911231.95;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2587621.27;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5081453.66;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;15695526.59;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;379.24;3;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;259.65;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;91.46;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;313.28;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;425.31;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;585.11;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;9349.37;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;1138.71;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;100.2;12;6;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;296.58;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;37088.85;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;37088.85;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;37088.85;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;37088.85;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;37088.85;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;37088.85;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;37088.85;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;37088.85;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;37088.85;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;37088.85;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;36248.39;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;36248.39;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8300.53;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;9338.1;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;9683.95;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;9683.95;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8300.53;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;7954.67;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8992.24;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8992.24;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;9683.95;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8300.53;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;11833.94;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;14200.73;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;7188651.35;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;7054734.08;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;8591772.39;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;8446335.53;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;6004905.01;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;7441861.16;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;6311645.97;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;7170416.74;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12989201.85;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15989603.68;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;10862842.14;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11464246.0;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;26592727.07;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;32765244.98;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;26342701.96;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;18733470.84;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;32699744.11;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;25836428.69;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;22793197.91;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;28511357.74;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;29876988.08;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;47019186.94;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;19056034.65;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;21676723.43;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3848152.95;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3873432.75;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4130047.95;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3919611.71;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;21725743.53;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3771771.28;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3173677.62;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4370654.62;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4438112.81;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4984363.17;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3233816.46;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3914026.0;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10756265.86;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10476610.03;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10805264.88;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10590161.59;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10157705.64;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9591390.53;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);7738420.94;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9615415.41;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12478074.1;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);28758664.03;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);16104356.25;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);27720786.35;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3373878.07;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2956182.37;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1561056.98;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2849806.58;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3498525.65;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1898832.56;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1454404.87;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2317315.31;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;996713.93;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14170055.35;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5791120.69;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16523467.77;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;73202.74;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;107895.32;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;73579.24;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;171032.14;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;500542.66;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;255530.85;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;83040.17;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;673961.36;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;236092.5;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;225406.46;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;94181.16;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;100376.17;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7309185.05;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7412532.34;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9170628.66;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7569322.87;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6158637.33;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7437027.12;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6200975.9;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6624138.74;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11245267.67;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;14363202.22;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10219054.4;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11096942.41;2;1;280030;sim;Aracaju;28
+2016-03-01;2017;RREO;1;SE;2800308;641523;<MR-11>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);118923849.52;3;2;280030;sim;Aracaju;28
+2016-04-01;2017;RREO;1;SE;2800308;641523;<MR-10>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);118701173.08;4;2;280030;sim;Aracaju;28
+2016-05-01;2017;RREO;1;SE;2800308;641523;<MR-9>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);129114498.97;5;3;280030;sim;Aracaju;28
+2016-06-01;2017;RREO;1;SE;2800308;641523;<MR-8>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);109536475.98;6;3;280030;sim;Aracaju;28
+2016-07-01;2017;RREO;1;SE;2800308;641523;<MR-7>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);131361514.64;7;4;280030;sim;Aracaju;28
+2016-08-01;2017;RREO;1;SE;2800308;641523;<MR-6>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);110073688.82;8;4;280030;sim;Aracaju;28
+2016-09-01;2017;RREO;1;SE;2800308;641523;<MR-5>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);94839662.19;9;5;280030;sim;Aracaju;28
+2016-10-01;2017;RREO;1;SE;2800308;641523;<MR-4>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);107867245.98;10;5;280030;sim;Aracaju;28
+2016-11-01;2017;RREO;1;SE;2800308;641523;<MR-3>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);128041170.15;11;6;280030;sim;Aracaju;28
+2016-12-01;2017;RREO;1;SE;2800308;641523;<MR-2>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);174140061.47;12;6;280030;sim;Aracaju;28
+2017-01-01;2017;RREO;1;SE;2800308;641523;<MR-1>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);124069447.62;1;1;280030;sim;Aracaju;28
+2017-02-01;2017;RREO;1;SE;2800308;641523;<MR>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);187479838.41;2;1;280030;sim;Aracaju;28

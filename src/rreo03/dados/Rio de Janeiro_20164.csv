@@ -1,0 +1,313 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1565907521.29;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1693779098.85;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1562298671.27;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2728863140.97;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2026762623.58;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2631133428.28;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1924531165.47;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1651677267.08;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1669598547.49;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1578142680.32;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1815327491.97;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1662844561.66;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;693540893.19;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;743592169.63;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;732926197.86;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;854382711.95;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;945632326.49;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;1519181688.48;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;710751706.55;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;755112604.62;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;723404630.85;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;733638925.99;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;752025371.6;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;723322218.03;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;104771404.56;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;105391265.76;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;101036038.01;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;66034422.54;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;217178222.88;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;836209133.47;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;136011955.7;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;130390841.49;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;140959418.66;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;134001075.37;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;131888873.05;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;128021328.57;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;464476192.97;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;492782791.91;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;486289416.64;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;557211926.68;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;570826916.01;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;440938300.46;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;418178066.07;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;463314267.16;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;441467668.28;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;449136802.95;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;470777623.1;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;458673143.62;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;47070713.33;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;60986412.85;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;57535211.77;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;83479221.96;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;36959253.33;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;38637076.98;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;52732414.79;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;45990488.21;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;42656191.46;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;50833845.3;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;51773774.27;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;38916045.91;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;54389620.53;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;63552334.5;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;66479214.08;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;134560095.83;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;59626483.2;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;76844044.6;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;65354143.11;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;88120720.04;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;71706003.93;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;69945324.28;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;70946514.84;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;71734552.65;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;OutrasReceitasTributarias;Outras Receitas Tributárias;22832961.8;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;OutrasReceitasTributarias;Outras Receitas Tributárias;20879364.61;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;OutrasReceitasTributarias;Outras Receitas Tributárias;21586317.36;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;OutrasReceitasTributarias;Outras Receitas Tributárias;13097044.94;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;OutrasReceitasTributarias;Outras Receitas Tributárias;61041451.07;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;OutrasReceitasTributarias;Outras Receitas Tributárias;126553132.97;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;OutrasReceitasTributarias;Outras Receitas Tributárias;38475126.88;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;OutrasReceitasTributarias;Outras Receitas Tributárias;27296287.72;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;OutrasReceitasTributarias;Outras Receitas Tributárias;26615348.52;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;OutrasReceitasTributarias;Outras Receitas Tributárias;29721878.09;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;OutrasReceitasTributarias;Outras Receitas Tributárias;26638586.34;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;OutrasReceitasTributarias;Outras Receitas Tributárias;25977147.28;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;57256717.06;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;57977194.19;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;64146850.51;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;102634505.72;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;66318759.73;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;67523551.23;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;69029837.77;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;72374477.13;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;69015292.41;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;70995905.23;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;67378059.04;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;63198556.96;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;70446259.99;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;98926041.32;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;68088263.75;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;432796876.32;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;60988364.26;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;99347522.35;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;113332215.4;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;75998951.23;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;109690197.43;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;32147566.38;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;55705490.6;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;58409222.82;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3ReceitaIndustrial;Receita Industrial;249772.95;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3ReceitaIndustrial;Receita Industrial;298257.2;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3ReceitaIndustrial;Receita Industrial;403495.81;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3ReceitaIndustrial;Receita Industrial;403590.38;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3ReceitaIndustrial;Receita Industrial;256799.61;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3ReceitaIndustrial;Receita Industrial;175751.66;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3ReceitaIndustrial;Receita Industrial;608697.7;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3ReceitaIndustrial;Receita Industrial;612047.43;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3ReceitaIndustrial;Receita Industrial;354756.15;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3ReceitaIndustrial;Receita Industrial;314452.88;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3ReceitaIndustrial;Receita Industrial;408970.76;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3ReceitaIndustrial;Receita Industrial;305292.83;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;8402165.12;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;6337487.8;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;8334239.67;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;6923475.39;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;8334124.47;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;6472676.95;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;8129657.91;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;5920658.6;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;6686463.64;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;6469448.67;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;7819639.17;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;8536120.56;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;596976244.33;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;623694452.57;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;552800069.62;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;658216891.71;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;828118404.18;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;850733447.31;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;728081314.47;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;643970295.51;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;624091548.54;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;585418040.42;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;564321739.52;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;570522927.15;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;14902168.23;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;16961137.15;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19150455.27;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;32382157.35;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21053592.91;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;26356054.4;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;16009157.84;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19031450.49;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;25307235.48;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20907876.33;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23184058.66;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;18798586.08;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;209176690.78;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;216916597.55;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;181447645.75;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;244521651.4;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;204271467.44;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;177692229.0;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;211109359.86;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;207708742.83;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;185850770.89;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;178397297.1;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;174697706.56;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;174095569.05;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;17653096.46;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;16846041.28;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12016769.56;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;13005319.78;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;179807145.79;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;232280767.94;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;115420505.56;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;78432655.5;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;36667161.31;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;35353789.91;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;30054149.79;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;22458924.83;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;40155.05;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;136602.5;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;12768.25;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;48347.31;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;9022.75;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;3771.18;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;11069.71;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;6894.91;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;12283.49;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;1176.64;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;7033.73;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;5211.41;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;691045.32;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;691045.32;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;691045.32;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;691045.32;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;678417.21;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;678417.21;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;678417.21;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;678417.21;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;678417.21;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;678417.21;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;678417.21;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;678417.21;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4286883.75;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4539062.91;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4343307.2;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4199946.2;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5471864.01;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4568542.89;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4370730.63;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4870163.68;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4993013.26;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2309462.29;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4698465.0;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4079206.45;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;177909186.23;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;185129766.88;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;160504884.43;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;213984406.12;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;198091737.91;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;215746791.89;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;215148281.81;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;174030719.15;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;196842257.17;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;164729942.01;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;158316981.72;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;171294555.18;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;172317018.51;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;182474198.98;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;174633193.84;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;149384018.23;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;218735156.16;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;193406872.8;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;165333791.85;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;159211251.74;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;173740409.73;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;183040078.93;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;172684926.85;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;179112456.94;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;139035468.65;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;162953496.14;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;135599554.05;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;673505089.5;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;117113844.84;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;87698790.3;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;294597735.67;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;97688232.56;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;136355658.47;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;149158340.75;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;367668221.28;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;238550223.31;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);92376193.47;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);93454062.43;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);96130127.0;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);145754556.8;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);131789179.32;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);136321766.52;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);121412694.62;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);115182769.28;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);108287227.9;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);95768294.66;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);104379894.6;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);106716065.78;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;35048532.57;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;35202090.48;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;39802213.91;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;77214415.43;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;38903811.66;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;38376248.79;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;38441775.19;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;38992415.05;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;38557108.0;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;39048552.05;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;39598431.45;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;39520832.48;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7977653.02;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7033874.65;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;12795514.86;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;11642714.19;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;10627065.68;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;9629561.25;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;13451071.31;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;14044689.33;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;19028343.61;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;9190138.76;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;19722617.6;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;23172050.33;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;49350007.88;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;51218097.3;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;43532398.23;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;56897427.18;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;82258301.98;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;88315956.48;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;69519848.12;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;62145664.9;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;50701776.29;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;47529603.85;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;45058845.55;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;44023182.97;8;4;330455;sim;Rio de Janeiro;33
+2015-09-01;2016;RREO;4;RJ;3304557;6476631;<MR-11>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1473531327.82;9;5;330455;sim;Rio de Janeiro;33
+2015-10-01;2016;RREO;4;RJ;3304557;6476631;<MR-10>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1600325036.42;10;5;330455;sim;Rio de Janeiro;33
+2015-11-01;2016;RREO;4;RJ;3304557;6476631;<MR-9>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1466168544.27;11;6;330455;sim;Rio de Janeiro;33
+2015-12-01;2016;RREO;4;RJ;3304557;6476631;<MR-8>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2583108584.17;12;6;330455;sim;Rio de Janeiro;33
+2016-01-01;2016;RREO;4;RJ;3304557;6476631;<MR-7>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1894973444.26;1;1;330455;sim;Rio de Janeiro;33
+2016-02-01;2016;RREO;4;RJ;3304557;6476631;<MR-6>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2494811661.76;2;1;330455;sim;Rio de Janeiro;33
+2016-03-01;2016;RREO;4;RJ;3304557;6476631;<MR-5>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1803118470.85;3;2;330455;sim;Rio de Janeiro;33
+2016-04-01;2016;RREO;4;RJ;3304557;6476631;<MR-4>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1536494497.8;4;2;330455;sim;Rio de Janeiro;33
+2016-05-01;2016;RREO;4;RJ;3304557;6476631;<MR-3>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1561311319.59;5;3;330455;sim;Rio de Janeiro;33
+2016-06-01;2016;RREO;4;RJ;3304557;6476631;<MR-2>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1482374385.66;6;3;330455;sim;Rio de Janeiro;33
+2016-07-01;2016;RREO;4;RJ;3304557;6476631;<MR-1>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1710947597.37;7;4;330455;sim;Rio de Janeiro;33
+2016-08-01;2016;RREO;4;RJ;3304557;6476631;<MR>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1556128495.88;8;4;330455;sim;Rio de Janeiro;33

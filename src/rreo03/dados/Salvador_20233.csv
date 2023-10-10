@@ -1,0 +1,359 @@
+data;demonstrativo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;ano;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);762663091.61;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);732742683.51;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);701207415.19;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);750006519.02;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);952376205.85;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);932772553.71;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);748076602.18;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1116812048.03;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);741896993.43;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);696348031.13;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);798386114.4;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);740474231.48;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;249044090.76;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;254049475.59;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;265960547.55;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;267336429.6;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;314700660.36;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;351168256.18;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;260095848.26;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;531847243.75;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;302936866.78;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;260597371.9;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;278391870.43;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;277354887.54;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;57832430.51;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;57416155.24;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;56035647.57;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;54952671.66;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;57394928.72;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;56664735.35;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;63158513.88;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;276838152.44;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;76479082.57;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;61083547.22;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;72859760.09;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;62921009.84;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;117856312.02;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;124023102.0;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;138276026.5;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;132857187.65;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;126760207.19;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;151852401.65;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;118868688.57;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;117805672.84;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;130064428.25;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;128906248.18;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;131430820.78;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;133091190.85;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;25788088.46;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;20028717.31;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;20317910.63;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;23510471.94;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;21170747.66;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;21634114.65;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;18068577.33;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;16155047.83;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;29946164.07;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;18873635.59;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;21374374.8;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;17881259.44;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;27791396.29;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;30658897.4;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;30202112.44;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;31095505.01;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;28020959.86;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;60857855.6;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;25091274.88;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;28366486.78;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;37261863.83;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;29576446.79;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;27644641.3;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;39282149.79;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;19775863.48;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;21922603.64;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;21128850.41;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;24920593.34;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;81353816.93;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;60159148.93;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;34908793.6;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;92681883.86;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;29185328.06;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;22157494.12;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;25082273.46;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;24179277.62;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;37328844.58;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;37821208.52;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;36984070.3;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;36373796.6;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;38301865.51;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;59134456.99;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;39890224.84;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;39397324.3;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;38434386.98;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;43197198.98;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;40393411.95;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;44179645.14;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;32370444.7;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;40588993.49;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;38805989.09;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;36294397.04;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;219604040.1;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;38873521.66;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;39004079.3;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;34233252.79;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;65698754.1;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;35623959.28;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;43797579.82;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;38991385.46;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;27827164.91;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;37092977.69;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;34551804.19;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;32497919.82;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;34485729.04;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;35292728.62;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;35288134.05;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;31864919.41;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;42583623.49;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;32377574.97;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;40295966.91;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;35859516.11;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4543279.79;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3496015.8;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4254184.9;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3796477.22;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;185118311.06;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3580793.04;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3715945.25;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2368333.38;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;23115130.61;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3246384.31;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3501612.91;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3131869.35;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;118317.9;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;120851.86;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;88194.07;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;92412.82;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;108202.83;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;2880711.36;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;690266.36;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;18317804.42;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;3461029.72;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;769462.94;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;170412.38;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;272774.76;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;426047845.86;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;381398533.84;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;340022991.64;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;379083093.21;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;364762186.57;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;472521017.43;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;381767821.91;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;453139057.29;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;337515198.21;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;344515389.12;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;420098314.09;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;366167367.0;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;144443746.51;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;104946197.84;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;96653924.87;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;91962940.05;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;115580675.32;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;179589192.77;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;118836793.77;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;155356888.65;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;95038935.7;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;108659162.38;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;120792103.42;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;112818918.95;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;77159179.55;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;88825366.43;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;66544329.76;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;74474131.38;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;77921504.63;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;86556715.65;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;54463351.55;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;54553165.43;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;60138790.38;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;63782458.22;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;86287962.64;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;62170074.6;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;21385744.01;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;25166946.83;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;22060587.74;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;21270685.79;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;16461697.24;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;17186262.25;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;32991524.77;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;89532486.69;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;18647491.64;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;16826987.77;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;19647987.61;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;20579425.07;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;12795.75;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;10775.38;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;43421.71;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;17153.04;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;10364.08;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;72938.29;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;15424.26;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;55701.82;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;325323.09;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;11430.97;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;14997.56;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;13383.5;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;485338.47;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;386586.79;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;509992.48;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;520490.98;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;378475.84;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;537735.89;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;517565.5;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;369086.39;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;457413.74;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;487636.13;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;438510.93;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;546811.35;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;70468467.29;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;78360084.02;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;70757349.01;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;72026093.71;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;77959511.76;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;83286656.03;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;97177630.23;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;79985197.3;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;68271635.97;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;68452828.1;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;84433289.56;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;73129524.67;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;112092574.28;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;83702576.55;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;83453386.07;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;118811598.26;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;76449957.7;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;105291516.55;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;77765531.83;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;73286531.01;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;94635607.69;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;86294885.55;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;108483462.37;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;96909228.86;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;17753547.81;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;18763620.21;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;19345622.54;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;30826389.75;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;14899250.48;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8194590.09;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;26628361.51;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;39877365.48;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;-6149242.36;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;11644648.91;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;15534525.73;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;13508171.58;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);58999594.94;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);64013231.47;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);55978747.9;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);59101865.9;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);65502403.81;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);89896401.96;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);64860216.01;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);82755473.08;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);59939624.34;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);62746506.8;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);70768729.36;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);65325583.13;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18457055.5;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18522970.66;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18069822.41;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18264814.3;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19923492.75;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;40269595.57;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19104493.41;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18855508.4;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19518722.06;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;20375178.8;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19791398.39;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;22067146.27;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;518579.58;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;414239.1;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;819531.92;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;718837.28;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;513023.52;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;818198.21;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;400670.71;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;585957.87;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;534524.09;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;672936.02;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1135774.45;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;499484.29;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;1807492.36;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;1208847.21;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;1702286.07;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;2232366.05;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;2995344.25;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;2961381.69;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;3990120.07;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;3340541.1;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;4964787.42;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;3744857.0;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;4405244.24;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;3533230.01;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;38216467.5;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;43867174.5;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;35387107.5;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;37885848.27;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;42070543.29;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;45847226.49;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;41364931.82;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;59973465.71;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;34921590.77;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;37953534.98;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;45436312.28;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;39225722.56;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);703663496.67;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);668729452.04;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);645228667.29;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);690904653.12;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);886873802.04;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);842876151.75;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);683216386.17;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1034056574.95;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);681957369.09;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);633601524.33;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);727617385.04;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);675148648.35;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);24700000.0;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);300000.0;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);700000.0;9;2022;5;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);100000.0;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);1600000.0;1;2023;1;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);885647.43;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);678963496.67;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);668429452.04;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);644528667.29;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);690904653.12;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);886873802.04;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);842776151.75;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);681616386.17;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);1034056574.95;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);681957369.09;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);633601524.33;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);727617385.04;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);674263000.92;6;2023;3;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;( - ) Transferências obrigatórias da União relativas às emendas de bancada (art. 166, § 16, da CF) e ao vencimento dos agentes comunitários de saúde e de combate às endemias (CF, art. 198, §11) (VI);11038356.0;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;( - ) Transferências obrigatórias da União relativas às emendas de bancada (art. 166, § 16, da CF) e ao vencimento dos agentes comunitários de saúde e de combate às endemias (CF, art. 198, §11) (VI);7327656.0;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;( - ) Transferências obrigatórias da União relativas às emendas de bancada (art. 166, § 16, da CF) e ao vencimento dos agentes comunitários de saúde e de combate às endemias (CF, art. 198, §11) (VI);7428960.0;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;( - ) Transferências obrigatórias da União relativas às emendas de bancada (art. 166, § 16, da CF) e ao vencimento dos agentes comunitários de saúde e de combate às endemias (CF, art. 198, §11) (VI);9050080.0;6;2023;3;292740;sim;Salvador;29
+2022-07-01;RREO;BA;2927408;2900319;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);678963496.67;7;2022;4;292740;sim;Salvador;29
+2022-08-01;RREO;BA;2927408;2900319;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);668429452.04;8;2022;4;292740;sim;Salvador;29
+2022-09-01;RREO;BA;2927408;2900319;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);644528667.29;9;2022;5;292740;sim;Salvador;29
+2022-10-01;RREO;BA;2927408;2900319;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);690904653.12;10;2022;5;292740;sim;Salvador;29
+2022-11-01;RREO;BA;2927408;2900319;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);886873802.04;11;2022;6;292740;sim;Salvador;29
+2022-12-01;RREO;BA;2927408;2900319;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);842776151.75;12;2022;6;292740;sim;Salvador;29
+2023-01-01;RREO;BA;2927408;2900319;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);681616386.17;1;2023;1;292740;sim;Salvador;29
+2023-02-01;RREO;BA;2927408;2900319;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);1034056574.95;2;2023;1;292740;sim;Salvador;29
+2023-03-01;RREO;BA;2927408;2900319;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);670919013.09;3;2023;2;292740;sim;Salvador;29
+2023-04-01;RREO;BA;2927408;2900319;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);626273868.33;4;2023;2;292740;sim;Salvador;29
+2023-05-01;RREO;BA;2927408;2900319;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);720188425.04;5;2023;3;292740;sim;Salvador;29
+2023-06-01;RREO;BA;2927408;2900319;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);665212920.92;6;2023;3;292740;sim;Salvador;29

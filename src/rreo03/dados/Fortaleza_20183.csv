@@ -1,0 +1,321 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);492406028.82;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);491554610.61;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);477277318.35;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);473000747.81;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);480055615.92;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);607794494.16;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);523749609.89;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);786030856.86;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);504222382.39;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);535341854.41;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);597657677.43;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);503083380.1;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;120936101.39;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;115864202.19;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;113857221.97;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;118566300.73;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;124206905.85;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;141872605.4;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;125803944.77;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;299453554.99;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;134432292.76;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;132978645.96;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;135996071.77;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;133730643.73;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;20847805.81;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;20970320.5;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;20371126.86;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;21177932.15;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;20391490.32;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;19764545.74;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;33706177.97;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;195013457.64;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;35033457.22;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;29792442.96;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;26386230.96;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;27133430.15;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;63783283.71;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;60690477.84;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;61577911.79;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;63366784.45;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;68759754.8;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;73089329.0;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;63996220.37;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;65945087.99;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;65067697.84;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;66966756.92;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;70949984.86;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;68075278.57;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10601156.34;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10794450.77;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8818792.82;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11162979.68;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11399816.72;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11196943.24;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9254051.22;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8537493.98;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9878535.43;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9244139.9;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8950108.13;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11430812.42;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24474189.52;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;21916607.03;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;21692298.48;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;21597643.35;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;22326162.01;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;36457004.69;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;17562842.9;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;28874443.85;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;22723041.02;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;25172016.57;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;26925138.04;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;23929761.42;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1229666.01;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1492346.05;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1397092.02;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1260961.1;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1329682.0;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1364782.73;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1284652.31;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1083071.53;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1729561.25;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1803289.61;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2784609.78;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3161361.17;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;42524275.11;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;32472843.51;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;31819237.91;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;22115302.76;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;39679012.91;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;34093996.14;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;47169896.49;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;22867215.21;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;29915479.71;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;31627593.78;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;42638500.68;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;31222113.05;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;16470167.74;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;20102043.52;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;14817312.14;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;10447904.01;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;8136673.82;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;9377377.44;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;13330484.1;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;10753188.54;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;13248750.22;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;11507086.01;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;5639382.67;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;6355623.92;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;13835858.25;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;18067618.79;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;12659080.22;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9077408.71;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5181892.04;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;6439399.88;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;10414389.9;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;8689370.09;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9064145.26;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9168936.94;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1792592.74;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4956613.6;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2634309.49;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2034424.73;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2158231.92;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1370495.3;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2954781.78;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2937977.56;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2916094.2;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2063818.45;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4184604.96;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2338149.07;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3846789.93;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1399010.32;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;6305452.34;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;5964396.73;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;5868545.53;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;6446890.2;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;5865370.24;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;6049037.44;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;6104090.74;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;5882645.35;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;6165881.36;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;6498840.76;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;8404346.27;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;6253438.05;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;286067188.02;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;297266051.44;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;282858899.01;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;287896185.68;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;271936789.72;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;391369600.92;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;328638621.91;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;431944087.58;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;299823110.61;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;337722147.48;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;391963296.37;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;313862601.82;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;85507737.43;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;58007756.99;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;48706978.15;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;55198908.38;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;56775942.88;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;109240106.14;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;69619934.48;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;91015027.96;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;61288695.93;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;64259201.01;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;78861651.28;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;73850186.15;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;87116112.25;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;84276994.83;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;78687755.76;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;83898443.02;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;81235189.35;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;89931631.81;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;93773051.3;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;81437961.17;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;70666824.35;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;75953633.15;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;81913714.67;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;65218405.33;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8337684.17;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6437528.67;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6001549.43;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5164097.65;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4111801.11;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4313325.52;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;31776587.01;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;69422734.87;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;31327557.86;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;30921219.69;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;29046212.78;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;24637039.15;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;213.78;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;35.95;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;840.66;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;2730.27;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;35.01;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;174119.42;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;441981.4;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;3046.23;2;1;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;6.76;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;262.5;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;81.57;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;232385.52;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;232385.52;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;232385.52;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;232385.52;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;232385.52;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;232385.52;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;227022.46;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;227022.46;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;227022.46;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;227022.46;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;227022.46;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;227022.46;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;239329.47;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;223956.4;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;239211.69;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;301890.74;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;246510.9;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;340113.5;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;402134.25;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;409283.89;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;341362.22;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;364448.81;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;371432.56;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;407883.1;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;21193254.5;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;51510989.92;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;60254379.26;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;49652773.0;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;38537193.56;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;58617859.03;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;51664853.61;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;93330965.7;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;34481493.96;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;63836970.85;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;87640178.87;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;55588477.53;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;83440470.9;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;96576403.16;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;88735798.54;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;93444957.1;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;90797731.39;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;128520059.98;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;80733057.4;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;96098045.3;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;101490153.83;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;102159644.75;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;113902821.25;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;93933506.53;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;20102844.22;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;19885073.22;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;28056101.79;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;27528164.43;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;30230863.38;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;25031876.82;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2702571.88;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;15130165.19;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;20636867.73;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;15007540.42;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;13016079.67;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;11658959.53;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);45731479.6;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);45331523.04;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);42675964.8;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);43656602.15;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);43553391.48;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);59255620.32;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);58906170.64;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);62970934.68;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);47827430.05;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);51149219.85;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);54287842.92;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);46993604.84;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16055657.55;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15379653.5;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15750609.68;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14529423.72;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14860016.22;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;24724170.3;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19658028.54;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14467919.43;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15057137.55;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16279647.29;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15998973.83;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;13982593.53;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;261109.04;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;116137.94;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;151610.93;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;167487.37;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;173002.37;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;345724.57;12;6;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;524466.23;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;204809.89;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;142887.8;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;29414713.01;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;29835731.6;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;26773744.19;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28959691.06;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28520372.89;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;34185725.45;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;39248142.1;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;48503015.25;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;32770292.5;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;34345106.33;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;38084059.2;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;32868123.51;6;3;230440;sim;Fortaleza;23
+2017-07-01;2018;RREO;3;CE;2304400;2609716;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);446674549.22;7;4;230440;sim;Fortaleza;23
+2017-08-01;2018;RREO;3;CE;2304400;2609716;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);446223087.57;8;4;230440;sim;Fortaleza;23
+2017-09-01;2018;RREO;3;CE;2304400;2609716;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);434601353.55;9;5;230440;sim;Fortaleza;23
+2017-10-01;2018;RREO;3;CE;2304400;2609716;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);429344145.66;10;5;230440;sim;Fortaleza;23
+2017-11-01;2018;RREO;3;CE;2304400;2609716;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);436502224.44;11;6;230440;sim;Fortaleza;23
+2017-12-01;2018;RREO;3;CE;2304400;2609716;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);548538873.84;12;6;230440;sim;Fortaleza;23
+2018-01-01;2018;RREO;3;CE;2304400;2609716;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);464843439.25;1;1;230440;sim;Fortaleza;23
+2018-02-01;2018;RREO;3;CE;2304400;2609716;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);723059922.18;2;1;230440;sim;Fortaleza;23
+2018-03-01;2018;RREO;3;CE;2304400;2609716;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);456394952.34;3;2;230440;sim;Fortaleza;23
+2018-04-01;2018;RREO;3;CE;2304400;2609716;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);484192634.56;4;2;230440;sim;Fortaleza;23
+2018-05-01;2018;RREO;3;CE;2304400;2609716;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);543369834.51;5;3;230440;sim;Fortaleza;23
+2018-06-01;2018;RREO;3;CE;2304400;2609716;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);456089775.26;6;3;230440;sim;Fortaleza;23

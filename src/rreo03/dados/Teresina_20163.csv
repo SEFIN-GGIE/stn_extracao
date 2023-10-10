@@ -1,0 +1,301 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);164354477.6;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);176969439.79;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);173514919.5;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);162275245.39;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);176064879.22;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);275746684.92;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);202617721.89;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);211568821.84;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);211584313.69;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);187264104.02;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);205340631.95;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);201557587.12;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;28357891.69;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;29339521.71;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;29397480.04;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;24627257.27;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;26917164.6;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;39105251.9;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;27506542.21;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;30427052.07;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;60265366.04;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;31325156.45;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;31258653.03;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;31782330.96;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3534587.17;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2540436.61;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2352299.47;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;394680.81;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;387905.56;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;817602.69;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1262601.97;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5952542.98;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;34451804.15;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4451102.4;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4010904.27;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3960165.18;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15619440.13;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15520454.92;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15151296.32;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15234133.26;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15722627.74;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22935816.66;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15491072.29;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;14259337.01;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15508293.95;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15573652.11;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;16061113.21;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;16229081.77;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2461126.82;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2557352.98;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3563975.44;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2234169.26;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2471419.34;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3152753.14;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2477088.57;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2495676.93;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2582943.86;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2204181.12;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2825676.14;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;1564284.65;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;6130381.77;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8088976.24;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7528797.46;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;6262090.69;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7778100.52;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11698041.52;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7707666.76;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7180021.32;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7096191.19;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8545933.99;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7702848.24;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9322290.12;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;OutrasReceitasTributarias;Outras Receitas Tributárias;612355.8;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;OutrasReceitasTributarias;Outras Receitas Tributárias;632300.96;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;OutrasReceitasTributarias;Outras Receitas Tributárias;801111.35;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;OutrasReceitasTributarias;Outras Receitas Tributárias;502183.25;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;OutrasReceitasTributarias;Outras Receitas Tributárias;557111.44;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;OutrasReceitasTributarias;Outras Receitas Tributárias;501037.89;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;OutrasReceitasTributarias;Outras Receitas Tributárias;568112.62;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;OutrasReceitasTributarias;Outras Receitas Tributárias;539473.83;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;OutrasReceitasTributarias;Outras Receitas Tributárias;626132.89;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;OutrasReceitasTributarias;Outras Receitas Tributárias;550286.83;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;OutrasReceitasTributarias;Outras Receitas Tributárias;658111.17;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;OutrasReceitasTributarias;Outras Receitas Tributárias;706509.24;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;6977033.38;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;12987579.05;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;10249667.58;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;10520733.09;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;10819776.68;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;13820551.32;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;14401163.17;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;10777570.77;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;11009070.06;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;10846616.36;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;11169271.16;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;10580913.85;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;3067168.73;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;2279286.22;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;2504793.76;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;2703843.86;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;3439290.15;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;50298732.45;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;8028953.94;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;7433624.49;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;10579639.06;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;9196022.67;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;5741427.42;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;6768309.54;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;5993322.94;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;5827297.03;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;5783378.24;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;5371336.78;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;35985.57;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;11582171.12;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;5237404.42;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;5913795.68;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;6047745.46;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;6110455.26;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;6033274.78;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;6355700.15;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;115060626.57;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;121994765.46;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;121106932.4;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;114808386.88;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;130766122.79;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;144847796.04;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;142987276.75;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;150981714.56;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;119305236.22;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;125994261.25;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;147542893.14;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;137138988.22;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27291172.98;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;31918935.09;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;26611014.69;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;30782823.64;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33702162.81;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;39322903.63;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;37595701.64;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;47064382.85;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;28587781.84;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33984733.0;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;45191491.92;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;37335493.45;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;32951111.91;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;33060532.05;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;41209044.5;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;28189986.69;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;35578959.82;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;34869544.11;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;38003007.66;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;35787724.02;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;31930998.39;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;33185979.79;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;32956447.09;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;33793168.18;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7487277.17;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5642916.19;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6196224.23;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5407381.49;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3560254.13;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2907638.39;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4334997.38;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5985821.66;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7919603.15;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6547047.03;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6772285.74;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7684683.23;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;2325.29;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;1800.49;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;4798.45;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;49178.18;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;7370.96;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;9809.76;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;5673.41;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;2274.97;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;1361.87;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;2721.53;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;3975.14;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;2933.33;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;61962.01;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;61962.01;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;61962.01;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;61962.01;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;61962.01;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;61962.01;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;61962.01;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;61962.01;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;60547.52;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;60547.52;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;60547.52;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;60547.52;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;10279.11;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;10937.42;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;10906.3;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;12650.33;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;11525.63;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;11380.85;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;13311.07;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;10280.2;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;10036.85;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;10298.51;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;11694.96;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;6958.78;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;14578667.36;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;21106261.72;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15450045.54;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19807283.29;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19919703.8;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;21389998.75;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;28289896.94;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;22336675.33;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16518532.85;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;18616785.31;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;25240377.18;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23275348.24;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;32677830.74;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;30191420.49;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;31562936.68;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;30497121.25;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;37924183.63;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;46274558.54;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;34682726.64;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;39732593.52;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;34276373.75;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;33586148.56;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;37306073.59;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;34979855.49;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4898434.29;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4540990.32;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4472667.48;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4243687.51;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4086539.43;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;16092182.09;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4456381.4;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6035064.27;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4377256.85;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3791592.03;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3595112.42;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8931344.4;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);21876596.03;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);22602583.88;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);23290064.02;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);21748903.34;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);23431768.64;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);27532688.63;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);27792806.99;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);26397965.96;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);22601558.69;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);23595446.42;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);25908486.03;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);32301138.1;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6977033.38;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7119189.04;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7176753.99;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7495912.27;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7323163.98;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9917769.46;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10651428.09;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7641882.66;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;8013501.25;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7857484.4;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7957697.2;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10580913.85;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1338736.95;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1343978.2;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1396825.75;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1352194.67;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1421851.85;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;2178271.41;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1138448.28;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;973594.2;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;885991.54;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;979696.53;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;951500.37;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;5943467.36;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13560825.7;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;14139416.64;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;14716484.28;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12900796.4;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;14686752.81;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15436647.76;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16002930.62;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17782489.1;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13702065.9;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;14758265.49;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16999288.46;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15776756.89;6;3;221100;sim;Teresina;22
+2015-07-01;2016;RREO;3;PI;2211001;844245;<MR-11>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);142477881.57;7;4;221100;sim;Teresina;22
+2015-08-01;2016;RREO;3;PI;2211001;844245;<MR-10>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);154366855.91;8;4;221100;sim;Teresina;22
+2015-09-01;2016;RREO;3;PI;2211001;844245;<MR-9>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);150224855.48;9;5;221100;sim;Teresina;22
+2015-10-01;2016;RREO;3;PI;2211001;844245;<MR-8>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);140526342.05;10;5;221100;sim;Teresina;22
+2015-11-01;2016;RREO;3;PI;2211001;844245;<MR-7>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);152633110.58;11;6;221100;sim;Teresina;22
+2015-12-01;2016;RREO;3;PI;2211001;844245;<MR-6>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);248213996.29;12;6;221100;sim;Teresina;22
+2016-01-01;2016;RREO;3;PI;2211001;844245;<MR-5>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);174824914.9;1;1;221100;sim;Teresina;22
+2016-02-01;2016;RREO;3;PI;2211001;844245;<MR-4>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);185170855.88;2;1;221100;sim;Teresina;22
+2016-03-01;2016;RREO;3;PI;2211001;844245;<MR-3>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);188982755.0;3;2;221100;sim;Teresina;22
+2016-04-01;2016;RREO;3;PI;2211001;844245;<MR-2>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);163668657.6;4;2;221100;sim;Teresina;22
+2016-05-01;2016;RREO;3;PI;2211001;844245;<MR-1>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);179432145.92;5;3;221100;sim;Teresina;22
+2016-06-01;2016;RREO;3;PI;2211001;844245;<MR>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);169256449.02;6;3;221100;sim;Teresina;22

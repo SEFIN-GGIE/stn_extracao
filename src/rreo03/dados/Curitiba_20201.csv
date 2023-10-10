@@ -1,0 +1,348 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);659477873.79;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);677216125.4;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);667428384.87;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);622384541.56;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);723700342.48;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);637672753.58;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);624319244.3;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);694064603.87;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);697597453.98;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);948097416.16;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);836138739.89;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1009795070.23;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;232503203.42;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;227714464.11;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;246062727.73;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;229410248.82;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;239184887.08;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;250557130.45;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;240503397.14;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;242200294.72;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;271334647.54;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;260087854.47;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;215192025.58;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;550173283.82;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;56712349.55;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;55097485.24;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;55317609.26;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;53515992.72;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;55437498.8;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;53996617.38;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;54242532.21;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;54361311.81;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;55278723.31;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;52619714.82;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;31125516.52;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;318766984.21;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;110445506.3;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;106131882.82;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;110695108.83;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;109586172.69;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;110260027.0;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;116105668.58;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;117148382.68;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;114164282.95;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;117314671.05;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;124849325.69;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;124682062.51;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;106284190.36;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;22929608.65;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;24391719.33;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;28198671.75;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;24954317.22;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;30646586.02;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;30437776.22;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;27354736.01;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;31646867.66;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;34716026.82;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;33531564.53;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;21756596.99;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;23132267.66;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;27090014.05;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;27544850.92;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;36896338.99;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;27634717.54;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;27966434.55;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;35557870.76;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;27896017.64;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;27989639.19;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;50749148.28;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;41807544.67;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;29990026.1;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;33115543.14;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;15325724.87;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14548525.8;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14954998.9;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;13719048.65;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14874340.71;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14459197.51;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;13861728.6;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14038193.11;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;13276078.08;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7279704.76;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7637823.46;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;68874298.45;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;28965079.8;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;29305464.57;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;29677090.91;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;29421502.53;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;29104543.13;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;29822126.56;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;29762074.53;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;29917348.63;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;48428540.65;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;32139636.82;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;30699813.77;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;29902898.47;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;23938026.15;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;66341700.21;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;63935171.85;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;63577075.45;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;37433055.05;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;20252791.11;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;54063477.61;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;59081328.26;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;31706339.46;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;42810019.61;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;53909692.71;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;23159141.65;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;20236962.38;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;32126654.26;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;59908410.33;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;59504495.33;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;33267858.71;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;16027497.94;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;49518750.79;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;56442445.06;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;24652676.06;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;37754597.64;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;17675443.7;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;18439978.94;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3701063.77;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;34215045.95;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4026761.52;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4072580.12;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4165196.34;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4225293.17;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4544726.82;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2638883.2;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;7053663.4;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5055421.97;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;36234249.01;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4719162.71;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;70854171.92;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;72404935.76;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;72469117.43;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;67175761.34;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;73353171.05;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;70869982.82;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;74509617.32;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;73697780.87;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;66574908.19;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;66293626.95;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;60307891.47;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;62482667.19;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;283826604.33;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;264212356.12;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;241075713.69;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;220613234.5;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;325894586.23;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;250971099.87;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;205325721.21;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;266315820.59;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;260654386.16;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;381476915.46;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;457803479.9;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;325443137.13;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;24818810.03;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;24213480.91;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;31073783.56;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;24476751.14;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33471865.61;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;24432179.6;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21748243.03;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20022082.07;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27172830.4;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;46325190.17;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27638153.42;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;39935898.03;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;63057483.73;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;78168879.03;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;62473377.29;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;54476468.57;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;73610858.36;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;68590483.28;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;53326415.91;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;81667270.81;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;60858303.86;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;82382261.1;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;67069808.93;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;63003258.95;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;70296590.19;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;28343078.89;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;17901394.93;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;13029545.18;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;14483413.61;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;13298720.5;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;11950350.78;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12640303.93;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;10418982.71;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12530455.14;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;212551008.25;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;83280263.37;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;6016.45;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;3490.75;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;33000.0;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;104.74;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;39873.73;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;16235.06;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;2065.48;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;6708.18;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;15571.85;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;16659.38;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;17591.92;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;24.74;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;998595.94;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1012388.25;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;991317.53;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1039610.9;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1052421.98;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;941926.89;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1148232.37;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1016172.58;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1067129.08;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1254311.42;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;913845.53;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;738116.82;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;50770192.78;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;46191538.44;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;52210505.37;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;41497192.85;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;47192572.97;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;47647308.56;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;39621398.91;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;51984521.8;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;47512631.56;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;54789451.65;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;61771725.11;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;60586885.34;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;73878915.21;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;86279499.85;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;76392335.01;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;86093561.12;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;156043579.97;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;96044245.98;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;77529014.73;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;98978761.22;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;113608936.7;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;184178586.6;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;87841346.74;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;77898689.88;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;19390788.17;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;17237204.63;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;14208563.26;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;12186718.92;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;18730099.94;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;15199622.77;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;20154956.49;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;22852030.8;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;18898631.98;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;165289362.85;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;18225836.46;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;18633941.97;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);61928154.78;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);66083589.8;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);90395737.17;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);87448472.61;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);62345691.86;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);44752501.23;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);78204146.79;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);88635768.58;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);75593470.21;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);79998259.06;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);92652737.32;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);69663426.09;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;28729697.22;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;38376857.04;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;66541931.91;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;67484489.51;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;39126018.48;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;23296592.21;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;57865577.34;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;64212296.36;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;54342593.65;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;51571695.69;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;29667125.4;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;30849343.07;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1362958.34;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1358469.23;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1359230.62;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1359487.04;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1356106.61;7;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;2703507.97;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1352964.71;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1344313.01;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;2695264.0;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1347530.34;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1422570.67;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;31835499.22;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;26348263.53;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;22494574.64;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;18604496.06;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;21863566.77;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;21455909.02;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17635061.48;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;23070507.51;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;19906563.55;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;25731299.37;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;61638081.58;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;37391512.35;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);597549719.01;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);611132535.6;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);577032647.7;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);534936068.95;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);661354650.62;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);592920252.35;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);546115097.51;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);605428835.29;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);622003983.77;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);868099157.1;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);743486002.57;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);940131644.14;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);597549719.01;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);611132535.6;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);577032647.7;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);534936068.95;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);661354650.62;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);592920252.35;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);546115097.51;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);605428835.29;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);622003983.77;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);868099157.1;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);743486002.57;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);940131644.14;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);64382335.23;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);70289746.89;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);70101191.71;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);65261138.39;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);70954020.93;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);68625729.94;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);72599921.32;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);71580830.27;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);64889407.95;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);63436255.82;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);58787464.45;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasDeBancada;(-) Transferências obrigatórias da União relativas às emendas de bancada  (art. 166, § 16, da CF)  (VI);61109549.92;2;1;410690;sim;Curitiba;41
+2019-03-01;2020;RREO;1;PR;4106902;1933105;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);533167383.78;3;2;410690;sim;Curitiba;41
+2019-04-01;2020;RREO;1;PR;4106902;1933105;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);540842788.71;4;2;410690;sim;Curitiba;41
+2019-05-01;2020;RREO;1;PR;4106902;1933105;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);506931455.99;5;3;410690;sim;Curitiba;41
+2019-06-01;2020;RREO;1;PR;4106902;1933105;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);469674930.56;6;3;410690;sim;Curitiba;41
+2019-07-01;2020;RREO;1;PR;4106902;1933105;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);590400629.69;7;4;410690;sim;Curitiba;41
+2019-08-01;2020;RREO;1;PR;4106902;1933105;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);524294522.41;8;4;410690;sim;Curitiba;41
+2019-09-01;2020;RREO;1;PR;4106902;1933105;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);473515176.19;9;5;410690;sim;Curitiba;41
+2019-10-01;2020;RREO;1;PR;4106902;1933105;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);533848005.02;10;5;410690;sim;Curitiba;41
+2019-11-01;2020;RREO;1;PR;4106902;1933105;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);557114575.82;11;6;410690;sim;Curitiba;41
+2019-12-01;2020;RREO;1;PR;4106902;1933105;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);804662901.28;12;6;410690;sim;Curitiba;41
+2020-01-01;2020;RREO;1;PR;4106902;1933105;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);684698538.12;1;1;410690;sim;Curitiba;41
+2020-02-01;2020;RREO;1;PR;4106902;1933105;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);879022094.22;2;1;410690;sim;Curitiba;41

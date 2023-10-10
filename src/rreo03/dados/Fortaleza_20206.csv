@@ -1,0 +1,336 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);647987664.35;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);870948617.54;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);584563541.33;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);548695138.65;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);553047070.36;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);588848788.99;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);697724870.52;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);683027049.25;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);644032345.89;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);590003808.14;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);592876688.09;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);773497886.82;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;158543978.83;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;333516124.82;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;149042031.95;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;117287168.95;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;111663609.91;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;118596017.78;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;140687130.6;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;153814618.07;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;151126841.25;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;153376506.01;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;149200810.66;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;204352477.34;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;48796462.94;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;222535847.94;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;36193186.04;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;22816154.47;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;22299665.18;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;25398915.22;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;29892137.39;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;28238786.29;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;29717773.26;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;28976347.84;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;27962618.38;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;31231709.87;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;76895223.6;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;71026696.22;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;72075767.62;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;60909128.28;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;55919759.74;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;56468797.87;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;68953364.43;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;72795380.13;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;74408324.93;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;75851477.14;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;74687318.86;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;93229712.29;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10244179.66;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9842728.77;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9700741.88;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4137258.25;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4023421.12;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6366825.88;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11656480.01;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;15288420.56;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;12469584.22;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;14807312.36;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;14327568.98;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;19087253.66;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;20578877.47;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;28269492.56;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;29249879.92;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;28702230.64;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;28738809.0;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;29014405.9;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;28039840.85;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;34983358.32;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;31735418.01;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;31195169.28;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;30058212.9;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;58148921.59;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2029235.16;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1841359.33;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1822456.49;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;722397.31;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;681954.87;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1347072.91;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2145307.92;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2508672.77;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2795740.83;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2546199.39;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2165091.54;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2654879.93;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;21289253.18;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;45580941.37;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;35045791.18;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;32090304.27;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;32211199.47;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;34675105.55;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;35171956.99;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;32874149.65;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;34061545.66;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;32571283.35;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;31883326.39;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;61296801.65;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;13311319.55;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;7699267.84;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;12704249.2;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;7696167.43;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;10503269.86;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;10465919.24;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;5905209.22;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;6067309.81;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;7136772.83;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;6089925.18;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;7998142.81;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;7069522.1;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;7639318.54;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4781675.42;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5724094.65;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4901662.67;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;6568382.36;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5013963.78;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3044956.12;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2464597.58;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1366573.38;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1875490.51;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2134494.19;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2264720.97;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5672001.01;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2917592.42;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;6980154.55;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2794504.76;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3934887.5;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5451955.46;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2860253.1;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;3602712.23;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5770199.45;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4214434.67;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5863648.62;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;4804801.13;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;5449792.3;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;7357533.79;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;7702325.56;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;6998470.25;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;6846839.09;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;6864954.44;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;6870546.9;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;7320808.83;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;6892699.71;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;8104892.53;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;7142794.77;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;15603310.99;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;433535371.22;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;464588458.02;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;371495745.95;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;375668374.3;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;387003747.74;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;412095497.61;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;488782921.75;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;464669837.28;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;432845963.95;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;379976255.57;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;384542606.21;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;467502166.34;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;76772648.37;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;110933050.06;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;64865624.48;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;63582671.65;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;66429497.44;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;54077174.2;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;93223517.27;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;59217824.74;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;47700479.42;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;64185590.77;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;85073139.1;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;126850621.19;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;98393331.31;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;89451522.81;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;81753834.12;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;59477769.83;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;52450394.56;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;66205695.22;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;76605195.26;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;94957441.63;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;106823092.95;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;101864993.36;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;103393878.64;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;119730190.49;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;48427157.8;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;67696472.81;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;38466223.57;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;23728482.83;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;25356873.18;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;28976164.0;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;17102480.77;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;13413592.62;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12099667.29;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;10084742.46;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9244571.63;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8128845.31;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;317.81;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;1359.12;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;10.0;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;12.12;4;2;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;12.37;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;6.18;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;92562.89;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;7848.05;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;916.22;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;5.54;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;49.59;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;347533.03;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;375941.83;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;346939.76;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;311349.54;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;310435.24;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;279171.87;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;335363.09;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;387853.09;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;455579.93;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;521393.0;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;571536.47;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;601108.09;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;111208760.36;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;93225513.62;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;71594449.36;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;21941181.83;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;106887832.5;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;61780956.86;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;64379768.3;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;71218904.37;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;70647245.84;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;75063575.1;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;79528543.77;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;85819237.19;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;98385622.54;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;102904597.77;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;114468664.66;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;206626906.5;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;135568714.82;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;200776323.09;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;237136590.88;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;225381657.94;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;195112050.47;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;128255044.66;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;106730931.06;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;126372114.48;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;15857949.27;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;12206291.7;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8573397.49;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8954653.45;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4818404.29;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6151294.37;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;20307105.06;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;18280325.61;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;11968522.49;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9884945.5;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;12109007.25;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;17673608.4;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);55244379.4;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);71574473.95;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);53487359.38;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);46491037.8;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);45710597.1;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);46885840.19;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);47161706.05;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);50330775.56;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);51823204.66;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);51668981.18;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);56974666.96;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);88594795.7;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10318358.64;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;17709934.89;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15941051.24;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16872295.45;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16617329.66;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16722771.04;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;17075015.58;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16716920.66;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;18221719.42;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;16175202.23;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;17182157.69;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;44692276.67;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;137823.18;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;172869.81;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;459781.82;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;198685.23;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;183827.42;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;255425.71;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;186644.96;7;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;184151.8;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;162251.87;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;135883.09;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;377553.61;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;44788197.58;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;53691669.25;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;37086526.32;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;29420057.12;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28909440.02;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;29907643.44;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;29900045.51;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;33613854.9;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;33417333.44;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;35331527.08;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;39656626.18;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;43524965.42;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);592743284.95;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);799374143.59;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);531076181.95;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);502204100.85;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);507336473.26;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);541962948.8;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);650563164.47;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);632696273.69;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);592209141.23;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);538334826.96;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);535902021.13;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);684903091.12;12;6;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);2000000.0;6;3;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);592743284.95;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);799374143.59;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);531076181.95;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);502204100.85;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);507336473.26;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);539962948.8;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);650563164.47;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);632696273.69;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);592209141.23;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);538334826.96;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);535902021.13;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);684903091.12;12;6;230440;sim;Fortaleza;23
+2020-01-01;2020;RREO;6;CE;2304400;2669342;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);592743284.95;1;1;230440;sim;Fortaleza;23
+2020-02-01;2020;RREO;6;CE;2304400;2669342;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);799374143.59;2;1;230440;sim;Fortaleza;23
+2020-03-01;2020;RREO;6;CE;2304400;2669342;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);531076181.95;3;2;230440;sim;Fortaleza;23
+2020-04-01;2020;RREO;6;CE;2304400;2669342;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);502204100.85;4;2;230440;sim;Fortaleza;23
+2020-05-01;2020;RREO;6;CE;2304400;2669342;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);507336473.26;5;3;230440;sim;Fortaleza;23
+2020-06-01;2020;RREO;6;CE;2304400;2669342;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);539962948.8;6;3;230440;sim;Fortaleza;23
+2020-07-01;2020;RREO;6;CE;2304400;2669342;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);650563164.47;7;4;230440;sim;Fortaleza;23
+2020-08-01;2020;RREO;6;CE;2304400;2669342;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);632696273.69;8;4;230440;sim;Fortaleza;23
+2020-09-01;2020;RREO;6;CE;2304400;2669342;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);592209141.23;9;5;230440;sim;Fortaleza;23
+2020-10-01;2020;RREO;6;CE;2304400;2669342;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);538334826.96;10;5;230440;sim;Fortaleza;23
+2020-11-01;2020;RREO;6;CE;2304400;2669342;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);535902021.13;11;6;230440;sim;Fortaleza;23
+2020-12-01;2020;RREO;6;CE;2304400;2669342;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);684903091.12;12;6;230440;sim;Fortaleza;23

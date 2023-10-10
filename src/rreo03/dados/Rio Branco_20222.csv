@@ -1,0 +1,343 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);106199348.32;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);92816635.4;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);99188376.82;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);98042072.65;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);89297502.85;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);97658249.12;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);104344692.57;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);157449005.36;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);115006951.05;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);135547505.46;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);151802432.11;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);108589903.05;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;13125018.36;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;14352326.02;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;14612540.63;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;15253291.88;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;14695369.92;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;14002941.21;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;14224628.63;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;22500006.75;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;11780476.86;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;16047632.01;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;31521681.45;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;16229641.5;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3175480.11;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3456239.03;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2853440.12;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3395828.13;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2440757.8;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1999452.67;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2708739.5;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2531689.56;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1951472.82;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2271086.74;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;18293030.08;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3294294.06;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;7196094.45;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6855150.81;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;8120948.45;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;8429753.54;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;8751069.9;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;8126969.4;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;8133694.11;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;10903673.95;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;7283480.56;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;7514775.94;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;8634885.8;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;8671931.63;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;721521.3;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;962549.28;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;882181.81;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;755341.64;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;956877.6;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;1005096.97;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;834846.4;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;817795.46;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;631476.7;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;756034.78;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;674741.93;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;979294.37;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1740161.73;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2721553.19;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2389075.8;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2267699.8;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2202136.3;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2501839.24;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2273541.52;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7996167.52;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1585944.9;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5250070.54;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2287844.58;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2673409.48;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;291760.77;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;356833.71;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;366894.45;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;404668.77;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;344528.32;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;369582.93;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;273807.1;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;250680.26;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;328101.88;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;255664.01;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1631179.06;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;610711.96;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;3349307.94;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;4711315.37;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;3877737.88;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;4017776.61;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;4105373.83;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;4284819.61;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;4515901.71;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;7082349.25;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;2765669.21;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;5877000.86;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;4170525.59;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;3563310.34;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;11298923.34;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;963166.43;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;-6364043.25;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;-5509989.57;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;-1980976.94;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;1531387.88;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;2803852.67;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;4705730.53;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;14354202.17;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;7521262.81;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;26525262.2;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;2351346.32;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;11209731.83;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;859872.9;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-6495699.23;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-5595081.08;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-2118294.33;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1436270.13;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2641129.55;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4571268.21;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;14150371.93;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;7453044.01;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;17685708.38;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2268766.53;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;89191.51;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;103293.53;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;131655.98;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;85091.51;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;137317.39;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;95117.75;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;162723.12;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;134462.32;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;203830.24;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;68218.8;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;8839553.82;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;82579.79;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;971678.32;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;962037.25;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;955329.48;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;976510.45;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;713342.44;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;595766.42;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;806209.12;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;841766.4;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;689109.96;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;617289.55;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;5540595.0;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;1080250.55;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;77295979.2;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;71549275.49;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;80952315.14;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;82991323.08;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;71649759.35;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;77222131.72;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;81807635.86;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;126481618.24;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;85048583.17;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;105297185.59;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;83640229.93;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;85036393.0;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;40690442.01;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;35190914.08;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;30687469.79;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;38444860.03;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;30192186.59;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33644171.26;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;43694581.82;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;45353812.4;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;45682066.5;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;63769121.59;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;38659796.37;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;45824531.39;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;13859893.95;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;15914028.85;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;13920225.36;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;18054274.29;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;15768424.85;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17500042.69;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17351269.2;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;18840060.27;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;18588626.92;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;15368485.13;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17970101.08;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16786124.78;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2640677.35;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2759329.41;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1722268.91;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1464989.26;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1233663.06;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1138287.71;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;877992.55;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2709151.17;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3118334.3;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3651482.38;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4700708.01;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3641528.89;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;1755.97;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;2749.2;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;687.05;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;1336.37;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;15155.12;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;76103.44;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;12352.37;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;5881.93;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;7128.24;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;3593.38;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;3155.98;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;15176.49;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;10785.73;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;9893.91;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;11427.42;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;9609.51;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;11433.73;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;11768.93;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;55249.84;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;11526.54;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;11828.0;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;10576.21;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;12314.55;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;12524.21;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11228576.42;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11040682.12;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;9662138.38;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12217548.78;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;9882070.75;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;10928590.06;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13328437.42;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;14047520.47;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12570075.06;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16145654.21;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11220776.75;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12539514.13;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;8863847.77;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;6631677.92;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;24948098.23;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;12798704.84;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;14546825.25;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;13923167.63;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;6487752.66;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;45513665.46;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;5070524.15;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;6348272.69;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;11073377.19;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;6216993.11;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;158441.16;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;278514.84;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5154496.94;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;313160.2;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;114634.25;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;21202.28;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;186464.58;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;-4162465.81;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;368909.68;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;187134.64;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;404137.94;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;328961.34;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13419668.16;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14113094.17;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);11760536.64;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14143081.19;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12001142.68;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13107456.61;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14939049.52;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);18461666.67;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);25336135.07;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);23817363.6;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);27814382.4;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13052745.82;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1963429.59;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3321688.41;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2476938.35;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2537131.77;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2535532.81;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2613731.63;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2508979.73;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5040456.29;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;808711.98;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4066553.99;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2477457.48;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1542250.54;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;15527.7;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;16022.82;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;15182.73;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;10935.66;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;21437.34;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;19650.31;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;31780.81;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;37124.05;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;9563.32;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;14672.62;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;22668.98;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;8638.95;4;2;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;11036263.15;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;3175647.15;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;13045212.42;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;-1754120.71;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11440710.87;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10775382.94;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9268415.56;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11595013.76;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9444172.53;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10474074.67;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12398288.98;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13384086.33;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13481596.62;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16560489.84;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12269043.52;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13255977.04;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);92779680.16;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);78703541.23;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);87427840.18;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);83898991.46;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);77296360.17;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);84550792.51;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);89405643.05;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);138987338.69;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);89670815.98;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);111730141.86;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);123988049.71;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);95537157.23;4;2;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);5700000.0;11;6;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);1500000.0;3;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);92779680.16;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);78703541.23;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);87427840.18;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);83898991.46;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);77296360.17;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);84550792.51;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);83705643.05;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);138987338.69;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);89670815.98;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);111730141.86;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);122488049.71;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);95537157.23;4;2;120040;sim;Rio Branco;12
+2021-05-01;2022;RREO;2;AC;1200401;419452;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);92779680.16;5;3;120040;sim;Rio Branco;12
+2021-06-01;2022;RREO;2;AC;1200401;419452;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);78703541.23;6;3;120040;sim;Rio Branco;12
+2021-07-01;2022;RREO;2;AC;1200401;419452;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);87427840.18;7;4;120040;sim;Rio Branco;12
+2021-08-01;2022;RREO;2;AC;1200401;419452;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);83898991.46;8;4;120040;sim;Rio Branco;12
+2021-09-01;2022;RREO;2;AC;1200401;419452;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);77296360.17;9;5;120040;sim;Rio Branco;12
+2021-10-01;2022;RREO;2;AC;1200401;419452;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);84550792.51;10;5;120040;sim;Rio Branco;12
+2021-11-01;2022;RREO;2;AC;1200401;419452;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);83705643.05;11;6;120040;sim;Rio Branco;12
+2021-12-01;2022;RREO;2;AC;1200401;419452;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);138987338.69;12;6;120040;sim;Rio Branco;12
+2022-01-01;2022;RREO;2;AC;1200401;419452;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);89670815.98;1;1;120040;sim;Rio Branco;12
+2022-02-01;2022;RREO;2;AC;1200401;419452;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);111730141.86;2;1;120040;sim;Rio Branco;12
+2022-03-01;2022;RREO;2;AC;1200401;419452;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);122488049.71;3;2;120040;sim;Rio Branco;12
+2022-04-01;2022;RREO;2;AC;1200401;419452;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);95537157.23;4;2;120040;sim;Rio Branco;12

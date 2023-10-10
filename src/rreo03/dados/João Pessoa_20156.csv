@@ -1,0 +1,283 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);165868049.09;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);135716300.38;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);171742053.57;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);182992503.23;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);158443715.08;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);146089579.03;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);144083033.34;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);131194524.44;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);148341561.58;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);137842777.26;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);133903254.16;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);180819939.84;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;28357565.14;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;26708798.4;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;51701327.6;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;57821994.27;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;38445740.04;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;30369925.99;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;29575457.35;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;27644722.79;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;30451498.69;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;25693776.38;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;27953066.05;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;33924329.58;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;965371.1;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1927861.3;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;15883850.7;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;16308419.91;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2203636.79;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1709166.36;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1715313.61;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1481093.98;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1343546.24;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1079717.52;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1242423.56;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2078261.93;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15095350.21;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;13298860.87;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;16417581.61;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;16549077.45;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15391484.37;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15516751.53;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;16782141.02;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15964913.15;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;16247496.61;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;15068680.96;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;16294779.85;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;16784180.44;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7871793.52;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6471835.22;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8117588.1;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8100290.83;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;16802200.52;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7364800.05;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5716286.4;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5178860.84;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7281393.39;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4705512.37;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5502996.45;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6486204.47;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2245705.33;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3151411.37;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3761733.44;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3845078.82;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1629715.8;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3408151.56;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3265619.79;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3596913.26;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4079131.24;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3346370.55;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3468100.32;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;6514505.87;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;OutrasReceitasTributarias;Outras Receitas Tributárias;2179344.98;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;OutrasReceitasTributarias;Outras Receitas Tributárias;1858829.64;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;OutrasReceitasTributarias;Outras Receitas Tributárias;7520573.75;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;OutrasReceitasTributarias;Outras Receitas Tributárias;13019127.26;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;OutrasReceitasTributarias;Outras Receitas Tributárias;2418702.56;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;OutrasReceitasTributarias;Outras Receitas Tributárias;2371056.49;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;OutrasReceitasTributarias;Outras Receitas Tributárias;2096096.53;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;OutrasReceitasTributarias;Outras Receitas Tributárias;1422941.56;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;OutrasReceitasTributarias;Outras Receitas Tributárias;1499931.21;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;OutrasReceitasTributarias;Outras Receitas Tributárias;1493494.98;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;OutrasReceitasTributarias;Outras Receitas Tributárias;1444765.87;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;OutrasReceitasTributarias;Outras Receitas Tributárias;2061176.87;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;4462442.86;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;3998369.03;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;4319261.73;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;4551435.72;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;4780519.77;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;4641793.19;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;5224430.85;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;5037845.32;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;5164532.93;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;4976880.25;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;5298382.28;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;7829013.64;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;3851194.86;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;2619569.87;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;2831439.56;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;3411057.32;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;3750469.79;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;3394016.24;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;3780532.46;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;3162124.17;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;2819798.06;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;3886634.73;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;2100989.27;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;4122913.71;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;124764759.86;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;98399522.95;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;105520686.65;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;112179616.28;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;107215971.62;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;102887592.93;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;99310807.46;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;91068177.73;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;97744059.52;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;95137504.85;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;93644865.83;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;125399392.36;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;CotaParteDoFPM;Cota-Parte do FPM;34341214.73;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;CotaParteDoFPM;Cota-Parte do FPM;35055727.02;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;CotaParteDoFPM;Cota-Parte do FPM;25532948.04;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;CotaParteDoFPM;Cota-Parte do FPM;27556816.79;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;CotaParteDoFPM;Cota-Parte do FPM;33887197.79;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;CotaParteDoFPM;Cota-Parte do FPM;29485297.51;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;CotaParteDoFPM;Cota-Parte do FPM;25828146.53;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;CotaParteDoFPM;Cota-Parte do FPM;25535148.06;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;CotaParteDoFPM;Cota-Parte do FPM;21288811.76;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;CotaParteDoFPM;Cota-Parte do FPM;24230195.94;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;CotaParteDoFPM;Cota-Parte do FPM;27357793.24;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;CotaParteDoFPM;Cota-Parte do FPM;46260224.74;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;CotaParteDoICMS;Cota-Parte do ICMS;30255509.5;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;CotaParteDoICMS;Cota-Parte do ICMS;19934457.36;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;CotaParteDoICMS;Cota-Parte do ICMS;30063987.4;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;CotaParteDoICMS;Cota-Parte do ICMS;26116202.0;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;CotaParteDoICMS;Cota-Parte do ICMS;26310156.59;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;CotaParteDoICMS;Cota-Parte do ICMS;26216159.36;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;CotaParteDoICMS;Cota-Parte do ICMS;25739765.5;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;CotaParteDoICMS;Cota-Parte do ICMS;18954751.04;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;CotaParteDoICMS;Cota-Parte do ICMS;31072370.18;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;CotaParteDoICMS;Cota-Parte do ICMS;25859715.06;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;CotaParteDoICMS;Cota-Parte do ICMS;20458284.02;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;CotaParteDoICMS;Cota-Parte do ICMS;34030787.22;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;CotaParteDoIPVA;Cota-Parte do IPVA;2029332.67;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;CotaParteDoIPVA;Cota-Parte do IPVA;3784364.59;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;CotaParteDoIPVA;Cota-Parte do IPVA;4321659.91;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;CotaParteDoIPVA;Cota-Parte do IPVA;4487374.69;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;CotaParteDoIPVA;Cota-Parte do IPVA;4406001.64;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;CotaParteDoIPVA;Cota-Parte do IPVA;3907686.33;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;CotaParteDoIPVA;Cota-Parte do IPVA;4000738.93;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;CotaParteDoIPVA;Cota-Parte do IPVA;4420285.56;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;CotaParteDoIPVA;Cota-Parte do IPVA;3606246.26;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;CotaParteDoIPVA;Cota-Parte do IPVA;2634602.44;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;CotaParteDoIPVA;Cota-Parte do IPVA;2014296.75;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;CotaParteDoIPVA;Cota-Parte do IPVA;1057741.26;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;CotaParteDoITR;Cota-Parte do ITR;456.77;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;CotaParteDoITR;Cota-Parte do ITR;1121.21;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;CotaParteDoITR;Cota-Parte do ITR;2084.05;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;CotaParteDoITR;Cota-Parte do ITR;65.93;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;CotaParteDoITR;Cota-Parte do ITR;4532.81;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;CotaParteDoITR;Cota-Parte do ITR;2970.49;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;CotaParteDoITR;Cota-Parte do ITR;1806.23;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;CotaParteDoITR;Cota-Parte do ITR;5742.54;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;CotaParteDoITR;Cota-Parte do ITR;912.6;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;CotaParteDoITR;Cota-Parte do ITR;72830.06;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;CotaParteDoITR;Cota-Parte do ITR;664.92;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;CotaParteDoITR;Cota-Parte do ITR;1384.58;12;6;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;TransferenciasDaLC871996;Transferências da LC 87/1996;133238.01;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;TransferenciasDaLC871996;Transferências da LC 87/1996;33309.5;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;TransferenciasDaLC871996;Transferências da LC 87/1996;33309.5;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;TransferenciasDaLC871996;Transferências da LC 87/1996;33309.5;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;TransferenciasDaLC871996;Transferências da LC 87/1996;33309.5;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;TransferenciasDaLC871996;Transferências da LC 87/1996;33309.5;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;TransferenciasDaLC871996;Transferências da LC 87/1996;33309.5;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;TransferenciasDaLC871996;Transferências da LC 87/1996;33309.5;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;TransferenciasDaLC871996;Transferências da LC 87/1996;33309.5;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;TransferenciasDaLC611989;Transferências da LC 61/1989;35864.75;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;TransferenciasDaLC611989;Transferências da LC 61/1989;30537.67;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;TransferenciasDaLC611989;Transferências da LC 61/1989;19503.72;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;TransferenciasDaLC611989;Transferências da LC 61/1989;22076.1;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;TransferenciasDaLC611989;Transferências da LC 61/1989;21917.17;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;TransferenciasDaLC611989;Transferências da LC 61/1989;25217.11;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;TransferenciasDaLC611989;Transferências da LC 61/1989;21203.5;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;TransferenciasDaLC611989;Transferências da LC 61/1989;18824.93;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;TransferenciasDaLC611989;Transferências da LC 61/1989;23560.52;9;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;TransferenciasDaLC611989;Transferências da LC 61/1989;18456.16;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;TransferenciasDaLC611989;Transferências da LC 61/1989;141436.33;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;TransferenciasDoFUNDEB;Transferências do FUNDEB;15442284.21;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;TransferenciasDoFUNDEB;Transferências do FUNDEB;14698667.19;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;TransferenciasDoFUNDEB;Transferências do FUNDEB;13703012.03;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;TransferenciasDoFUNDEB;Transferências do FUNDEB;23924156.74;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;TransferenciasDoFUNDEB;Transferências do FUNDEB;14556310.4;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;TransferenciasDoFUNDEB;Transferências do FUNDEB;14577914.92;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;TransferenciasDoFUNDEB;Transferências do FUNDEB;11241564.99;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;TransferenciasDoFUNDEB;Transferências do FUNDEB;12073154.52;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;TransferenciasDoFUNDEB;Transferências do FUNDEB;12194348.23;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;TransferenciasDoFUNDEB;Transferências do FUNDEB;12991836.81;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;TransferenciasDoFUNDEB;Transferências do FUNDEB;12737503.14;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;TransferenciasDoFUNDEB;Transferências do FUNDEB;16472957.43;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;42660097.23;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;24894647.91;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;31877491.5;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;29939686.02;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;27996545.72;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;28639037.71;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;32444272.28;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;30026961.58;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;29524500.47;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;29315015.04;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;31024558.1;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;27401551.3;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4432086.37;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3990040.13;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7369338.03;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5028399.64;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4251013.86;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4796250.68;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6191805.22;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4281654.43;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;12161672.38;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8147981.05;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4905950.73;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9544290.55;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);16451471.62;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14073950.15;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14630682.7;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14251223.42;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15014015.91;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14596254.11;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13696721.36;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13372197.02;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14306793.52;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13391462.84;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13062357.56;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);18147639.37;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2530838.99;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2206560.46;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2496015.02;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2439956.69;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2676760.04;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2542900.16;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2617509.21;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2551092.86;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2820920.66;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2542910.4;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2685864.77;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4881441.9;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;780352.65;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;822426.88;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;826591.99;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;843249.03;4;2;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;884883.8;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1495752.57;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;812446.65;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;811365.14;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;801922.48;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;755882.79;11;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13140279.98;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11044962.81;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11308075.69;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10968017.7;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12337255.87;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11168470.15;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9583459.58;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10008657.51;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10674507.72;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10046629.96;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9620610.0;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13266197.47;12;6;250750;sim;João Pessoa;25
+2015-01-01;2015;RREO;6;PB;2507507;780738;<MR-11>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);149416577.47;1;1;250750;sim;João Pessoa;25
+2015-02-01;2015;RREO;6;PB;2507507;780738;<MR-10>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);121642350.23;2;1;250750;sim;João Pessoa;25
+2015-03-01;2015;RREO;6;PB;2507507;780738;<MR-9>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);157111370.87;3;2;250750;sim;João Pessoa;25
+2015-04-01;2015;RREO;6;PB;2507507;780738;<MR-8>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);168741279.81;4;2;250750;sim;João Pessoa;25
+2015-05-01;2015;RREO;6;PB;2507507;780738;<MR-7>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);143429699.17;5;3;250750;sim;João Pessoa;25
+2015-06-01;2015;RREO;6;PB;2507507;780738;<MR-6>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);131493324.92;6;3;250750;sim;João Pessoa;25
+2015-07-01;2015;RREO;6;PB;2507507;780738;<MR-5>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);130386311.98;7;4;250750;sim;João Pessoa;25
+2015-08-01;2015;RREO;6;PB;2507507;780738;<MR-4>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);117822327.42;8;4;250750;sim;João Pessoa;25
+2015-09-01;2015;RREO;6;PB;2507507;780738;<MR-3>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);134034768.06;9;5;250750;sim;João Pessoa;25
+2015-10-01;2015;RREO;6;PB;2507507;780738;<MR-2>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);124451314.42;10;5;250750;sim;João Pessoa;25
+2015-11-01;2015;RREO;6;PB;2507507;780738;<MR-1>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);120840896.6;11;6;250750;sim;João Pessoa;25
+2015-12-01;2015;RREO;6;PB;2507507;780738;<MR>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);162672300.47;12;6;250750;sim;João Pessoa;25

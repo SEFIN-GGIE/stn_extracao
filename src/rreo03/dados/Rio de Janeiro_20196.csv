@@ -1,0 +1,324 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2098876561.82;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);3379530207.39;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1753584279.07;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1872205470.75;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1810856526.89;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1724687479.11;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1820383476.47;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1828050379.3;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1738920779.72;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1908886796.05;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1932542726.74;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2356682988.18;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;974786077.71;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;2153774987.16;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;899558862.44;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;920955996.26;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;931787472.89;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;922510443.04;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;957093888.91;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;973763818.45;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;944665421.21;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1010112162.07;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;981655921.94;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;1148559866.36;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;235690552.38;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1331043547.61;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;224731673.54;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;229687528.23;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;231566991.6;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;231587535.31;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;222532753.5;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;231587467.51;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;227817722.46;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;237224067.96;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;229902155.57;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;174218680.89;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;539913904.83;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;479339483.74;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;491257323.21;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;474882460.41;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;480548562.32;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;487154990.73;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;514771241.95;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;514028171.11;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;497440755.1;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;549783502.11;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;548189092.49;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;668088982.82;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;59704706.59;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;61119689.3;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;48937507.8;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;56303963.73;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;65812495.96;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;57811394.94;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;70538158.53;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;86139082.89;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;68739305.66;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;75478257.25;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;60122189.44;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;101949895.92;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;81629225.18;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;104175958.12;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;98733909.98;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;102779667.46;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;109951934.68;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;105335155.51;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;107339319.12;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;103876935.03;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;112676135.23;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;105387393.65;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;108081788.09;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;177091911.61;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;57847688.73;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;178096308.39;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;35898447.91;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;57302376.43;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;43907488.33;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;40621366.55;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;41912415.81;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;38132161.91;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;37991502.76;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;42238941.1;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;35360696.35;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;27210395.12;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;97214403.89;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;144111859.41;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;59993121.65;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;101855001.01;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;102724450.0;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;103157423.6;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;97901580.65;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;100583690.29;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;95040616.08;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;94650138.57;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;101116627.4;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;154677344.43;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;36953299.61;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;25631295.34;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;73666036.29;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;29025840.73;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;24177038.3;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;23176134.11;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;33662986.01;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;16366451.99;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;20912464.3;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;23901251.64;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;21800196.9;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;29640006.06;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9804739.75;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;13189637.71;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;13411383.96;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;16113683.99;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;12655177.23;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;10313491.83;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;13557067.03;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4402438.77;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;7992802.56;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;10334669.39;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;6062362.93;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;6537776.12;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;27148559.86;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;12441657.63;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;60254652.33;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;12912156.74;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;11521861.07;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;12862642.28;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;20105918.98;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;11964013.22;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;12919661.74;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;13566582.25;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;15737833.97;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;23102229.94;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3ReceitaIndustrial;Receita Industrial;181068.44;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3ReceitaIndustrial;Receita Industrial;156555.44;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3ReceitaIndustrial;Receita Industrial;247696.95;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3ReceitaIndustrial;Receita Industrial;732597.01;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3ReceitaIndustrial;Receita Industrial;257032.78;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3ReceitaIndustrial;Receita Industrial;210616.21;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3ReceitaIndustrial;Receita Industrial;309200.76;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3ReceitaIndustrial;Receita Industrial;263488.66;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3ReceitaIndustrial;Receita Industrial;197831.37;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3ReceitaIndustrial;Receita Industrial;226490.49;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3ReceitaIndustrial;Receita Industrial;208758.77;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3ReceitaIndustrial;Receita Industrial;230820.85;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;7614764.69;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;9561475.77;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;10326368.52;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;13450912.82;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;8945427.83;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;10247286.27;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;8093682.99;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;14788155.07;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;9020431.33;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;10946620.82;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;8500206.89;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;11188328.99;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;906203011.2;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;973571769.88;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;661799621.26;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;745185458.71;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;688345583.77;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;621540471.08;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;655654152.42;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;658615664.27;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;605140624.22;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;697855544.71;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;726770710.91;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;1014295438.48;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33529666.11;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;36830330.63;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27576455.58;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;26903867.67;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;34526426.19;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27196390.14;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;37190961.79;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27146866.23;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;24164714.47;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;22246757.86;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;30192033.79;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;51472433.52;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;220408021.78;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;214760581.11;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;175004991.81;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;207884615.51;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;186148518.64;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;169876704.57;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;180936938.42;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;186750652.78;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;181005150.14;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;223029290.44;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;195068970.28;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;252446329.31;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;217880844.7;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;240160924.4;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;65847065.25;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;97147326.21;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;28828565.29;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;22140684.55;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;27065442.74;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;20320877.44;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;18250738.84;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;17538243.98;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;11395165.04;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;16410242.25;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;4122.32;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;1933.73;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;4515.79;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;1569.76;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;2672.8;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;7832.82;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;3353.12;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;580.3;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;18335.43;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;48612.51;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;91291.97;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;5686.91;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4687731.03;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4953837.83;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;3969269.4;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5296031.11;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4455902.48;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4861473.26;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5186892.55;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4260547.51;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5320192.9;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5422920.18;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;4695257.08;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;6757627.09;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;266495825.2;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;251137342.4;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;213311878.53;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;230374948.15;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;200294403.66;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;181070378.84;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;202648140.33;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;193369583.58;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;187386825.66;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;226632668.33;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;201589372.88;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;272062833.39;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;163196800.06;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;225726819.78;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;176085444.9;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;177577100.3;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;234089094.71;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;216387006.9;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;202622423.47;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;226766556.43;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;188994666.78;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;202937051.41;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;283738619.87;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;415140286.01;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;75923936.28;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;72722264.39;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;47992571.96;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;60999664.21;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;54619521.32;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;43845104.8;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;67667984.73;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;63669110.57;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;63943391.21;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;71194587.75;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;92490303.93;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;-1908816.99;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);160761122.75;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);207098779.03;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);79110047.98;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);135351153.57;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);120209943.84;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);105646157.94;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);115814543.82;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);125041681.27;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);113581634.99;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);122198599.98;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);119081815.28;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);197944854.74;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;57686957.56;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;100829012.22;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15222383.98;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;60810027.67;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;60961486.04;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;60829540.91;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;61010137.93;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;61199205.18;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;61157231.28;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;61295625.99;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;63248459.91;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;120984873.51;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7772088.03;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;6928245.29;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;9407204.45;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7094443.9;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;8456040.73;5;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7692265.82;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;16146571.28;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;6672577.38;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7245809.01;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7544811.78;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;14619824.12;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;95302077.16;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;99341521.52;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;54480459.55;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;67446682.0;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;50792417.07;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;44816617.03;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;47112140.07;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;47695904.81;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;45751826.33;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;53657164.98;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;48288543.59;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;62340157.11;12;6;330455;sim;Rio de Janeiro;33
+2019-01-01;2019;RREO;6;RJ;3304557;6688927;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1938115439.07;1;1;330455;sim;Rio de Janeiro;33
+2019-02-01;2019;RREO;6;RJ;3304557;6688927;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);3172431428.36;2;1;330455;sim;Rio de Janeiro;33
+2019-03-01;2019;RREO;6;RJ;3304557;6688927;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1674474231.09;3;2;330455;sim;Rio de Janeiro;33
+2019-04-01;2019;RREO;6;RJ;3304557;6688927;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1736854317.18;4;2;330455;sim;Rio de Janeiro;33
+2019-05-01;2019;RREO;6;RJ;3304557;6688927;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1690646583.05;5;3;330455;sim;Rio de Janeiro;33
+2019-06-01;2019;RREO;6;RJ;3304557;6688927;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1619041321.17;6;3;330455;sim;Rio de Janeiro;33
+2019-07-01;2019;RREO;6;RJ;3304557;6688927;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1704568932.65;7;4;330455;sim;Rio de Janeiro;33
+2019-08-01;2019;RREO;6;RJ;3304557;6688927;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1703008698.03;8;4;330455;sim;Rio de Janeiro;33
+2019-09-01;2019;RREO;6;RJ;3304557;6688927;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1625339144.73;9;5;330455;sim;Rio de Janeiro;33
+2019-10-01;2019;RREO;6;RJ;3304557;6688927;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1786688196.07;10;5;330455;sim;Rio de Janeiro;33
+2019-11-01;2019;RREO;6;RJ;3304557;6688927;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1813460911.46;11;6;330455;sim;Rio de Janeiro;33
+2019-12-01;2019;RREO;6;RJ;3304557;6688927;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2158738133.44;12;6;330455;sim;Rio de Janeiro;33

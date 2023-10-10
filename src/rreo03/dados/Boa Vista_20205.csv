@@ -1,0 +1,313 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);111098485.02;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);185920362.91;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);103964844.41;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);130451572.28;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);99171059.11;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);112325220.84;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);115003028.22;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);126615040.71;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);178878195.81;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);138434946.59;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);123635880.95;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);109419234.55;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;11905016.64;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;19179852.11;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;10101717.79;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;13744247.31;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;17197931.62;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;10850901.29;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;8931029.27;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;10863278.36;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;21327243.25;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;27940937.48;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;17000646.69;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;18056212.16;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2454763.8;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2916986.5;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1232493.93;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1153042.51;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;974346.81;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;470565.03;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;430835.31;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;748514.09;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;7076182.63;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;10624666.78;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4071884.26;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3496919.41;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6419606.35;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;8260620.31;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6063026.31;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6867413.09;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;8288480.75;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6607084.42;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6260513.49;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6310242.43;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;7990655.27;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;8928879.9;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6743318.04;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;7795725.41;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;382279.48;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;412723.8;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;358141.05;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;464249.68;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;509778.44;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;350516.62;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;434981.38;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;413869.62;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;587468.91;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;859019.85;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;857092.51;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;667676.93;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1991215.84;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;6980188.9;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1410944.78;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3599167.47;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5349455.68;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2973748.75;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1394398.38;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2923517.27;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3716930.83;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4839952.77;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3877096.09;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4789116.51;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;657151.17;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;609332.6;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1037111.72;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1660374.56;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2075869.94;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;448986.47;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;410300.71;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;467134.95;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1956005.61;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2688418.18;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1451255.79;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1306773.9;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;14106892.63;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;10190895.95;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;4503155.99;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;6419371.5;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;3114984.36;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;5777143.4;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;8641151.13;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;6857765.53;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;6324511.56;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;6717746.39;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;7394500.59;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;5478051.09;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;2013004.82;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;11890551.2;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;4183417.21;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;3865914.97;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;1260929.82;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;13557203.45;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;14212885.38;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;15369048.2;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;20746608.77;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;1846699.79;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;989043.22;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;1225937.44;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1834714.51;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;11570754.05;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4130301.77;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3541936.21;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1045629.21;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;13394005.16;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;14055670.25;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;15208201.01;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;20582811.24;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1667398.34;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;775916.41;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1026010.3;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;178290.31;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;319797.15;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;53115.44;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;323978.76;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;215300.61;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;163198.29;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;157215.13;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;160847.19;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;163797.53;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;179301.45;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;213126.81;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;199927.14;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;90.0;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;2094792.0;12;6;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;30.0;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;156280.0;3;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;10.0;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;30.0;6;3;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;81451076.81;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;139763736.97;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;81960218.71;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;104994942.2;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;76099524.4;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;81161556.56;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;80913230.14;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;92267387.42;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;129239297.27;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;99476962.21;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;95054096.28;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;82821206.07;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;37740042.22;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;64340541.91;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;38386324.19;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;55466525.04;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;32432812.23;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33829093.08;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;35053247.47;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;54851300.78;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;71438088.88;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;47709842.74;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;46252484.07;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;-64925679.27;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;15927231.33;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17698872.68;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17627664.61;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;15857104.5;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17179225.29;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;15998893.63;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16766003.85;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;10381744.74;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;22664698.65;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;21561065.63;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16430153.36;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;13942543.21;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2438525.65;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2147748.26;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1333484.96;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1991946.34;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2545227.2;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1765860.61;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1872798.04;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2447055.48;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4171228.93;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3956668.13;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4702281.35;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3041189.18;10;5;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;92409.33;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;3532.56;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;986.33;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;2746.6;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;40509.29;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;91227.59;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2752.06;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;3234.73;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;9704.01;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;10497.29;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;9687.48;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8693.7;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8668.18;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;7795.23;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;9364.21;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;10829.87;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;12720.98;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;14558.64;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;18214465.93;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;21553573.05;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19056092.04;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;24554216.41;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15240297.13;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;17828968.58;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16977517.03;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12975690.48;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;17044854.92;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;17375400.97;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15323693.28;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;17254273.2;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;7128059.62;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;34019766.34;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;5546948.9;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;7114652.62;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;8692275.07;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;11730046.96;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;10142586.24;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;11600268.15;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;13910075.35;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;8860408.27;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;12292253.95;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;113403093.52;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1622404.12;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2800534.68;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3216334.71;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1427066.3;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1341408.91;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;978416.14;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2304722.3;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1257531.2;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1240534.96;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2452600.72;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3197594.17;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1837827.79;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13705043.43;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);19421762.42;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12203195.05;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17334607.2;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13489468.13;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13614370.29;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12056484.69;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10785572.15;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14742178.23;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13740224.92;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12571010.45;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);11464628.33;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2483883.62;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6432213.25;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;733700.33;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2671492.07;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3058015.22;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3703152.33;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1667292.73;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2811388.24;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3829477.25;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2714346.44;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3566373.76;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1631077.31;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11221159.81;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12989549.17;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11469494.72;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;14663115.13;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10431452.91;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9911217.96;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10389191.96;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7974183.91;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10912700.98;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11025878.48;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9004636.69;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9833551.02;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);97393441.59;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);166498600.49;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);91761649.36;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);113116965.08;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);85681590.98;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);98710850.55;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);102946543.53;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);115829468.56;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);164136017.58;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);124694721.67;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);111064870.5;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);97954606.22;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);97393441.59;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);166498600.49;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);91761649.36;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);113116965.08;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);85681590.98;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);98710850.55;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);102946543.53;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);115829468.56;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);164136017.58;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);124694721.67;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);111064870.5;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);97954606.22;10;5;140010;sim;Boa Vista;14
+2019-11-01;2020;RREO;5;RR;1400100;399213;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);97393441.59;11;6;140010;sim;Boa Vista;14
+2019-12-01;2020;RREO;5;RR;1400100;399213;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);166498600.49;12;6;140010;sim;Boa Vista;14
+2020-01-01;2020;RREO;5;RR;1400100;399213;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);91761649.36;1;1;140010;sim;Boa Vista;14
+2020-02-01;2020;RREO;5;RR;1400100;399213;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);113116965.08;2;1;140010;sim;Boa Vista;14
+2020-03-01;2020;RREO;5;RR;1400100;399213;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);85681590.98;3;2;140010;sim;Boa Vista;14
+2020-04-01;2020;RREO;5;RR;1400100;399213;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);98710850.55;4;2;140010;sim;Boa Vista;14
+2020-05-01;2020;RREO;5;RR;1400100;399213;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);102946543.53;5;3;140010;sim;Boa Vista;14
+2020-06-01;2020;RREO;5;RR;1400100;399213;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);115829468.56;6;3;140010;sim;Boa Vista;14
+2020-07-01;2020;RREO;5;RR;1400100;399213;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);164136017.58;7;4;140010;sim;Boa Vista;14
+2020-08-01;2020;RREO;5;RR;1400100;399213;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);124694721.67;8;4;140010;sim;Boa Vista;14
+2020-09-01;2020;RREO;5;RR;1400100;399213;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);111064870.5;9;5;140010;sim;Boa Vista;14
+2020-10-01;2020;RREO;5;RR;1400100;399213;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);97954606.22;10;5;140010;sim;Boa Vista;14

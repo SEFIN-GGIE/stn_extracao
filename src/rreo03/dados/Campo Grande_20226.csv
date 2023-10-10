@@ -1,0 +1,329 @@
+data;demonstrativo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;ano;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);526328956.88;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);424852245.08;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);367711695.83;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);345452628.12;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);403713465.53;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);377409532.27;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);356759433.53;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);376891681.81;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);359567439.88;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);412836470.1;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);364539556.47;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);606367948.77;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;293711562.76;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;105464769.48;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;89949284.64;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;93679527.92;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;144924126.64;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;94944324.22;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;92838547.41;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;96025674.75;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;101909748.85;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;78683008.25;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;99339790.44;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;232349919.82;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;219336948.41;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;38514154.18;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;22994463.98;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;26632438.51;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;57222903.58;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;21442611.79;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;21958199.81;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;22789014.16;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;21157952.03;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;18168342.71;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;23172703.49;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;91974098.94;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;39293550.88;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;33945823.42;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;37663701.5;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;38654804.63;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;53619057.19;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;42430385.23;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;41620451.65;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;42494334.07;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;44339212.53;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;43510567.65;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;45944642.1;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;52810824.02;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6735033.26;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6749192.3;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7838831.87;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8108131.67;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10244470.9;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7536738.72;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7504568.83;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8677523.24;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7845040.6;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7598871.23;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9040898.51;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;16778874.75;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9218711.2;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;15865690.37;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;18120368.83;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;17090769.8;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;18843110.96;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;21091025.64;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;19155918.27;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;19500101.17;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;26312016.63;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7319269.65;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;18847463.03;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;63275487.1;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;19127319.01;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;10389909.21;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3331918.46;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3193383.31;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4994584.01;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2443562.84;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2599408.85;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2564702.11;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2255527.06;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2085957.01;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2334083.31;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7510635.01;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;24548232.86;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;28518864.85;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;31365669.11;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;26665537.11;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;28714581.85;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;36032004.11;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;31743700.7;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;32067108.28;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;28464380.43;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;31442424.34;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;32691634.28;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;53258924.65;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;4531607.49;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;5611265.06;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;6730028.0;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;5863289.31;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;7175900.76;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;7225391.42;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;7278099.52;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;8332820.31;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;7047782.77;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;6563991.03;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;6776192.24;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;6805323.65;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3322879.59;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4486118.56;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5570103.51;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4676056.14;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5993241.14;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5977464.08;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;6194734.07;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;7144409.27;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5912560.3;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5323889.28;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5634345.05;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5310603.51;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1208727.9;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1125146.5;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1159924.49;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1187233.17;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1182659.62;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1247927.34;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1083365.45;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1188411.04;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1135222.47;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1240101.75;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1141847.19;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1494720.14;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;1800350.63;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;1575608.22;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;1393623.37;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;1465486.62;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;1493378.35;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;1428529.61;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;1496157.23;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;1485326.28;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;1619282.32;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;1602209.47;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;1556007.48;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;1605578.97;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;197014941.34;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;274959456.49;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;230697260.37;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;211865009.93;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;212823458.63;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;228865305.19;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;211482024.33;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;225155612.1;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;212305799.74;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;268177578.12;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;217435394.68;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;290375226.55;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20556929.93;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;28695740.75;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;17396522.38;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20621039.14;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;22938848.21;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21463669.96;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;28888749.3;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20989239.57;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19330784.96;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;18392588.01;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23116135.07;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;35917838.55;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;40368823.13;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;29411625.58;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;47255253.09;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;42533471.61;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;43623792.86;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;40205562.07;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;37427535.76;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;51534099.86;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;39080442.28;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;49427590.89;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;39593193.15;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;40519998.22;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;14127605.88;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;83247344.08;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;10604115.09;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;17083529.21;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;11599526.18;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;13022702.15;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7134591.14;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6366726.79;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5780105.17;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4879702.19;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4074607.5;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3631961.7;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;1170502.9;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;501902.94;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;325539.35;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;625494.25;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;314470.84;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;286321.0;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;679458.93;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;716170.82;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;885949.47;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;9075111.23;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;2507886.95;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;2338946.59;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;64507676.88;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;61263560.8;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;65123200.23;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;61747434.38;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;64367845.07;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;59127654.28;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;54296881.71;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;70060981.21;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;55076651.27;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;74454132.19;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;59836054.27;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;64431806.24;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;56283402.62;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;71839282.34;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;89992630.23;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;69254041.34;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;69978975.47;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;94759395.73;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;83054807.49;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;75488393.85;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;92151866.59;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;111948453.61;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;88307517.74;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;143534675.25;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4722261.8;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8722280.98;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7575830.34;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5913777.23;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8582019.3;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8913977.72;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;11920904.34;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;13825140.09;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8220445.77;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;26367258.89;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6740537.35;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;21972975.13;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);26368314.19;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);40724973.94;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);27534486.58;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);28432430.13;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);28756254.29;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);28709464.79;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);25824394.22;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);29762165.47;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);25924612.74;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);29965064.44;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);26862298.24;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);54192688.81;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10937381.9;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12166745.6;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12221389.01;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12042108.0;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12869588.64;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;13438887.8;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12759851.05;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;13573894.69;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;13026793.11;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;13176164.24;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12757047.47;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;39585852.03;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;99411.48;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;109338.52;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;108936.0;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;128243.25;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;143824.52;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;207889.64;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;265556.67;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;211984.67;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;188500.68;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;359798.97;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;193002.29;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;284151.92;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15331520.81;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28448889.82;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15204161.57;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16262078.88;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15742841.13;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15062687.35;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12798986.5;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15976286.11;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12709318.95;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16429101.23;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13912248.48;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;14322684.86;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);499960642.69;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);384127271.14;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);340177209.25;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);317020197.99;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);374957211.24;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);348700067.48;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);330935039.31;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);347129516.34;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);333642827.14;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);382871405.66;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);337677258.23;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);552175259.96;12;2022;6;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);217217.0;2;2022;1;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);169996.0;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);4866106.0;6;2022;3;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);200000.0;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);499960642.69;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);383910054.14;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);340177209.25;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);317020197.99;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);374787215.24;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);343833961.48;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);330935039.31;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);347129516.34;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);333642827.14;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);382871405.66;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);337677258.23;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);551975259.96;12;2022;6;500270;sim;Campo Grande;50
+2022-01-01;RREO;MS;5002704;916001;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);499960642.69;1;2022;1;500270;sim;Campo Grande;50
+2022-02-01;RREO;MS;5002704;916001;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);383910054.14;2;2022;1;500270;sim;Campo Grande;50
+2022-03-01;RREO;MS;5002704;916001;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);340177209.25;3;2022;2;500270;sim;Campo Grande;50
+2022-04-01;RREO;MS;5002704;916001;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);317020197.99;4;2022;2;500270;sim;Campo Grande;50
+2022-05-01;RREO;MS;5002704;916001;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);374787215.24;5;2022;3;500270;sim;Campo Grande;50
+2022-06-01;RREO;MS;5002704;916001;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);343833961.48;6;2022;3;500270;sim;Campo Grande;50
+2022-07-01;RREO;MS;5002704;916001;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);330935039.31;7;2022;4;500270;sim;Campo Grande;50
+2022-08-01;RREO;MS;5002704;916001;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);347129516.34;8;2022;4;500270;sim;Campo Grande;50
+2022-09-01;RREO;MS;5002704;916001;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);333642827.14;9;2022;5;500270;sim;Campo Grande;50
+2022-10-01;RREO;MS;5002704;916001;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);382871405.66;10;2022;5;500270;sim;Campo Grande;50
+2022-11-01;RREO;MS;5002704;916001;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);337677258.23;11;2022;6;500270;sim;Campo Grande;50
+2022-12-01;RREO;MS;5002704;916001;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);551975259.96;12;2022;6;500270;sim;Campo Grande;50

@@ -1,0 +1,292 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);59272088.1;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);70491860.56;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);68905481.14;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);61822234.91;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);65347685.63;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);67767560.96;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);71776797.25;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);100671363.12;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);52827694.41;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);61173782.37;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);62530898.94;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);126059388.81;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;9378670.67;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;7835148.42;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;9884069.66;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;12751902.96;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;9348555.54;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;11015708.19;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;9608212.07;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;11647053.12;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;9652797.97;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;8577144.93;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;8590615.14;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;10851775.63;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;519983.41;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;447965.81;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1871204.31;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2307098.67;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;870318.9;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;555463.87;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;603759.41;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;555954.72;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;407612.98;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;485032.79;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;351916.27;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;209916.88;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5593892.46;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;3522134.07;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;3723772.04;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5217052.18;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5906814.16;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;4394724.52;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6153862.62;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;8945838.3;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5119664.81;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5856446.5;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6115089.88;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6175561.96;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;199088.45;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;236566.32;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;345935.17;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;372886.26;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;316617.12;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;377282.7;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;249231.62;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;341529.97;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;256838.13;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;449456.23;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;376941.09;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;295271.41;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1834353.34;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2684305.9;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1473079.93;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2037211.9;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;846030.07;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3718087.9;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1591880.74;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;417461.84;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2865752.16;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;843172.2;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;861432.39;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3503813.86;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1231353.01;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;944176.32;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2470078.21;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2817653.95;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1408775.29;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1970149.2;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1009477.68;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1386268.29;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1002929.89;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;943037.21;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;885235.51;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;667211.52;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;9169147.32;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;2453810.81;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;2758681.53;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;3171861.06;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;829309.42;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;63279.08;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;7509069.97;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;5312263.59;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;3188513.61;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;3778102.01;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;2872324.88;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;15067088.68;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;2708553.28;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;664724.35;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;1352869.09;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;593041.35;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;-1241489.68;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;251105.91;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;465898.35;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;855328.3;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;-677550.62;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;1595992.05;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;471073.68;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;1583138.07;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2708553.28;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;664724.35;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1352869.09;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;593041.35;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-1241489.68;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;251105.91;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;465898.35;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;855328.3;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-677550.62;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1595992.05;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;471073.68;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1583138.07;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;1721.24;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;2339.12;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;16311.71;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;310.88;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;1274.66;5;3;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;37796324.66;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;59353054.55;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;54713629.2;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;45167354.69;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;56244205.71;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;55928452.43;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;54190044.05;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;49228345.35;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;40339386.19;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;46953888.61;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;50329560.9;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;97859153.23;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;13232515.69;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;29124808.96;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19612382.69;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20562944.33;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;25235728.41;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23632059.56;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27223117.48;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20248390.48;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;15271351.49;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;17348156.23;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21791347.67;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;38135006.21;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;8329859.19;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;8226253.39;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;8850960.1;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;7767661.23;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;9128736.03;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;8100533.2;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;8553363.62;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;9233422.2;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;8874811.59;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;9590698.46;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;11117493.61;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;9280760.73;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1156187.16;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2182219.53;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7144250.01;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1590507.05;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2201853.05;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1989550.36;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2436694.21;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3097837.37;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2617161.03;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1838858.36;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1245048.09;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;744042.33;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;4470.14;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;3132.59;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;3971.41;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;576.97;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;2408.45;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;1003.92;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;2805.62;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;801.36;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;14750.21;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;38907.45;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;2306.24;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;2628.9;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;81412.73;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;81412.73;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;81412.73;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;83931.25;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;81412.73;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;81412.73;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;81412.73;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;81412.73;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;81412.73;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;81412.73;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;81412.73;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;78894.21;12;6;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;216886.3;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;73581.74;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;100467.76;4;2;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;143061.15;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;77811.76;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;115551.36;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;83383.2;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;103206.37;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;87046.83;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;225034.87;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12144776.75;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15109425.19;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11522102.65;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11314483.54;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13711076.75;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13092799.72;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;9432040.83;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11806538.71;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;9212911.36;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;10091619.81;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11063275.85;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13816851.46;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;2847103.0;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;4408915.86;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;7424967.87;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;3746782.56;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;5882990.29;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;8888031.79;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;6382797.8;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;4644391.14;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;4183604.58;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;7861029.2;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;4941629.88;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;35575934.52;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;217670.93;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;182783.31;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;179919.95;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;137763.97;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;165829.98;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;509015.35;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3572.81;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;33628372.76;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;324547.26;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;268654.77;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;267324.34;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;698233.2;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);7038403.59;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9245182.65;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9147429.4;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);7574035.91;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);7392669.64;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);6852575.22;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12238645.88;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);6696557.87;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8576354.07;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8059221.9;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9084354.87;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12328170.61;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2477514.63;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1277784.97;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1994117.71;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1553321.96;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;62641.94;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;63051.08;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6798169.67;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;141074.22;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3187624.46;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2258738.92;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2219257.49;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2634393.51;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;4560888.96;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7967397.68;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7153311.69;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6020713.95;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7330027.7;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6789524.14;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5440476.21;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6555483.65;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5388729.61;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;5800482.98;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6865097.38;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9693777.1;12;6;160030;sim;Macapá;16
+2018-01-01;2018;RREO;6;AP;1600303;465495;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);52233684.51;1;1;160030;sim;Macapá;16
+2018-02-01;2018;RREO;6;AP;1600303;465495;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);61246677.91;2;1;160030;sim;Macapá;16
+2018-03-01;2018;RREO;6;AP;1600303;465495;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);59758051.74;3;2;160030;sim;Macapá;16
+2018-04-01;2018;RREO;6;AP;1600303;465495;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);54248199.0;4;2;160030;sim;Macapá;16
+2018-05-01;2018;RREO;6;AP;1600303;465495;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);57955015.99;5;3;160030;sim;Macapá;16
+2018-06-01;2018;RREO;6;AP;1600303;465495;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);60914985.74;6;3;160030;sim;Macapá;16
+2018-07-01;2018;RREO;6;AP;1600303;465495;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);59538151.37;7;4;160030;sim;Macapá;16
+2018-08-01;2018;RREO;6;AP;1600303;465495;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);93974805.25;8;4;160030;sim;Macapá;16
+2018-09-01;2018;RREO;6;AP;1600303;465495;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);44251340.34;9;5;160030;sim;Macapá;16
+2018-10-01;2018;RREO;6;AP;1600303;465495;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);53114560.47;10;5;160030;sim;Macapá;16
+2018-11-01;2018;RREO;6;AP;1600303;465495;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);53446544.07;11;6;160030;sim;Macapá;16
+2018-12-01;2018;RREO;6;AP;1600303;465495;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);113731218.2;12;6;160030;sim;Macapá;16

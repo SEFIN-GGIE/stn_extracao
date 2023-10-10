@@ -1,0 +1,327 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);182461815.04;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);203076753.42;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);178979367.74;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);238667215.28;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);178339103.02;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);233005699.74;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);566365816.27;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);223791316.05;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);210053811.08;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);180391422.13;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);202056853.53;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);377564675.45;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;41933513.18;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;35552292.62;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;47546950.33;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;86177784.4;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;33228920.25;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;58617339.94;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;44056425.49;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;38544435.22;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;41985209.75;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;40059097.79;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;42462807.51;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;136858950.71;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6899364.81;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5445820.21;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9509456.55;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;48855394.65;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6442458.63;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;22689071.9;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;7763149.43;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6671523.26;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5985359.79;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6162991.02;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5700295.26;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8033476.03;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;24686560.12;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;23432730.98;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22000507.8;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;23000754.88;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;16761303.54;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20414178.03;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21067238.44;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21262753.93;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22164850.3;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21674766.7;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;24306673.68;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;28673765.89;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3893797.33;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2699455.37;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2481313.73;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;1028022.12;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;1551903.96;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;1021038.15;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2149092.06;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3168546.85;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3899266.22;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3497971.06;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3893334.83;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2655573.05;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2210341.64;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;763820.71;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9026822.0;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2124176.27;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5874131.11;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;6096444.8;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;6816691.83;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3780392.27;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4347064.74;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4986592.04;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4666580.59;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;90033156.48;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4243449.28;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3210465.35;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4528850.25;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;11169436.48;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2599123.01;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;8396607.06;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;6260253.73;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3661218.91;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;5588668.7;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3736776.97;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3895923.15;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7462979.26;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;13438800.94;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;13234210.49;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;11561566.13;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;10718673.31;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;8855752.65;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;10161703.46;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;23199289.12;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;11189795.71;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;16423918.89;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;11373898.03;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;18943049.56;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;22343267.44;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;791059.17;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;484054.07;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;610119.93;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;497734.58;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;473387.12;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;411855.63;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;432209.48;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;295100.01;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;149812.35;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;285182.16;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;398262.18;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;53167202.33;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;773637.47;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;473665.65;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;603231.51;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;487346.16;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;462998.7;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;401467.21;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;421821.06;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;284555.09;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;139262.22;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;227757.03;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;387712.05;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;53156652.2;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;17421.7;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;10388.42;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;6888.42;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;10388.42;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;10388.42;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;10388.42;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;10388.42;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;10544.92;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;10550.13;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;57425.13;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;10550.13;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;10550.13;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;123760367.95;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;150184780.35;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;116796869.56;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;137053098.14;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;134125657.28;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;158967966.11;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;496087290.44;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;170138501.66;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;148830468.39;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;125644981.14;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;136974899.4;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;160605070.68;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;35366728.17;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;55466525.04;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;32432812.23;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;31791335.83;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33214748.72;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27038587.1;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;46611758.63;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;29608912.36;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23850339.72;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;32092695.39;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;42536569.55;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;63425310.58;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;27316784.3;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;27373213.54;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;25688239.88;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17956566.13;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17488924.15;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;23481099.29;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;20772149.62;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;23814334.99;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;26639149.58;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;27545445.98;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;30517098.36;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;35131826.78;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7557881.82;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;16305963.89;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6500142.15;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4776838.98;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7764765.58;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;11871649.27;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;10696084.34;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9314136.33;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9452893.05;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6270088.15;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4653431.52;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4389285.73;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;66786.38;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;346.22;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;191.1;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;736.67;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;244.77;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;134.69;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;399.69;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;630.48;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;1581.73;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;54830.29;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;14698.29;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;28713.49;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;46031.12;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;40384.19;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;37965.03;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;60302.56;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;39299.03;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;41037.04;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;51815.36;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;42082.98;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;65866.2;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;55833.01;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;70206.19;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;99242.92;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;22529398.56;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;20360328.52;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;14309206.0;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16353991.25;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13485341.25;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13609951.56;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13177837.35;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;18258195.54;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13486155.12;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15206665.49;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;18003312.89;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15933327.13;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;30876757.6;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;30638018.95;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;37828313.17;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;66113326.72;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;62132333.78;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;82925507.16;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;404777245.45;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;89100208.98;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;75334482.99;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;44419422.83;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;41179582.6;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;41597364.05;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2538073.8;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3621415.89;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2463861.79;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4219924.85;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1655385.72;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4846834.6;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2590601.74;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3623483.45;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2664401.7;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3028263.01;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3277834.88;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4590184.29;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17110735.23;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);24957436.82;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);19491732.06;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);16278180.48;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);16634803.47;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17744213.39;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17055867.3;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);18682439.97;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);23379980.37;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);20184857.31;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);22371603.44;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);32262856.67;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4388538.2;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4114109.26;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5736240.71;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4567841.96;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4143035.32;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4474935.48;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4420221.2;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5347511.28;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10598868.93;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5723549.66;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5944342.03;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;13635072.42;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1207057.81;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1006041.01;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;823621.28;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;793182.51;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;790171.71;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;782776.46;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;785838.07;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;778909.28;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;779145.42;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1257529.11;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;868860.65;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1646359.83;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11515139.22;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;19837286.55;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12931870.07;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10917156.01;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11701596.44;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12486501.45;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11849808.03;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12556019.41;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12001966.02;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13203778.54;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15558400.76;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16981424.42;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);165351079.81;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);178119316.6;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);159487635.68;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);222389034.8;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);161704299.55;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);215261486.35;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);549309948.97;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);205108876.08;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);186673830.71;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);160206564.82;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);179685250.09;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);345301818.78;12;6;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);420000.0;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);150000.0;8;4;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);165351079.81;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);178119316.6;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);159487635.68;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);222389034.8;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);161704299.55;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);215261486.35;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);548889948.97;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);204958876.08;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);186673830.71;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);160206564.82;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);179685250.09;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);345301818.78;12;6;270430;sim;Maceió;27
+2020-01-01;2020;RREO;6;AL;2704302;1018948;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);165351079.81;1;1;270430;sim;Maceió;27
+2020-02-01;2020;RREO;6;AL;2704302;1018948;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);178119316.6;2;1;270430;sim;Maceió;27
+2020-03-01;2020;RREO;6;AL;2704302;1018948;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);159487635.68;3;2;270430;sim;Maceió;27
+2020-04-01;2020;RREO;6;AL;2704302;1018948;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);222389034.8;4;2;270430;sim;Maceió;27
+2020-05-01;2020;RREO;6;AL;2704302;1018948;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);161704299.55;5;3;270430;sim;Maceió;27
+2020-06-01;2020;RREO;6;AL;2704302;1018948;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);215261486.35;6;3;270430;sim;Maceió;27
+2020-07-01;2020;RREO;6;AL;2704302;1018948;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);548889948.97;7;4;270430;sim;Maceió;27
+2020-08-01;2020;RREO;6;AL;2704302;1018948;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);204958876.08;8;4;270430;sim;Maceió;27
+2020-09-01;2020;RREO;6;AL;2704302;1018948;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);186673830.71;9;5;270430;sim;Maceió;27
+2020-10-01;2020;RREO;6;AL;2704302;1018948;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);160206564.82;10;5;270430;sim;Maceió;27
+2020-11-01;2020;RREO;6;AL;2704302;1018948;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);179685250.09;11;6;270430;sim;Maceió;27
+2020-12-01;2020;RREO;6;AL;2704302;1018948;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);345301818.78;12;6;270430;sim;Maceió;27

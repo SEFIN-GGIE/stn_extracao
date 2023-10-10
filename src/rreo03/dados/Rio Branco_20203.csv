@@ -1,0 +1,347 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);100325980.6;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);66322064.76;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);76068826.07;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);77616289.73;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);67123877.58;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);136316071.94;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);73230965.31;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);85455720.05;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);69042835.67;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);70710992.75;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);62888545.55;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);97247409.15;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;12501987.49;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;10542675.73;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;11027940.08;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;11274506.05;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;10597749.79;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;16489208.45;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;10344050.18;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;9537505.05;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;11101763.76;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;13593640.97;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;9084266.7;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;20320438.22;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2647844.87;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1906448.58;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1105356.09;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;949606.48;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;692389.67;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2128943.55;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1372231.96;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1316581.36;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1518512.16;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1908112.11;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;934601.28;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;12260102.47;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6761295.88;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5941735.48;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;7283545.64;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;7137743.5;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;7430706.25;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;9676379.96;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5912770.2;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5612142.57;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6882343.46;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5568942.69;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5576055.42;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5483257.01;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;586994.07;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;437172.55;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;314090.38;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;548695.03;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;286630.88;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;491206.95;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;751087.66;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;317472.7;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;364954.29;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4330500.71;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;444942.71;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;410464.88;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2179673.74;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2000788.42;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2115202.89;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2393347.97;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2025044.98;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3969942.12;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2025050.8;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2158722.2;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2247163.31;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1757621.38;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2097457.54;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2127066.1;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;326178.93;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;256530.7;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;209745.08;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;245113.07;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;162978.01;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;222735.87;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;282909.56;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;132586.22;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;88790.54;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;28464.08;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;31209.75;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;39547.76;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;3138855.84;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;2728429.69;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;3585511.3;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;2557713.24;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;4156433.22;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;5431462.48;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;3576180.38;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;3448313.18;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;3300516.53;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;2943790.0;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;2928937.69;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;3054862.72;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;5112948.13;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;-181080.92;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;10678229.75;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;11007209.59;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;-3219767.52;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;8083321.12;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;2315918.34;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;-1253512.0;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;55800.55;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;257151.36;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;3603829.67;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;647743.58;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4857445.74;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-380745.01;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9975685.87;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;10799620.23;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-3634766.16;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;7660530.03;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2056765.79;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-1380379.44;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-83688.34;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;200324.36;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3492405.95;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;593626.95;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;255502.39;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;199664.09;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;702543.88;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;207589.36;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;414998.64;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;422791.09;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;259152.55;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;126867.44;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;139488.89;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;56827.0;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;111423.72;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;54116.63;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3ReceitaIndustrial;Receita Industrial;734508.47;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3ReceitaIndustrial;Receita Industrial;528181.13;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3ReceitaIndustrial;Receita Industrial;94994.58;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3ReceitaIndustrial;Receita Industrial;625088.01;10;5;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3ReceitaIndustrial;Receita Industrial;536945.32;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3ReceitaIndustrial;Receita Industrial;380477.83;1;1;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;811326.17;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;613643.34;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;410435.21;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;521265.96;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;1353874.96;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;709998.65;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;467196.04;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;473126.03;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;640868.58;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;537406.0;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;303210.29;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;3772367.31;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;77632972.75;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;51525498.46;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;50125318.07;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;51578852.71;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;54112435.07;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;104771815.55;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;55960491.75;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;72899220.59;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;53852262.53;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;53222340.36;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;46865613.08;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;69325362.95;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33471865.61;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;24432179.6;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21748243.03;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20022082.07;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27172830.41;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;46325190.16;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27638153.42;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;39935898.03;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23351624.82;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;22889761.81;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23914619.07;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19467782.71;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;21733024.81;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;11244276.68;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;12884804.92;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;15064355.64;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;11598301.19;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17842769.63;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;13143885.71;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;12131419.57;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;12954536.71;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;10723936.48;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;8583148.04;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;10206827.77;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2690376.85;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2110452.49;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2100232.03;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1880573.27;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1213252.11;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;808260.58;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2364177.48;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2682101.17;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3119024.46;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1156344.2;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2415149.09;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2422963.47;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;1294.01;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;903.35;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;10262.86;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;63457.8;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;8770.31;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;16843.1;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;3609.18;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;643.48;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;903.16;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;390.86;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;1174.84;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;1116.45;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;7225.75;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;6467.08;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;7883.6;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;6976.88;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;7326.75;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8611.91;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;6627.61;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;7169.43;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;6616.19;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5937.67;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5920.19;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;5323.91;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;8476331.34;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;7758232.83;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;7441558.73;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;7266453.98;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;8443032.06;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;10804235.71;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;9093000.95;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12483355.4;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;8342378.59;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;7761109.42;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;7674666.03;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;6869296.34;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;11252854.38;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;5972986.43;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;5932332.9;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;7274953.07;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;5668922.24;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;28965904.46;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;3711037.4;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;5658633.51;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;6077178.6;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;10684859.92;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;4270935.82;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;30352052.3;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;393381.75;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;564717.33;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;146397.08;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;51654.17;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;123152.06;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;293320.37;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;186650.79;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;351067.2;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;91623.72;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;156664.06;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;102688.12;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;126634.37;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10732057.92;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9048212.53;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9532530.81;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8441516.09;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10418272.15;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14181550.55;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10355952.0;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12915119.92;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9864919.69;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8543303.19;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8745567.71;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8340312.37;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1807029.21;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1119592.26;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2162635.03;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1012063.26;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2401007.95;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3919842.05;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1712865.45;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1925674.36;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1960396.27;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1568366.15;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1746826.32;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1903184.05;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;12391.32;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;369764.58;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;19610.66;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;21963.83;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;17168.18;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;31849.55;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;11796.01;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;37999.39;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;17982.6;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;19662.96;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;14739.29;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;16325.62;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8912637.39;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7558855.69;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7350285.12;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7407489.0;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8000096.02;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10229858.95;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8631290.54;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10951446.17;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7886540.82;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6955274.08;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6984002.1;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6420802.7;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);89593922.68;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);57273852.23;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);66536295.26;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);69174773.64;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);56705605.43;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);122134521.39;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);62875013.31;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);72540600.13;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);59177915.98;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);62167689.56;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);54142977.84;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);88907096.78;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);6239600.0;7;4;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);3384855.0;12;6;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);180000.0;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);2000000.0;4;2;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);83354322.68;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);57273852.23;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);66536295.26;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);69174773.64;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);56705605.43;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);118749666.39;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);62875013.31;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);72540600.13;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);58997915.98;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);60167689.56;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);54142977.84;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);88907096.78;6;3;120040;sim;Rio Branco;12
+2019-07-01;2020;RREO;3;AC;1200401;407319;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);83354322.68;7;4;120040;sim;Rio Branco;12
+2019-08-01;2020;RREO;3;AC;1200401;407319;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);57273852.23;8;4;120040;sim;Rio Branco;12
+2019-09-01;2020;RREO;3;AC;1200401;407319;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);66536295.26;9;5;120040;sim;Rio Branco;12
+2019-10-01;2020;RREO;3;AC;1200401;407319;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);69174773.64;10;5;120040;sim;Rio Branco;12
+2019-11-01;2020;RREO;3;AC;1200401;407319;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);56705605.43;11;6;120040;sim;Rio Branco;12
+2019-12-01;2020;RREO;3;AC;1200401;407319;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);118749666.39;12;6;120040;sim;Rio Branco;12
+2020-01-01;2020;RREO;3;AC;1200401;407319;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);62875013.31;1;1;120040;sim;Rio Branco;12
+2020-02-01;2020;RREO;3;AC;1200401;407319;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);72540600.13;2;1;120040;sim;Rio Branco;12
+2020-03-01;2020;RREO;3;AC;1200401;407319;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);58997915.98;3;2;120040;sim;Rio Branco;12
+2020-04-01;2020;RREO;3;AC;1200401;407319;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);60167689.56;4;2;120040;sim;Rio Branco;12
+2020-05-01;2020;RREO;3;AC;1200401;407319;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);54142977.84;5;3;120040;sim;Rio Branco;12
+2020-06-01;2020;RREO;3;AC;1200401;407319;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);88907096.78;6;3;120040;sim;Rio Branco;12

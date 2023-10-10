@@ -1,0 +1,301 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);129942481.1;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);153715908.36;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);136023820.75;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);116894676.41;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);109400699.17;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);132346941.54;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);134856366.83;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);111495544.87;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);164667217.17;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);124041550.08;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);117979482.81;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);132828265.63;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;20580239.5;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;23640125.69;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;40308665.5;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;21545522.95;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;20357545.45;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;23795179.92;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;19884783.98;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;18727076.11;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;22761373.9;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;22216317.38;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;21404186.03;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;21871883.43;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1298030.16;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1590006.99;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;15969792.13;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3164723.82;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1456477.19;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1740528.72;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;813456.98;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;676441.57;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1050199.6;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;852160.35;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;944151.94;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1225919.01;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;12199024.35;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;13852952.06;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;10458470.66;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;10435345.43;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;9864129.96;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;11205463.73;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;10643196.95;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;10954594.86;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;11124306.44;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;12466067.32;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;11933120.64;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;12195224.33;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;779846.43;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;891881.08;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;617162.24;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;700665.68;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;735783.3;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;1348072.03;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;994961.81;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;886585.99;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;933442.02;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;1468555.16;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;868876.74;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;906325.49;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4127564.28;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4931713.54;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3302032.84;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3672380.4;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4369086.81;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;6197933.21;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5277666.82;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4413080.14;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5456812.84;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4682505.43;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5102820.19;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4931797.35;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2175774.28;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2373572.02;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;9961207.63;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3572407.62;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3932068.19;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3303182.23;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2155501.42;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1796373.55;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4196613.0;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2747029.12;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2555216.52;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2612617.25;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;15129806.18;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;10052031.79;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;7050674.73;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;7738707.47;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;11533858.04;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;10556464.44;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;7025038.33;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;8101049.9;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;14850285.65;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;10922655.19;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;8055067.05;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;12358730.19;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;10876891.63;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;5112098.85;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;5327673.44;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;3656370.4;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;3895083.39;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;4500350.49;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;6183290.27;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;8876122.45;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;6195294.09;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;2921945.81;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;9859705.44;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;11143337.55;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;10754016.5;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4939298.66;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5190325.37;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3596790.38;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3783956.12;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4268764.2;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;6043657.91;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;8814922.69;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;6105466.42;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2853425.15;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9789288.9;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;11054764.83;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;122875.13;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;172800.19;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;137348.07;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;59580.02;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;111127.27;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;231586.29;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;139632.36;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;61199.76;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;89827.67;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;68520.66;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;70416.54;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;88572.72;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;81590858.95;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;108224255.31;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;82522693.01;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;81847824.53;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;71911422.25;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;91480217.56;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;100204497.33;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;71305719.28;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;118245267.39;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;85963820.29;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;76852633.4;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;84840436.99;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19067429.21;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33368130.44;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23470766.28;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;25781231.45;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19303518.91;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;18832707.36;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;24168498.32;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19037473.09;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;26033673.25;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19002806.35;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;16915300.14;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;15572730.5;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;27508548.71;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;30698827.14;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;25367351.57;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;25382574.2;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;20555892.94;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;24171392.11;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;25772086.96;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;21538203.8;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;34493224.31;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;26882519.19;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;29371841.06;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;26341477.96;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2028392.87;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2210753.49;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5078979.21;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4284154.38;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5217614.82;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6043873.52;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5346530.98;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4790082.32;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6166834.17;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4571737.07;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4354348.28;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3979965.86;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;22502.58;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;19114.29;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;14950.09;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;6425.89;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;3476.52;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;4815.51;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;3301.68;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;3741.42;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;2859.56;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;3007.28;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;11131.38;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;195475.49;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;32928.58;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;32928.58;12;6;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;88050.65;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;137174.07;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;150323.81;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;115479.54;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;127082.4;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;113283.95;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;152293.62;5;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;194660.24;7;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;340149.45;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;147680.19;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15326216.01;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;18442526.68;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15333785.43;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;17491437.21;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;5763820.95;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;22060732.98;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;14455842.84;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;17011062.96;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;14999501.76;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15375339.98;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15651924.01;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13911860.19;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;17516790.34;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;23314800.62;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;13106536.62;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;8786521.86;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;20940015.71;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;20253412.13;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;30305942.93;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;8925155.69;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;36354514.1;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;20128410.42;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;10207939.08;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;24691246.8;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1764684.84;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6687396.72;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;814114.07;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2106251.06;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1702790.04;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2014729.13;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1558756.92;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4485577.13;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2614996.14;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2016811.41;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1807890.89;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2613877.47;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);22963221.72;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);18981927.69;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);18901053.12;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);20115628.87;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);21684325.93;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);21802560.65;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);23678601.08;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);21805666.51;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);26325642.07;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);19271997.03;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);24370037.76;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);29091562.75;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;13047244.62;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7503759.26;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;8001382.67;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7556480.46;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12628989.69;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;11950643.29;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12554262.82;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12707754.01;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15003536.52;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9152838.84;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14154143.5;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19814958.74;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;166406.62;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;188820.18;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;83196.28;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;90365.69;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;13819.18;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;18702.91;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;35795.97;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;24012.41;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;19059.64;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;27144.05;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;17340.2;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;29138.01;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9749570.48;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11289348.25;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10816474.17;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12468782.72;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9041517.06;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9833214.45;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11088542.29;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9073900.09;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11303045.91;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10092014.14;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10198554.06;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9247466.0;10;5;110020;sim;Porto Velho;11
+2018-11-01;2019;RREO;5;RO;1100205;519531;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);106979259.38;11;6;110020;sim;Porto Velho;11
+2018-12-01;2019;RREO;5;RO;1100205;519531;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);134733980.67;12;6;110020;sim;Porto Velho;11
+2019-01-01;2019;RREO;5;RO;1100205;519531;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);117122767.63;1;1;110020;sim;Porto Velho;11
+2019-02-01;2019;RREO;5;RO;1100205;519531;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);96779047.54;2;1;110020;sim;Porto Velho;11
+2019-03-01;2019;RREO;5;RO;1100205;519531;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);87716373.24;3;2;110020;sim;Porto Velho;11
+2019-04-01;2019;RREO;5;RO;1100205;519531;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);110544380.89;4;2;110020;sim;Porto Velho;11
+2019-05-01;2019;RREO;5;RO;1100205;519531;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);111177765.75;5;3;110020;sim;Porto Velho;11
+2019-06-01;2019;RREO;5;RO;1100205;519531;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);89689878.36;6;3;110020;sim;Porto Velho;11
+2019-07-01;2019;RREO;5;RO;1100205;519531;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);138341575.1;7;4;110020;sim;Porto Velho;11
+2019-08-01;2019;RREO;5;RO;1100205;519531;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);104769553.05;8;4;110020;sim;Porto Velho;11
+2019-09-01;2019;RREO;5;RO;1100205;519531;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);93609445.05;9;5;110020;sim;Porto Velho;11
+2019-10-01;2019;RREO;5;RO;1100205;519531;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);103736702.88;10;5;110020;sim;Porto Velho;11

@@ -1,0 +1,321 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);490788797.08;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);437401277.48;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);496811992.97;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);424937730.11;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);428499846.42;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);473436901.1;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);459476802.22;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);806125399.38;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);795469784.33;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);425486951.62;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);469853656.24;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);531103131.71;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;173120951.11;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;168513310.36;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;176448892.2;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;171841927.22;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;163400276.72;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;183592770.26;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;190706233.45;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;345205622.3;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;392611110.17;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;141728061.03;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;173195556.76;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;171671811.66;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;31336938.39;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;30574757.63;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;27409824.53;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;29341188.15;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;27239342.12;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;27591189.73;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;26334567.22;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;148260604.51;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;193029987.27;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;11581827.93;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;33775079.79;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;31880645.75;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;82833370.61;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;79986112.93;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;85306495.98;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;81056551.29;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;83450322.36;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;84848615.79;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;87725248.76;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;87558335.17;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;99935660.89;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;80753879.39;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;81381756.03;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;82174873.14;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;21923846.76;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;20504951.74;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;24947438.72;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;23912678.1;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;17115451.31;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;23845292.9;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;21947108.56;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;26959161.81;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;21216958.8;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;19464760.48;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;19140848.97;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;19922875.65;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24560452.95;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24616109.02;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24833097.67;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24835722.66;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24357428.79;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;35738753.41;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;43822987.63;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;27954751.49;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;25968191.86;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24387458.5;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24242324.83;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;24426249.6;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;12466342.4;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;12831379.04;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;13952035.3;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;12695787.02;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;11237732.14;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;11568918.43;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;10876321.28;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;54472769.32;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;52460311.35;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;5540134.73;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14655547.14;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;13267167.52;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;24078279.53;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;24063375.54;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;24440090.33;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;24710980.91;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;24779985.01;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;24163817.0;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;24769195.08;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;28143525.85;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;22415187.17;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;24446313.87;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;24747977.46;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;24708760.61;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;8159332.03;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;14293758.82;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;31889892.16;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;8966592.8;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;5822287.94;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;13444525.42;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;11982279.68;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;46749953.18;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;87824018.49;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;6763299.56;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;7516210.13;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;15932864.31;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;7362195.45;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;13569823.96;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;30971267.9;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;8157564.43;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4936094.34;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;12522167.82;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;11123981.2;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;45979662.47;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;86368379.36;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5719736.37;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;6607130.54;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;14950750.89;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;797136.58;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;723934.86;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;918624.26;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;809028.37;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;886193.6;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;922357.6;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;858298.48;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;770290.71;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1455639.13;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1043563.19;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;909079.59;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;982113.42;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;53502325.04;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;51490502.31;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;51602249.74;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;49973581.18;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;49695639.78;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;50541324.76;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;51445998.61;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;56131483.87;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;57190671.89;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;54561519.25;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;55535040.04;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;56636700.83;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;228814267.04;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;176878095.22;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;208953936.95;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;166587757.97;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;181407418.57;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;197579702.85;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;175327643.19;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;323017944.82;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;230409976.77;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;195132883.04;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;204699568.78;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;259357144.42;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;24841420.15;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23262808.64;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;26797756.27;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19932009.37;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;15032736.63;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;17077091.28;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21450857.87;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;37539146.74;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;26404612.06;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;29003885.37;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21716458.76;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21186795.78;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;67320498.64;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;43326676.52;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;76606055.01;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;46259419.3;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;63905074.94;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;74248302.98;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;57063273.16;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;96804201.93;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;49756270.89;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;48903029.67;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;54207383.6;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;68837284.79;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;19739494.24;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;10130630.95;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7547139.9;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6458441.39;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4744443.72;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3390650.85;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2239600.05;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;41319562.31;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;55829487.85;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;19375606.33;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;22368576.45;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;59318610.05;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;31.13;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;52.84;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;2415.99;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;2379.85;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;3793.02;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;18331.41;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;5740.45;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;6434.78;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;1525.34;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;1289.85;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;2411.89;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;1619.94;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;344700.49;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;344700.49;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;344700.49;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;344700.49;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;344700.49;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;344700.49;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;344700.49;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;344700.49;12;6;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;922016.56;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;907348.94;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;821837.74;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;916790.51;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;825850.91;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;980045.59;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;877589.79;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;931441.85;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;1036163.9;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;759692.89;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;835564.64;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;948777.25;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;28273061.1;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;22982332.43;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23657518.98;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;24734385.57;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;22998129.27;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;27364867.42;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;25789481.25;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;33997511.23;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;31509251.72;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;26514413.48;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;28411315.69;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;29700520.82;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;87373044.73;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;75923544.41;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;73176512.57;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;67939631.49;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;73552689.59;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;74155712.83;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;67556400.13;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;112074945.49;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;65872665.01;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;70574965.45;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;77157857.75;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;79363535.79;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3113642.33;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2162235.23;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3476931.59;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2856890.03;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3394238.4;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4114760.81;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5245452.21;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6876869.36;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5018819.84;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2854874.87;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4159303.07;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2795849.88;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);43184641.0;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);36042198.08;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);40663239.46;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);35002998.75;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);37468476.34;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);39964055.94;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);36522142.16;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);58278633.51;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);46794081.48;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);41333273.91;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);41582654.75;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);51122715.66;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19549048.67;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19403969.69;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19413056.97;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19181041.06;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19169753.15;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19238986.69;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19090588.8;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;22982686.76;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;17448207.21;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19810810.43;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;20131477.51;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;19999120.29;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1001960.13;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1043784.76;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1025851.18;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1039209.53;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1327403.3;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1513244.79;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1035201.07;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;2161391.19;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;2740262.35;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1913762.72;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1625098.24;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1064977.87;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;22633632.2;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15594443.63;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;20224331.31;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;14782748.16;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16971319.89;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;19211824.46;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16396352.29;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;33134555.56;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;26605611.92;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;19608700.76;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;19826079.0;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;30058617.5;4;2;431490;sim;Porto Alegre;43
+2018-05-01;2019;RREO;2;RS;4314902;1479101;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);447604156.08;5;3;431490;sim;Porto Alegre;43
+2018-06-01;2019;RREO;2;RS;4314902;1479101;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);401359079.4;6;3;431490;sim;Porto Alegre;43
+2018-07-01;2019;RREO;2;RS;4314902;1479101;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);456148753.51;7;4;431490;sim;Porto Alegre;43
+2018-08-01;2019;RREO;2;RS;4314902;1479101;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);389934731.36;8;4;431490;sim;Porto Alegre;43
+2018-09-01;2019;RREO;2;RS;4314902;1479101;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);391031370.08;9;5;431490;sim;Porto Alegre;43
+2018-10-01;2019;RREO;2;RS;4314902;1479101;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);433472845.16;10;5;431490;sim;Porto Alegre;43
+2018-11-01;2019;RREO;2;RS;4314902;1479101;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);422954660.06;11;6;431490;sim;Porto Alegre;43
+2018-12-01;2019;RREO;2;RS;4314902;1479101;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);747846765.87;12;6;431490;sim;Porto Alegre;43
+2019-01-01;2019;RREO;2;RS;4314902;1479101;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);748675702.85;1;1;431490;sim;Porto Alegre;43
+2019-02-01;2019;RREO;2;RS;4314902;1479101;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);384153677.71;2;1;431490;sim;Porto Alegre;43
+2019-03-01;2019;RREO;2;RS;4314902;1479101;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);428271001.49;3;2;431490;sim;Porto Alegre;43
+2019-04-01;2019;RREO;2;RS;4314902;1479101;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);479980416.05;4;2;431490;sim;Porto Alegre;43

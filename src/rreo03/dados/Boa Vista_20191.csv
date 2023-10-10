@@ -1,0 +1,308 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);82876003.9;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);86080720.84;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);102450255.3;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);102732550.77;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);104417588.17;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);88911809.51;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);78083056.81;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);97517211.04;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);106039026.33;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);143860547.38;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);110112998.16;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);109624425.78;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;10966113.58;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;11503725.33;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;9429142.07;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;10875722.48;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;22087457.13;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;13298413.09;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;10287922.65;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;13270631.8;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;11196892.21;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;16111343.66;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;10021571.08;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;12196668.14;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;896559.2;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;888411.78;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;786523.46;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1833646.16;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9494003.49;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3023641.6;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2356383.09;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2299674.02;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2217455.75;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2153877.22;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1390774.66;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1059355.6;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5718966.21;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6480027.73;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5802500.25;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5319345.58;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6326104.71;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5951700.29;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;4981589.29;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;6141976.92;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;4947148.19;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5712123.49;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5654115.79;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;5656865.4;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;352930.3;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;392205.46;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;460965.85;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;367655.29;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;467878.54;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;423550.29;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;315065.73;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;489947.83;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;381445.28;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;456403.78;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;327876.22;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;464484.45;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2087255.45;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2776579.31;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1616890.01;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2324662.86;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3098548.04;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2547841.42;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1637559.48;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3427179.77;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3005167.25;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7186586.34;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1471083.17;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3524600.86;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1910402.42;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;966501.05;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;762262.5;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1030412.59;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2700922.35;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1351679.49;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;997325.06;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;911853.26;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;645675.74;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;602352.83;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1177721.24;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1491361.83;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;4014719.22;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;4219485.65;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;4249774.01;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;5208078.63;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;3061923.03;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;5848307.28;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;4505938.92;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;4450298.5;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;4603597.93;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;7503897.37;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;2866074.93;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;5074897.52;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;5451030.7;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;2831784.67;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;1273216.59;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;2147306.47;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;8179260.04;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;1445416.21;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;4345990.88;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;17862965.74;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;3917432.19;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;8263899.54;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;11333652.64;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;3668719.09;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5411627.83;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2790651.86;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1206521.78;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2084561.97;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;8137401.58;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1398760.63;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4314655.97;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;17826971.89;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3883798.19;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;7427104.25;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;11291584.19;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3460127.93;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;39402.87;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;41132.81;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;66694.81;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;62744.5;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;41858.46;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;46655.58;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;31334.91;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;35993.85;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;33634.0;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;836795.29;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;42068.45;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;208591.16;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;320.0;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;330.0;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;420.0;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;90.0;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;60.0;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;8057.01;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;1438265.18;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;10.0;10;5;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;120.0;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;90.0;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;266.17;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;60830240.66;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;66347648.86;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;85064923.45;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;83276299.19;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;69998171.97;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;65625021.06;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;55735424.56;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;60445865.6;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;84999523.03;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;110913241.51;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;84147420.5;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;87672127.87;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;30644347.96;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;32129600.51;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;39430825.64;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;36925093.1;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;42536121.08;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;31638110.11;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23861486.72;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27106494.11;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;34048980.73;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;59585947.22;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;41912082.66;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;46037913.3;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;5978855.11;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;11610926.81;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17727151.23;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;12417744.66;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;2582472.82;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;9704453.78;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;12855149.1;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;12371889.15;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;25071461.67;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;20681417.42;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;14638814.0;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;13261225.62;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2460314.86;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1829412.83;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3273338.67;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3939517.67;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3419634.07;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3820483.44;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;992586.72;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1833216.73;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1034835.4;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;776209.68;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1583164.64;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;1643449.38;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;13726.91;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;2690.94;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;1490.06;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;4425.49;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;3224.98;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;8500.64;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;8345.54;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;74109.97;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;18180.66;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;10394.59;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;4349.31;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;12861.56;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;10555.84;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;10555.84;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;10555.84;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;10555.84;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;10555.84;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;10555.84;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;10555.84;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;10555.84;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;10555.84;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;10555.84;12;6;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2380.01;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2540.97;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2589.68;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2843.81;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2393.18;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2588.24;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2587.9;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2626.7;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2521.73;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;3038.62;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2518.98;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;2666.51;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11428764.54;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13210522.52;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;15253296.25;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13931441.71;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11591594.38;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12159810.64;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;10636755.76;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11253961.04;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16307400.85;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;18884561.16;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19708757.84;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;20053341.08;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;10291295.43;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;7551398.44;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;9365676.08;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;16044676.91;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;9852175.62;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;8280518.37;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;7367956.98;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;7793012.06;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;8505586.15;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;10961116.98;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;6297733.07;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;6660670.42;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1613579.74;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1177746.33;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2432779.18;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1225054.0;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1090716.0;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2686594.86;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1769514.62;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1487439.4;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1321580.97;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1068045.3;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1744189.01;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1011746.99;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9690713.06;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10986801.93;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13969024.4;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13459320.43;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);7440740.91;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10446835.75;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10429342.7;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10362039.41;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12552900.57;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17841620.05;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);11627682.07;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12191089.93;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1869152.99;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1870164.6;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1880352.18;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2799853.13;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1221846.74;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2117603.84;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2005788.86;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2082786.37;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2015761.74;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5207353.26;12;6;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7821560.07;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9116637.33;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12088672.22;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10659467.3;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;6218894.17;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8329231.91;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8423553.84;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8279253.04;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10537138.83;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12634266.79;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11627682.07;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12191089.93;2;1;140010;sim;Boa Vista;14
+2018-03-01;2019;RREO;1;RR;1400100;375374;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);73185290.84;3;2;140010;sim;Boa Vista;14
+2018-04-01;2019;RREO;1;RR;1400100;375374;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);75093918.91;4;2;140010;sim;Boa Vista;14
+2018-05-01;2019;RREO;1;RR;1400100;375374;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);88481230.9;5;3;140010;sim;Boa Vista;14
+2018-06-01;2019;RREO;1;RR;1400100;375374;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);89273230.34;6;3;140010;sim;Boa Vista;14
+2018-07-01;2019;RREO;1;RR;1400100;375374;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);96976847.26;7;4;140010;sim;Boa Vista;14
+2018-08-01;2019;RREO;1;RR;1400100;375374;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);78464973.76;8;4;140010;sim;Boa Vista;14
+2018-09-01;2019;RREO;1;RR;1400100;375374;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);67653714.11;9;5;140010;sim;Boa Vista;14
+2018-10-01;2019;RREO;1;RR;1400100;375374;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);87155171.63;10;5;140010;sim;Boa Vista;14
+2018-11-01;2019;RREO;1;RR;1400100;375374;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);93486125.76;11;6;140010;sim;Boa Vista;14
+2018-12-01;2019;RREO;1;RR;1400100;375374;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);126018927.33;12;6;140010;sim;Boa Vista;14
+2019-01-01;2019;RREO;1;RR;1400100;375374;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);98485316.09;1;1;140010;sim;Boa Vista;14
+2019-02-01;2019;RREO;1;RR;1400100;375374;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);97433335.85;2;1;140010;sim;Boa Vista;14

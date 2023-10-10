@@ -1,0 +1,50 @@
+data;demonstrativo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;ano;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);96190436.91;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);125182347.71;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;12244270.37;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;17681700.34;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;301190.54;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;505054.09;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;8404396.63;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;7068340.5;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;475190.47;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;373631.98;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;2371448.11;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;8526331.16;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;692044.62;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1208342.61;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;1734148.96;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;1658445.87;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;3076828.52;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;3357331.1;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3076828.52;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3357331.1;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;78756088.96;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;102327828.73;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;36545653.2;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;51014650.21;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;14339156.4;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;10615534.22;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2063778.0;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2423482.69;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;1532.3;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;4170.46;2;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;232806.09;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;20958340.29;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;31524465.79;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;4847628.77;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;6512719.27;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;379100.1;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;157041.67;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);10653646.78;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12871630.52;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;63622.84;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;60063.06;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10590023.94;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12811567.46;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);85536790.13;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);112310717.19;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);85536790.13;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);112310717.19;2;2022;1;160030;sim;Macapá;16
+2022-01-01;RREO;AP;1600303;522357;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);85536790.13;1;2022;1;160030;sim;Macapá;16
+2022-02-01;RREO;AP;1600303;522357;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);112310717.19;2;2022;1;160030;sim;Macapá;16

@@ -1,0 +1,335 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);203348978.73;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);155957634.98;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);168582277.21;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);152257546.7;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);148468781.33;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);214869975.69;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);241100790.0;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);183412423.99;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);177037196.91;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);163070654.01;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);164699463.86;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);166080542.02;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;46825035.15;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;47049661.08;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;48203714.7;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;44411727.11;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;48707324.21;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;62126605.95;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;129559201.78;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;60017762.03;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;64544238.35;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;55952787.96;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;55594583.56;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;56032255.98;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;14620902.87;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;13023326.08;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;12984081.13;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9226249.37;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;12842659.08;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;8522611.06;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;95910460.11;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;24522454.34;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;22440053.89;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;20546216.42;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;20623037.49;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;18174061.75;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22689830.51;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;23998473.26;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;23773973.79;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22809071.69;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;24522659.89;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;27994718.99;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;24737092.26;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;23915525.27;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;26754474.17;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;23567044.23;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;23549538.13;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;25510101.61;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2504048.71;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3192735.9;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3741054.97;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5289664.55;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4104120.22;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6015879.67;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3409852.98;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3709226.99;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4555497.19;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3819668.47;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3929278.41;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4041886.27;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5785144.52;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5428881.17;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5542441.34;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5510180.69;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5502642.07;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;13252082.23;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3170467.57;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5989265.78;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5710936.19;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;6095479.89;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5569091.5;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5921869.09;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1225108.54;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1406244.67;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2162163.47;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1576560.81;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1735242.95;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;6341314.0;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2331328.86;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1881289.65;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;5083276.91;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1924378.95;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1923638.03;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2384337.26;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;5745896.79;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;5472443.97;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;6449005.13;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;6639919.39;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;6710655.48;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;13212084.0;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;16064211.82;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;7040982.37;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;5658214.38;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;6718328.13;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;5722564.51;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;5883167.62;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;24650346.44;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;320113.79;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;940085.95;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;480978.43;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;521326.45;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;320172.05;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;2334136.29;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;1372895.46;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;429613.47;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;529098.96;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;746189.1;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;849878.59;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;24313206.96;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;262099.79;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;240930.7;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;415050.6;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;253440.25;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;255791.55;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;276580.25;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;255362.31;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;380300.48;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;474098.96;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;669101.26;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;794704.04;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;337139.48;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;58014.0;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;699155.25;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;65927.83;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;267886.2;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;64380.5;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2057556.04;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1117533.15;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;49312.99;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;55000.0;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;77087.84;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;55174.55;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;63477.15;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;287061.41;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;939010.0;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;545690.85;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;249548.08;11;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;130530.52;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;1860.0;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;739.8;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;533485.98;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;283093.53;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;292747.54;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;124138080.26;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;101031823.79;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;110163742.98;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;98429777.91;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;90840157.97;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;135853143.04;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;91718382.59;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;110360051.34;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;104845378.03;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;97958848.15;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;101385971.78;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;101973531.9;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33560466.21;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21318416.91;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;17172172.59;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;23106812.66;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;30626330.07;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;45666223.63;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33175184.46;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;43484255.3;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;29146582.71;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;30470543.71;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;36621397.81;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;31671822.68;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16725066.13;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16991459.64;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;24037646.43;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;23107037.75;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;20845285.58;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;31567013.53;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;21118824.21;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;21011525.58;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;24820042.05;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;19984388.96;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;20546576.56;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;26212385.12;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6844677.89;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5167547.37;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6490230.07;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6895157.95;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6229257.24;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6095198.75;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5106709.81;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5918261.54;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12338996.66;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;14112648.46;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3762979.8;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4249847.92;6;3;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;12.69;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;1987.34;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;9096.52;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;1213.59;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;893.58;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;358.78;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;532.33;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;50.79;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;149.4;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;14.5;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;181.12;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8716.08;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8716.08;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;9442.42;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;11621.44;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;12347.78;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;13800.46;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;9644.18;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8955.31;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8955.31;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;9299.75;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8955.31;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;8266.44;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;9319403.82;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;8722214.94;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;9145884.58;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;10405404.14;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;11664475.04;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;14083928.82;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12495738.91;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;14957848.08;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12772296.13;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12116989.89;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13928627.29;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;13357736.24;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;57679750.13;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;48823456.16;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;53306379.55;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;34894647.45;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;21461248.67;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;38426084.27;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;19811922.24;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;24978673.2;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;25758454.38;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;21264827.98;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;26517420.51;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;26473292.38;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1926142.94;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1796530.94;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1886718.45;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1749453.01;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1439769.14;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3357970.65;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1294327.0;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4618872.79;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1559012.88;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1378104.83;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;967061.38;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1048960.39;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);11813616.49;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);11804307.21;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);13883155.14;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15103288.2;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15920178.96;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);24819750.97;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);25184905.59;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);21684491.48;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);16490852.32;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);16392807.82;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15158678.3;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15422062.33;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3011004.81;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2785682.17;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2865563.67;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3077872.03;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2909723.43;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6674049.29;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2513715.73;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3724324.14;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2890919.96;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3426769.05;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2856532.54;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;2858790.34;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;167994.51;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;379546.29;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1533020.85;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1438908.09;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1507381.71;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;4238512.66;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;10816352.35;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;3899869.54;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;368057.7;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;85857.06;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;139008.55;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;154499.52;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8634617.17;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8639078.75;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9484570.62;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10586508.08;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11503073.82;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13907189.02;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11854837.51;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;14060297.8;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13231874.66;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12880181.71;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12163137.21;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12408772.47;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);191535362.24;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);144153327.77;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);154699122.07;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);137154258.5;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);132548602.37;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);190050224.72;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);215915884.41;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);161727932.51;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);160546344.59;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);146677846.19;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);149540785.56;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);150658479.69;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);191535362.24;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);144153327.77;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);154699122.07;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);137154258.5;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);132548602.37;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);190050224.72;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);215915884.41;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);161727932.51;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);160546344.59;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);146677846.19;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);149540785.56;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);150658479.69;6;3;280030;sim;Aracaju;28
+2020-07-01;2021;RREO;3;SE;2800308;664908;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);191535362.24;7;4;280030;sim;Aracaju;28
+2020-08-01;2021;RREO;3;SE;2800308;664908;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);144153327.77;8;4;280030;sim;Aracaju;28
+2020-09-01;2021;RREO;3;SE;2800308;664908;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);154699122.07;9;5;280030;sim;Aracaju;28
+2020-10-01;2021;RREO;3;SE;2800308;664908;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);137154258.5;10;5;280030;sim;Aracaju;28
+2020-11-01;2021;RREO;3;SE;2800308;664908;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);132548602.37;11;6;280030;sim;Aracaju;28
+2020-12-01;2021;RREO;3;SE;2800308;664908;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);190050224.72;12;6;280030;sim;Aracaju;28
+2021-01-01;2021;RREO;3;SE;2800308;664908;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);215915884.41;1;1;280030;sim;Aracaju;28
+2021-02-01;2021;RREO;3;SE;2800308;664908;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);161727932.51;2;1;280030;sim;Aracaju;28
+2021-03-01;2021;RREO;3;SE;2800308;664908;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);160546344.59;3;2;280030;sim;Aracaju;28
+2021-04-01;2021;RREO;3;SE;2800308;664908;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);146677846.19;4;2;280030;sim;Aracaju;28
+2021-05-01;2021;RREO;3;SE;2800308;664908;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);149540785.56;5;3;280030;sim;Aracaju;28
+2021-06-01;2021;RREO;3;SE;2800308;664908;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);150658479.69;6;3;280030;sim;Aracaju;28

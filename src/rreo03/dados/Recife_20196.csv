@@ -1,0 +1,298 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);418997545.02;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);647125510.59;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);393704451.91;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);404002624.5;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);404489926.42;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);371156968.12;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);408698521.72;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);395079104.01;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);359586632.84;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);382421520.71;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);389680957.27;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);477863337.82;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;151019922.11;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;318025563.39;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;145006423.75;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;149306227.9;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;165420282.28;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;152727697.21;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;155402687.39;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;173347833.3;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;158398247.34;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;160082288.68;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;166186487.75;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;150990811.28;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;32872237.55;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;144487782.62;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;35323174.63;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;36574306.19;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;35878427.73;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;34541144.64;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;36042133.59;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;34388314.98;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;34005266.5;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;34406127.83;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;39670313.89;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;14829633.83;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;77460263.34;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;70142166.39;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;67879251.27;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;70467787.84;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;74639875.57;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;76567761.7;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;72749745.35;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;75767639.12;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;77151261.1;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;77961420.97;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;79547264.18;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;83607975.19;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7152835.12;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6910426.91;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7173238.01;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8026518.76;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9060826.77;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7282594.82;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9528140.39;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;12077787.31;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10292230.02;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11124037.16;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7675175.81;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10059861.77;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;12654987.47;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;12188805.52;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;12601189.96;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;13081603.61;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;25843074.2;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;15945877.97;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;16673823.45;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;16716639.53;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;16535400.57;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;16726339.2;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;16980314.31;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;32562894.4;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;20879598.63;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;84296381.95;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;22029569.88;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;21156011.5;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;19998078.01;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;18390318.08;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;20408844.61;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;34397452.36;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;20414089.15;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;19864363.52;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;22313419.56;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;9930446.09;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;10893585.45;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;33810471.84;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;19799823.72;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;20231275.67;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;20264223.19;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;21079934.14;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;32769925.36;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;22537858.36;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;22202220.95;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;21071381.91;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;22266320.97;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;23863739.04;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;2314816.6;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;2276762.87;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;3162832.71;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;3083486.0;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;8058339.66;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;2797707.81;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;3227586.0;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;4727186.1;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;1019044.46;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;2929591.62;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;2145572.56;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;2512134.75;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1764504.12;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2139957.59;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2671050.1;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2769294.96;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;7740241.45;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2477915.07;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2873325.34;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4345810.36;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;625631.88;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2538660.53;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1737692.33;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2097050.68;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;550312.48;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;136805.28;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;491782.61;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;314191.04;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;318098.21;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;319792.74;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;354260.66;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;381375.74;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;393412.58;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;390931.09;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;407880.23;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;415084.07;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;3065670.79;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;2945918.78;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;2954128.02;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;3278483.34;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;3241188.96;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;3792438.07;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;4006458.86;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;3279540.03;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;3296419.46;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;4524039.35;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;3868087.45;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;3441663.66;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;238801178.45;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;277380978.83;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;208794854.01;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;217316909.51;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;197292595.01;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;179046277.56;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;202527102.52;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;178274974.34;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;163576374.3;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;183500757.35;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;184771293.27;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;287284765.22;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;52809224.14;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;58007770.75;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;43432917.55;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;42373591.56;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;54379121.24;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;42834314.48;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;58575764.85;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;42756314.31;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;38059425.3;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;35038643.63;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;47552453.22;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;81069082.78;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;74912395.06;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;60517176.82;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;58468742.7;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;69264985.62;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;63528264.49;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;61787728.26;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;71264334.02;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;66402023.29;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;59165413.38;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;75939667.54;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;67930926.73;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;81527751.06;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;35139869.12;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;83276574.72;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;40117749.63;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;30842319.15;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;13338530.62;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7398229.93;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7223113.89;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5310624.17;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4281036.26;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3292584.14;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2208966.79;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;2008335.6;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;187.08;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;201.89;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;29.64;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;40.14;4;2;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;127.46;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;6.25;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;25.0;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;666.51;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;4648.76;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;372.17;11;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;35794090.89;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;31637054.44;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;26567957.39;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;35382355.56;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;28288137.97;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;25059094.62;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;25438586.12;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;25820633.82;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23225347.46;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;26162416.39;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;27075253.38;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;33839734.9;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;40145412.16;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;43942200.21;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;40207457.1;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;39453617.48;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;37758540.69;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;41966782.81;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;40025297.39;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;37985353.75;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;38844485.39;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;43062796.89;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;40003320.98;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;88839860.88;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;12902371.62;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;12685814.88;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;13986389.7;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10786242.08;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10213297.32;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;11712913.33;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10764761.59;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;12911711.88;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;11094326.33;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10313461.8;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10443195.27;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9770223.87;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);33165634.68;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);62646605.92;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);38707917.93;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);38339852.74;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);35943280.48;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);32261166.26;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);40933978.35;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);34459727.21;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);31931065.68;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);34492198.51;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);35298127.05;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);41932660.95;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;27224.76;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;22229444.33;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9074709.9;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9193908.11;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9125972.18;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9192777.91;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;17584851.75;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10998185.27;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;11047944.9;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;11055175.09;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;11187248.09;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12771364.81;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;488732.97;1;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1166829.28;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;578800.74;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;508424.52;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;599173.9;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;536198.18;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;510661.43;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;510532.18;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;509257.93;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;509427.73;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1018549.0;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;32649676.95;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;40417161.59;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28466378.75;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28567143.89;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;26308883.78;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;22469214.45;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;22812928.42;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;22950880.51;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;20372588.6;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;22927765.49;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;23601451.23;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28142747.14;12;6;261160;sim;Recife;26
+2019-01-01;2019;RREO;6;PE;2611606;1637834;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);385831910.34;1;1;261160;sim;Recife;26
+2019-02-01;2019;RREO;6;PE;2611606;1637834;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);584478904.67;2;1;261160;sim;Recife;26
+2019-03-01;2019;RREO;6;PE;2611606;1637834;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);354996533.98;3;2;261160;sim;Recife;26
+2019-04-01;2019;RREO;6;PE;2611606;1637834;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);365662771.76;4;2;261160;sim;Recife;26
+2019-05-01;2019;RREO;6;PE;2611606;1637834;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);368546645.94;5;3;261160;sim;Recife;26
+2019-06-01;2019;RREO;6;PE;2611606;1637834;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);338895801.86;6;3;261160;sim;Recife;26
+2019-07-01;2019;RREO;6;PE;2611606;1637834;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);367764543.37;7;4;261160;sim;Recife;26
+2019-08-01;2019;RREO;6;PE;2611606;1637834;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);360619376.8;8;4;261160;sim;Recife;26
+2019-09-01;2019;RREO;6;PE;2611606;1637834;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);327655567.16;9;5;261160;sim;Recife;26
+2019-10-01;2019;RREO;6;PE;2611606;1637834;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);347929322.2;10;5;261160;sim;Recife;26
+2019-11-01;2019;RREO;6;PE;2611606;1637834;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);354382830.22;11;6;261160;sim;Recife;26
+2019-12-01;2019;RREO;6;PE;2611606;1637834;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);435930676.87;12;6;261160;sim;Recife;26

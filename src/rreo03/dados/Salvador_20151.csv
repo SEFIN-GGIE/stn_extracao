@@ -1,0 +1,295 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);369942605.26;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);402557036.7;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);445354491.6;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);389563829.48;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);415693830.9;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);448099046.24;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);413587714.3;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);425965188.89;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);391469694.41;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);469196061.9;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);458430093.42;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);613092588.24;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;149839959.96;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;162264341.93;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;156201493.82;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;142175964.01;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;149947528.94;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;185039281.96;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;161966715.55;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;157175582.12;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;141597494.18;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;169798729.95;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;150975709.48;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;314218121.56;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;26595012.21;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;29647998.56;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;29350580.34;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;26403766.59;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;26936533.71;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;65725867.3;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;27758254.64;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;28919423.83;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;25157021.7;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;24403381.04;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;31476212.35;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;167277218.51;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;67788133.53;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;78305433.54;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;70002961.58;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;72886565.4;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;71893482.87;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;72179827.88;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;78051102.49;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;78871090.43;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;72446206.64;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;85725830.05;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;71062159.61;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;69623988.77;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;22544486.45;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;16353864.39;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;20286897.4;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;14797790.41;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;18139729.95;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;29813833.06;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;29522580.26;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;20567182.82;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;19738659.66;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;24204650.77;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;15855582.04;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;15937964.28;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;12073846.88;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11205087.48;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11159560.7;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;10992342.59;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;15922606.38;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;14121908.6;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;13669172.25;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;13103220.89;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;13057256.72;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;25802259.63;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11355480.46;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;17033220.69;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;OutrasReceitasTributarias;Outras Receitas Tributárias;20838480.89;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;OutrasReceitasTributarias;Outras Receitas Tributárias;26751957.96;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;OutrasReceitasTributarias;Outras Receitas Tributárias;25401493.8;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;OutrasReceitasTributarias;Outras Receitas Tributárias;17095499.02;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;OutrasReceitasTributarias;Outras Receitas Tributárias;17055176.03;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;OutrasReceitasTributarias;Outras Receitas Tributárias;3197845.12;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;OutrasReceitasTributarias;Outras Receitas Tributárias;12965605.91;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;OutrasReceitasTributarias;Outras Receitas Tributárias;15714664.15;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;OutrasReceitasTributarias;Outras Receitas Tributárias;11198349.46;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;OutrasReceitasTributarias;Outras Receitas Tributárias;9662608.46;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;OutrasReceitasTributarias;Outras Receitas Tributárias;21226275.02;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;OutrasReceitasTributarias;Outras Receitas Tributárias;44345729.31;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;14803049.52;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;14955077.55;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;15928133.04;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;12748560.15;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;20032228.0;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;15931222.77;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;16634431.53;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;15528502.11;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;15632151.61;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;28660751.04;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;33283457.5;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;33980476.12;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;9999646.73;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;10751784.29;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;13913932.89;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;13422051.84;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;16020510.0;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;14193909.8;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;13760165.71;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;52824020.06;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;15825076.68;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;17489764.99;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;11957785.32;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;10736967.82;2;1;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;RREO3ReceitaIndustrial;Receita Industrial;91920.29;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;RREO3ReceitaIndustrial;Receita Industrial;1306.53;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;RREO3ReceitaIndustrial;Receita Industrial;2134.2;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;RREO3ReceitaIndustrial;Receita Industrial;5269.77;12;6;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;325098.24;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;290564.73;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;269083.7;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;143005.41;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;465057.99;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;8350378.61;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;1991262.06;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;1217642.35;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;844946.04;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;-1453571.68;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;3305373.29;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;5055671.04;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;184583234.8;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;200171570.8;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;231805434.71;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;187200637.94;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;205711906.67;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;200456213.56;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;197471341.6;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;177729245.6;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;200634990.28;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;235639087.93;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;239639877.25;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;236016843.0;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;CotaParteDoFPM;Cota-Parte do FPM;38722221.77;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;CotaParteDoFPM;Cota-Parte do FPM;44194896.59;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;CotaParteDoFPM;Cota-Parte do FPM;58895133.61;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;CotaParteDoFPM;Cota-Parte do FPM;44167548.69;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;CotaParteDoFPM;Cota-Parte do FPM;37934335.99;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;CotaParteDoFPM;Cota-Parte do FPM;46083764.19;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;CotaParteDoFPM;Cota-Parte do FPM;40396272.44;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;CotaParteDoFPM;Cota-Parte do FPM;38178637.45;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;CotaParteDoFPM;Cota-Parte do FPM;50534308.95;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;CotaParteDoFPM;Cota-Parte do FPM;81279686.08;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;CotaParteDoFPM;Cota-Parte do FPM;68682429.5;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;CotaParteDoFPM;Cota-Parte do FPM;70111454.03;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;CotaParteDoICMS;Cota-Parte do ICMS;50841791.31;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;CotaParteDoICMS;Cota-Parte do ICMS;52529806.6;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;CotaParteDoICMS;Cota-Parte do ICMS;51198574.15;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;CotaParteDoICMS;Cota-Parte do ICMS;46680915.99;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;CotaParteDoICMS;Cota-Parte do ICMS;59430950.0;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;CotaParteDoICMS;Cota-Parte do ICMS;50228254.61;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;CotaParteDoICMS;Cota-Parte do ICMS;58590316.17;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;CotaParteDoICMS;Cota-Parte do ICMS;51036127.58;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;CotaParteDoICMS;Cota-Parte do ICMS;55928390.75;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;CotaParteDoICMS;Cota-Parte do ICMS;70669090.07;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;CotaParteDoICMS;Cota-Parte do ICMS;50781405.72;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;CotaParteDoICMS;Cota-Parte do ICMS;50676848.83;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;CotaParteDoIPVA;Cota-Parte do IPVA;12872920.98;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;CotaParteDoIPVA;Cota-Parte do IPVA;12285631.11;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;CotaParteDoIPVA;Cota-Parte do IPVA;19593375.82;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;CotaParteDoIPVA;Cota-Parte do IPVA;17917797.2;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;CotaParteDoIPVA;Cota-Parte do IPVA;26310465.15;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;CotaParteDoIPVA;Cota-Parte do IPVA;24776947.88;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;CotaParteDoIPVA;Cota-Parte do IPVA;21152573.97;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;CotaParteDoIPVA;Cota-Parte do IPVA;8039948.89;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;CotaParteDoIPVA;Cota-Parte do IPVA;6109780.19;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;CotaParteDoIPVA;Cota-Parte do IPVA;5881759.04;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;CotaParteDoIPVA;Cota-Parte do IPVA;12888672.81;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;CotaParteDoIPVA;Cota-Parte do IPVA;20411941.56;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;CotaParteDoITR;Cota-Parte do ITR;1366.14;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;CotaParteDoITR;Cota-Parte do ITR;29.84;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;CotaParteDoITR;Cota-Parte do ITR;301.33;5;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;CotaParteDoITR;Cota-Parte do ITR;201.97;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;CotaParteDoITR;Cota-Parte do ITR;73.05;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;CotaParteDoITR;Cota-Parte do ITR;636274.13;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;CotaParteDoITR;Cota-Parte do ITR;1570557.58;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;CotaParteDoITR;Cota-Parte do ITR;672.11;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;CotaParteDoITR;Cota-Parte do ITR;644.99;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;CotaParteDoITR;Cota-Parte do ITR;31679.21;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;CotaParteDoITR;Cota-Parte do ITR;12.87;2;1;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;TransferenciasDaLC871996;Transferências da LC 87/1996;619.29;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;TransferenciasDaLC871996;Transferências da LC 87/1996;619.29;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;TransferenciasDaLC871996;Transferências da LC 87/1996;619.29;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;TransferenciasDaLC871996;Transferências da LC 87/1996;619.29;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;TransferenciasDaLC871996;Transferências da LC 87/1996;619.29;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;TransferenciasDaLC871996;Transferências da LC 87/1996;619.29;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;TransferenciasDaLC871996;Transferências da LC 87/1996;619.29;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;TransferenciasDaLC871996;Transferências da LC 87/1996;619.29;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;TransferenciasDaLC871996;Transferências da LC 87/1996;1238.58;12;6;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;TransferenciasDaLC611989;Transferências da LC 61/1989;591930.13;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;TransferenciasDaLC611989;Transferências da LC 61/1989;645448.37;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;TransferenciasDaLC611989;Transferências da LC 61/1989;702030.98;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;TransferenciasDaLC611989;Transferências da LC 61/1989;668647.34;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;TransferenciasDaLC611989;Transferências da LC 61/1989;686909.23;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;TransferenciasDaLC611989;Transferências da LC 61/1989;708051.27;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;TransferenciasDaLC611989;Transferências da LC 61/1989;666312.97;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;TransferenciasDaLC611989;Transferências da LC 61/1989;713565.19;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;TransferenciasDaLC611989;Transferências da LC 61/1989;819385.51;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;TransferenciasDaLC611989;Transferências da LC 61/1989;808495.22;12;6;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;TransferenciasDoFUNDEB;Transferências do FUNDEB;27710822.93;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;TransferenciasDoFUNDEB;Transferências do FUNDEB;29342734.07;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;TransferenciasDoFUNDEB;Transferências do FUNDEB;44962227.46;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;TransferenciasDoFUNDEB;Transferências do FUNDEB;28281454.03;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;TransferenciasDoFUNDEB;Transferências do FUNDEB;30221693.75;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;TransferenciasDoFUNDEB;Transferências do FUNDEB;29801489.01;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;TransferenciasDoFUNDEB;Transferências do FUNDEB;28537942.39;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;TransferenciasDoFUNDEB;Transferências do FUNDEB;29746808.54;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;TransferenciasDoFUNDEB;Transferências do FUNDEB;31274108.14;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;TransferenciasDoFUNDEB;Transferências do FUNDEB;35785683.68;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;TransferenciasDoFUNDEB;Transferências do FUNDEB;32953959.71;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;TransferenciasDoFUNDEB;Transferências do FUNDEB;48827577.04;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;53842181.54;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;61172404.93;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;56453172.07;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;49483655.4;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;51126731.29;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;48857014.26;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;47491030.24;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;48442981.08;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;55967725.34;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;41212490.27;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;74301730.3;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;OutrasTransferenciasCorrentes;Outras Transferências Correntes;45989008.67;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;10391616.01;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;14123697.4;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;27236413.44;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;33873610.13;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;23516599.3;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;24128039.54;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;21671877.56;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;21488890.12;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;16932901.42;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;19056029.9;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;19267890.58;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;13084508.7;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);29960834.62;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);30433356.98;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);36042834.18;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);30121123.12;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);37124603.04;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);34653280.03;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);34424741.25;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);29915250.87;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);32276618.5;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);48361129.56;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);26666519.52;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);28640093.24;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;8849661.59;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;8631160.41;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9141359.36;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;8242875.36;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12308802.82;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10310914.9;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10145381.57;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10067414.74;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10112046.9;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;21227060.7;12;6;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;623513.09;3;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;963750.25;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;124871.59;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;124715.44;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;124433.47;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;124148.64;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;124039.51;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;124033.29;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;247783.29;12;6;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;287196.16;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;20487659.94;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;21802196.57;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;25937724.57;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;21753376.17;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;24691084.78;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;24217931.66;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;24155211.04;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;19723796.62;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;22040538.31;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;26886285.57;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;26666519.52;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;28352897.08;2;1;292740;sim;Salvador;29
+2014-03-01;2015;RREO;1;BA;2927408;2902927;<MR-11>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);339981770.64;3;2;292740;sim;Salvador;29
+2014-04-01;2015;RREO;1;BA;2927408;2902927;<MR-10>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);372123679.72;4;2;292740;sim;Salvador;29
+2014-05-01;2015;RREO;1;BA;2927408;2902927;<MR-9>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);409311657.42;5;3;292740;sim;Salvador;29
+2014-06-01;2015;RREO;1;BA;2927408;2902927;<MR-8>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);359442706.36;6;3;292740;sim;Salvador;29
+2014-07-01;2015;RREO;1;BA;2927408;2902927;<MR-7>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);378569227.86;7;4;292740;sim;Salvador;29
+2014-08-01;2015;RREO;1;BA;2927408;2902927;<MR-6>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);413445766.21;8;4;292740;sim;Salvador;29
+2014-09-01;2015;RREO;1;BA;2927408;2902927;<MR-5>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);379162973.05;9;5;292740;sim;Salvador;29
+2014-10-01;2015;RREO;1;BA;2927408;2902927;<MR-4>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);396049938.02;10;5;292740;sim;Salvador;29
+2014-11-01;2015;RREO;1;BA;2927408;2902927;<MR-3>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);359193075.91;11;6;292740;sim;Salvador;29
+2014-12-01;2015;RREO;1;BA;2927408;2902927;<MR-2>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);420834932.34;12;6;292740;sim;Salvador;29
+2015-01-01;2015;RREO;1;BA;2927408;2902927;<MR-1>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);431763573.9;1;1;292740;sim;Salvador;29
+2015-02-01;2015;RREO;1;BA;2927408;2902927;<MR>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);584452495.0;2;1;292740;sim;Salvador;29

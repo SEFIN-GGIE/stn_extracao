@@ -1,0 +1,357 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1553851518.59;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1679084351.15;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2198495525.4;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2041285639.31;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2016406624.91;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2227264409.95;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2018637666.46;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1819243203.15;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1901592521.67;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1931277427.14;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);1823922321.36;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);2265826772.01;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;993623164.02;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;1018471722.49;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;1359913915.71;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;1213646048.95;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;1203296848.95;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;1379958483.53;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;1237919410.26;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;1145039356.98;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;1144927122.91;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;1203618234.92;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;1138104823.59;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Receita Tributária;1316631817.97;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;616050477.59;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;572181981.57;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;588814578.6;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;602364762.52;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;623599785.0;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;631164732.25;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;624813631.72;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;600686106.8;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;606811770.42;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;651652676.74;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;622974810.57;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;ICMSLiquidoExcetoTransferenciasEFUNDEB;ICMS;634437166.57;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;28525944.6;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;50174986.18;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;355527883.73;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;137393444.18;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;131821104.23;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;36920694.45;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;30749444.57;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;26819158.13;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;36672201.5;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;40287589.57;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;19038183.03;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;IPVALiquidoExcetoTransferenciasEFUNDEB;IPVA;24755631.97;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;14984177.86;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;6316507.14;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;7934937.75;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;7394952.81;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;7235596.98;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;7727109.2;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;8181900.67;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;7786061.44;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;7713605.3;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;9700847.93;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;11705473.82;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;ITCDLiquidoExcetoTransferenciasEFUNDEB;ITCD;12520012.52;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;11374820.17;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3384882.7;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3158116.09;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;3745672.64;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;18496472.2;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;276452750.05;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;89834518.43;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;77302337.4;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;63127991.25;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;72067435.93;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;74131959.11;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;11833376.38;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;128003873.78;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;117157063.91;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;115427610.7;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;119301169.19;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;122287106.55;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;117663979.94;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;139053771.35;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;114508666.71;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;127103839.95;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;124726868.9;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;127651054.81;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;150147642.69;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;15010099.91;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;19425306.91;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;28495184.6;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;27411209.66;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;26032445.45;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;31764553.42;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;27353435.91;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;31639066.45;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;24739937.14;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;26662867.04;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;27897534.22;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;36423477.13;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;136070231.41;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;217783401.69;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;227906631.94;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;281212083.76;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;230304787.94;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;193436747.72;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;262925792.93;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;235197842.86;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;229185427.05;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;234394764.17;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;202717999.07;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;406955045.61;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;OutrasReceitasTributarias;Outras Receitas Tributárias;43603538.7;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;OutrasReceitasTributarias;Outras Receitas Tributárias;32047592.39;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;OutrasReceitasTributarias;Outras Receitas Tributárias;32648972.3;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;OutrasReceitasTributarias;Outras Receitas Tributárias;34822754.19;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;OutrasReceitasTributarias;Outras Receitas Tributárias;43519550.6;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;OutrasReceitasTributarias;Outras Receitas Tributárias;84827916.5;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;OutrasReceitasTributarias;Outras Receitas Tributárias;55006914.68;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;OutrasReceitasTributarias;Outras Receitas Tributárias;51100117.19;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;OutrasReceitasTributarias;Outras Receitas Tributárias;49572350.3;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;OutrasReceitasTributarias;Outras Receitas Tributárias;44125184.64;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;OutrasReceitasTributarias;Outras Receitas Tributárias;51987808.96;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;OutrasReceitasTributarias;Outras Receitas Tributárias;39559465.1;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;112369845.96;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;159379168.05;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;133460065.31;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;162133559.74;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;147939321.07;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;152449718.71;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;159466362.38;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;131894702.36;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;124555053.02;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;104570730.13;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;149124791.63;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3ReceitaDeContribuicoes;Receita de Contribuições;137097208.78;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;63608352.01;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;61803000.61;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;94937949.04;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;103424844.43;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;32845523.07;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;61216857.78;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;72565814.75;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;53037753.92;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;64267535.46;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;66318189.33;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;27644016.14;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;87286353.8;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3ReceitaAgropecuaria;Receita Agropecuária;860.0;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3ReceitaAgropecuaria;Receita Agropecuária;1400.0;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3ReceitaAgropecuaria;Receita Agropecuária;724.0;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3ReceitaAgropecuaria;Receita Agropecuária;1106.0;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3ReceitaAgropecuaria;Receita Agropecuária;640.0;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3ReceitaAgropecuaria;Receita Agropecuária;640.0;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3ReceitaAgropecuaria;Receita Agropecuária;160.0;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3ReceitaAgropecuaria;Receita Agropecuária;414.0;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3ReceitaAgropecuaria;Receita Agropecuária;48.0;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3ReceitaAgropecuaria;Receita Agropecuária;1656.0;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3ReceitaAgropecuaria;Receita Agropecuária;1600.0;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3ReceitaAgropecuaria;Receita Agropecuária;1003.22;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3ReceitaIndustrial;Receita Industrial;56039.0;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3ReceitaIndustrial;Receita Industrial;53054.0;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3ReceitaIndustrial;Receita Industrial;195393.0;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3ReceitaIndustrial;Receita Industrial;340295.0;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3ReceitaIndustrial;Receita Industrial;184937.17;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3ReceitaIndustrial;Receita Industrial;145148.67;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3ReceitaIndustrial;Receita Industrial;125949.0;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3ReceitaIndustrial;Receita Industrial;140634.38;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3ReceitaIndustrial;Receita Industrial;201330.0;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3ReceitaIndustrial;Receita Industrial;87976.93;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3ReceitaIndustrial;Receita Industrial;95758.59;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3ReceitaIndustrial;Receita Industrial;482590.2;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;45912800.76;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;30685882.9;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;49309264.22;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;38206335.68;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;51852579.26;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;34438086.72;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;30518149.05;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;34346966.16;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;47449641.77;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;40310021.48;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;35765793.85;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;39873168.33;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;269434064.42;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;333956411.21;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;479195431.08;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;447847567.26;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;487662290.79;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;506084665.62;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;440957902.43;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;371649290.52;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;425520989.09;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;402684003.77;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;356620675.97;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;567181115.02;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3CotaParteDoFPE;Cota-Parte do FPE;46813496.57;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3CotaParteDoFPE;Cota-Parte do FPE;58582877.08;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3CotaParteDoFPE;Cota-Parte do FPE;35596995.63;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3CotaParteDoFPE;Cota-Parte do FPE;42317182.89;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3CotaParteDoFPE;Cota-Parte do FPE;56270336.52;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3CotaParteDoFPE;Cota-Parte do FPE;60620493.14;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3CotaParteDoFPE;Cota-Parte do FPE;19574422.43;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3CotaParteDoFPE;Cota-Parte do FPE;41799399.71;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3CotaParteDoFPE;Cota-Parte do FPE;33991262.93;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3CotaParteDoFPE;Cota-Parte do FPE;41124203.46;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3CotaParteDoFPE;Cota-Parte do FPE;74181195.79;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3CotaParteDoFPE;Cota-Parte do FPE;88868586.65;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;12030624.52;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;15060602.52;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;9148090.19;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;10875114.55;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;14461277.42;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;11947357.88;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;13248033.51;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;10742049.19;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;8735432.12;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;10603897.38;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19346661.63;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;30150264.19;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;37697.47;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;21094.82;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;8135.74;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;59478.08;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;37469.78;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;35918.76;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;51434.18;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;19695.83;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;171748.85;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;468459.73;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;38059.01;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;63768.1;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1315843.75;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1315843.75;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1315843.75;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1315843.75;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1315843.75;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1315843.75;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1315843.75;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1315843.75;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1315843.75;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1315843.75;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1315843.75;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;1315843.75;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;736648.07;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;568915.71;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;555441.01;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;569929.4;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;647200.69;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;385113.81;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;523262.6;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;528751.9;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;579015.02;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;611988.68;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;639576.17;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;680447.74;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;12786861.98;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;90109866.68;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;267324901.18;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;210027509.66;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;228046425.56;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;232034744.73;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;199351588.07;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;141381148.0;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;199458660.43;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;160824878.49;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;69045667.97;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;102922444.09;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;195712892.06;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;168297210.65;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;165246023.58;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;182682508.93;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;186883737.07;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;199745193.55;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;206893317.89;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;175862402.14;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;181269025.99;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;187734732.28;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;192053671.65;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;343179760.5;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;68846392.42;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;74733711.89;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;81482783.04;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;75685882.25;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;92624484.6;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;92970808.92;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;77083918.59;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;83134084.83;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;94670801.42;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;113686614.58;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;116564861.59;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;117273514.69;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);137753892.79;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);239860756.85;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);413938911.81;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);359924214.27;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);375171365.3;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);382873008.21;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);355325122.48;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);286766964.27;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);305229127.08;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);279851595.87;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);195259818.51;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);263703270.76;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;89672353.39;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;113224525.92;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;110690927.79;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;112161119.0;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;113115865.41;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;113987683.06;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;119767745.68;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;108880747.7;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;88950736.2;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;101295613.47;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;110109836.27;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;129637880.13;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;ContribuicaoParaOCusteioDasPensoesMilitares;Contrib. dos Militares para o Custeio das Pensões;19616998.58;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;ContribuicaoParaOCusteioDasPensoesMilitares;Contrib. dos Militares para o Custeio das Pensões;19837795.88;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;ContribuicaoParaOCusteioDasPensoesMilitares;Contrib. dos Militares para o Custeio das Pensões;19631836.69;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;ContribuicaoParaOCusteioDasPensoesMilitares;Contrib. dos Militares para o Custeio das Pensões;19650101.6;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;ContribuicaoParaOCusteioDasPensoesMilitares;Contrib. dos Militares para o Custeio das Pensões;19623901.86;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;ContribuicaoParaOCusteioDasPensoesMilitares;Contrib. dos Militares para o Custeio das Pensões;19816910.82;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;ContribuicaoParaOCusteioDasPensoesMilitares;Contrib. dos Militares para o Custeio das Pensões;19894638.6;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;ContribuicaoParaOCusteioDasPensoesMilitares;Contrib. dos Militares para o Custeio das Pensões;19785746.57;8;4;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;15677678.84;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;16688568.37;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;16291246.15;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;18085484.01;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;14385172.47;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;17033669.6;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;16311150.13;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;16719322.0;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;16819730.45;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;17731103.91;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;16104314.27;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;31142946.54;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;12786861.98;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;90109866.68;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;267324901.18;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;210027509.66;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;228046425.56;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;232034744.73;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;199351588.07;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;141381148.0;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;199458660.43;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;160824878.49;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;69045667.97;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;102922444.09;12;6;53;sim;Distrito Federal;53
+2016-01-01;2016;RREO;6;DF;53;2914830;<MR-11>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1416097625.8;1;1;53;sim;Distrito Federal;53
+2016-02-01;2016;RREO;6;DF;53;2914830;<MR-10>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1439223594.3;2;1;53;sim;Distrito Federal;53
+2016-03-01;2016;RREO;6;DF;53;2914830;<MR-9>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1784556613.59;3;2;53;sim;Distrito Federal;53
+2016-04-01;2016;RREO;6;DF;53;2914830;<MR-8>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1681361425.04;4;2;53;sim;Distrito Federal;53
+2016-05-01;2016;RREO;6;DF;53;2914830;<MR-7>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1641235259.61;5;3;53;sim;Distrito Federal;53
+2016-06-01;2016;RREO;6;DF;53;2914830;<MR-6>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1844391401.74;6;3;53;sim;Distrito Federal;53
+2016-07-01;2016;RREO;6;DF;53;2914830;<MR-5>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1663312543.98;7;4;53;sim;Distrito Federal;53
+2016-08-01;2016;RREO;6;DF;53;2914830;<MR-4>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1532476238.88;8;4;53;sim;Distrito Federal;53
+2016-09-01;2016;RREO;6;DF;53;2914830;<MR-3>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1596363394.59;9;5;53;sim;Distrito Federal;53
+2016-10-01;2016;RREO;6;DF;53;2914830;<MR-2>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1651425831.27;10;5;53;sim;Distrito Federal;53
+2016-11-01;2016;RREO;6;DF;53;2914830;<MR-1>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);1628662502.85;11;6;53;sim;Distrito Federal;53
+2016-12-01;2016;RREO;6;DF;53;2914830;<MR>;ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);2002123501.25;12;6;53;sim;Distrito Federal;53

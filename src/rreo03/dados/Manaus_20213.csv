@@ -1,0 +1,339 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);545844910.93;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);508738263.05;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);570131716.16;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);510633801.65;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);439881066.31;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);674405829.49;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);418448050.49;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);450954521.87;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);518143872.93;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);591790429.43;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);564935308.18;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);560306581.98;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;108998635.5;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;110355686.26;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;102304338.38;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;101218233.18;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;112401963.08;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;196150780.06;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;80998772.77;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;84059072.24;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;105344953.2;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;228424653.8;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;124803495.05;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;120676258.4;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;16912938.44;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;16602752.06;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;14379498.78;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;15874466.09;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;15612473.0;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;25442214.81;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4415791.68;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6587948.49;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;18873787.74;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;130751803.33;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;20699991.38;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;19047608.6;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;65931459.19;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;57497186.22;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;62737688.8;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;63527074.19;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;69295408.3;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;105263982.34;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;56348868.64;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;55924348.06;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;62723389.25;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;69840350.94;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;68947399.18;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;72179012.86;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5924633.46;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5533315.86;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5076706.42;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6485872.87;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;5865861.92;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;8626519.75;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;7055868.46;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;4425390.09;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6281928.23;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6254033.92;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6612407.21;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6627917.35;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;17426735.97;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;16534243.72;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;15931618.91;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;10982657.34;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;17991553.68;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;51895730.26;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11507323.52;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;13602525.68;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;13563963.21;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;16736999.67;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;14898636.69;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;17029548.5;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2802868.44;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14188188.4;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4178825.47;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4348162.69;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3636666.18;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4922332.9;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1670920.47;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3518859.92;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3901884.77;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4841465.94;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;13645060.59;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;5792171.09;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;26204445.0;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;19470233.09;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;26599652.55;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;27003919.28;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;27557195.28;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;55623231.65;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;14283785.06;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;27239771.42;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;23673504.95;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;21346793.71;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;25471533.17;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;26472217.23;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;2673423.34;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;3434087.67;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;1533785.85;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;4881738.7;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;2728017.93;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;4230025.46;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;1655390.24;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;2684433.78;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;5616822.25;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;4521548.03;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;3978824.1;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;41489634.13;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2633428.59;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3339190.79;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1498384.84;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4804398.82;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2649599.34;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4142606.09;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1649621.34;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2678986.88;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5536070.08;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2001576.56;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3937326.72;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;41446663.23;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;39994.75;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;94896.88;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;35401.01;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;77339.88;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;78418.59;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;87419.37;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5768.9;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;5446.9;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;80752.17;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;2519971.47;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;41497.38;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;42970.9;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;433892.58;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;372652.42;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;744213.4;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;656960.46;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;744551.53;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;839161.34;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;565249.84;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;191021.67;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;949454.23;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;1133968.84;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;816297.94;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;1291980.92;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;398164526.28;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;367798528.27;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;431482728.03;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;348294405.38;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;288056111.95;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;396720269.69;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;319264318.86;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;334146221.98;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;378632794.55;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;331714170.85;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;405973961.71;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;361315000.9;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;58730815.88;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;37307229.58;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;30051302.05;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;40436922.18;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;53596077.63;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;79915891.36;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;58056572.81;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;76097446.79;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;51006519.75;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;53323451.48;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;64087446.16;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;55425689.68;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;129948989.04;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;135006841.9;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;178216343.4;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;163550882.8;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;141784542.83;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;187784705.34;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;138900665.49;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;114177748.09;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;182626849.31;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;147826999.23;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;182510879.78;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;166050183.59;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;27580587.79;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;20157582.94;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;18549437.92;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;17056391.87;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;11935430.32;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;11375715.62;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12099646.06;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;13694896.21;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;20159705.1;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;17829439.59;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;17343061.33;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;19902736.24;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;2879.48;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;8523.12;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;16281.7;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;189132.3;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;36002.72;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;21207.94;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;9984.9;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;3906.02;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;9867.66;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;1900.58;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;5653.38;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;6259.36;6;3;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;702046.02;2;1;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;-702046.02;4;2;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;259114.07;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;281118.34;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;378952.79;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;417185.2;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;403922.07;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;508988.28;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;531037.7;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;451963.47;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;477696.64;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;541325.94;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;469755.66;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;490046.05;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;71938181.71;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;73491631.89;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;83524357.23;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;82747371.38;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;53394094.01;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;86667616.39;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;81846811.75;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;101845681.96;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;94929904.2;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;86169119.88;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;99466416.88;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;87346859.53;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;109703958.31;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;101545600.5;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;120746052.94;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;43896519.65;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;26906042.37;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;30446144.76;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;27819600.15;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;27172533.42;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;29422251.89;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;26723980.17;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;42090748.52;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;32093226.45;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9369988.23;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7307075.34;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7466997.95;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;28578544.65;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8393226.54;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;20842361.29;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1680533.72;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2634000.78;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3926343.75;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4649294.2;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3891196.21;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9061490.4;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);48108978.35;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);48097314.33;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);54942840.51;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);53941941.72;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);51728479.54;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);78189627.44;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);47061585.63;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);50462628.4;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);60439184.57;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);53494364.67;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);62470347.48;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);57949671.46;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9555760.23;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9537756.12;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9493077.88;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9604539.79;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10061141.64;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;27266720.24;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5141449.09;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9560771.01;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9582471.47;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9582425.42;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9580257.86;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9567372.55;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7299.18;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7299.18;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7299.18;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7299.18;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7299.18;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;14598.36;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;555.28;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;16665.43;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;585.52;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7316.04;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;6730.52;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;7316.04;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;38545918.94;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;38552259.03;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;45442463.45;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;44330102.75;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;41660038.72;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;50908308.84;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;41919581.26;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;40885191.96;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;50856127.58;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;43904623.21;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;52883359.1;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;48374982.87;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);497735932.58;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);460640948.72;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);515188875.65;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);456691859.93;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);388152586.77;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);596216202.05;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);371386464.86;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);400491893.47;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);457704688.36;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);538296064.76;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);502464960.7;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);502356910.52;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);497735932.58;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);460640948.72;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);515188875.65;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);456691859.93;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);388152586.77;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);596216202.05;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);371386464.86;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);400491893.47;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);457704688.36;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);538296064.76;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);502464960.7;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);502356910.52;6;3;130260;sim;Manaus;13
+2020-07-01;2021;RREO;3;AM;1302603;2219580;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);497735932.58;7;4;130260;sim;Manaus;13
+2020-08-01;2021;RREO;3;AM;1302603;2219580;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);460640948.72;8;4;130260;sim;Manaus;13
+2020-09-01;2021;RREO;3;AM;1302603;2219580;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);515188875.65;9;5;130260;sim;Manaus;13
+2020-10-01;2021;RREO;3;AM;1302603;2219580;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);456691859.93;10;5;130260;sim;Manaus;13
+2020-11-01;2021;RREO;3;AM;1302603;2219580;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);388152586.77;11;6;130260;sim;Manaus;13
+2020-12-01;2021;RREO;3;AM;1302603;2219580;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);596216202.05;12;6;130260;sim;Manaus;13
+2021-01-01;2021;RREO;3;AM;1302603;2219580;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);371386464.86;1;1;130260;sim;Manaus;13
+2021-02-01;2021;RREO;3;AM;1302603;2219580;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);400491893.47;2;1;130260;sim;Manaus;13
+2021-03-01;2021;RREO;3;AM;1302603;2219580;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);457704688.36;3;2;130260;sim;Manaus;13
+2021-04-01;2021;RREO;3;AM;1302603;2219580;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);538296064.76;4;2;130260;sim;Manaus;13
+2021-05-01;2021;RREO;3;AM;1302603;2219580;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);502464960.7;5;3;130260;sim;Manaus;13
+2021-06-01;2021;RREO;3;AM;1302603;2219580;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);502356910.52;6;3;130260;sim;Manaus;13

@@ -1,0 +1,343 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);236951697.59;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);315997728.38;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);252531603.84;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);249078910.76;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);263380335.24;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);251176559.7;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);241043864.69;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);242225690.51;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);255966344.6;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);228264681.19;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);266632802.74;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);243458525.82;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;37711603.17;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;44289981.39;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;40430292.58;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;42183212.86;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;85748589.01;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;43214914.42;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;43476473.88;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;43486887.8;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;41096804.12;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;45370118.81;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;67484995.05;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;39342948.0;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1867192.19;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;1546604.31;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4268104.17;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4139385.59;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;45756469.18;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9780586.25;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6334591.91;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6028492.29;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;6391760.86;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5460313.79;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2658562.08;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2122069.47;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21475489.66;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20475058.54;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22367722.99;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21691717.29;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20180334.3;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20124546.74;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21823643.1;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21096371.22;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;20446076.6;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;24712023.09;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;47694656.7;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;21860945.24;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2165010.3;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2232096.45;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2442772.04;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2465344.46;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2497330.08;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2271209.11;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2752294.31;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;1986236.39;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;3308701.96;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2448298.25;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2269547.91;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;2937644.61;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11061133.39;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;19060842.8;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9701113.7;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;12644585.88;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;10927739.57;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9508607.01;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11320529.49;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;13350102.59;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9777507.68;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11680567.22;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;13963346.89;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11592774.78;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1142777.63;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;975379.29;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1650579.68;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1242179.64;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;6386715.88;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1529965.31;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1245415.07;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1025685.31;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1172757.02;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;1068916.46;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;898881.47;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;829513.9;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;18450498.24;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;18037030.63;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;20083523.64;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;14733641.99;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;15177401.33;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;15312609.65;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;10226388.49;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;21309259.2;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;14971742.71;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;15660695.22;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;17546315.07;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;16980740.29;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;3854105.82;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;18640528.26;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;11810262.86;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;3568980.26;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;3964407.75;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;6153706.17;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;10589857.06;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;11204961.31;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;6175345.14;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;2273473.61;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;8637203.55;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;8963272.99;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3400248.81;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5224543.34;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;11121266.42;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;2888382.38;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3115503.81;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5376290.2;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9713238.54;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;10626650.12;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5574632.59;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1632433.84;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;7816354.55;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;7996890.1;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;453857.01;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;13415984.92;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;688996.44;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;680597.88;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;848903.94;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;777415.97;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;876618.52;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;578311.19;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;600712.55;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;641039.77;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;820849.0;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;966382.89;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3ReceitaAgropecuaria;Receita Agropecuária;0.0;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3ReceitaAgropecuaria;Receita Agropecuária;0.0;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3ReceitaAgropecuaria;Receita Agropecuária;0.0;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3ReceitaAgropecuaria;Receita Agropecuária;0.0;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3ReceitaAgropecuaria;Receita Agropecuária;0.0;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3ReceitaAgropecuaria;Receita Agropecuária;0.0;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3ReceitaAgropecuaria;Receita Agropecuária;0.0;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3ReceitaAgropecuaria;Receita Agropecuária;0.0;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3ReceitaAgropecuaria;Receita Agropecuária;0.0;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3ReceitaAgropecuaria;Receita Agropecuária;0.0;8;4;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3ReceitaIndustrial;Receita Industrial;0.0;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3ReceitaIndustrial;Receita Industrial;0.0;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3ReceitaIndustrial;Receita Industrial;0.0;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3ReceitaIndustrial;Receita Industrial;0.0;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3ReceitaIndustrial;Receita Industrial;0.0;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3ReceitaIndustrial;Receita Industrial;0.0;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3ReceitaIndustrial;Receita Industrial;0.0;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3ReceitaIndustrial;Receita Industrial;0.0;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3ReceitaIndustrial;Receita Industrial;0.0;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3ReceitaIndustrial;Receita Industrial;0.0;8;4;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;6131290.26;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;5705400.65;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;5924111.95;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;6364582.97;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;5843068.88;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;6670843.52;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;20114.74;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;7072823.83;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;13563400.8;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;6844293.1;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;6558613.81;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;7447742.44;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;162537810.89;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;220680055.96;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;166932578.33;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;175416609.45;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;146041517.17;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;172265508.57;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;168515834.19;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;147279233.8;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;171515695.76;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;149483844.01;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;159181438.32;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;161602783.06;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;42561225.92;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;74482434.02;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;52390103.31;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;57547391.61;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;43088211.86;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;42037293.23;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;53947540.91;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;42494359.59;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;58110877.82;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;42416978.47;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;37757366.37;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;34760559.17;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;53950863.71;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;56448195.28;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;40607314.51;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;40315361.78;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;33556780.41;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;51495761.26;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;32579373.79;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;35996851.42;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;46740710.38;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;39090501.46;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;42153883.91;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;51269366.12;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4966997.31;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3883078.53;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8943701.2;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;10322207.63;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8385138.02;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7603176.41;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8395806.27;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7363937.78;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9045245.53;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7520140.63;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7672883.08;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8557978.09;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;8285.15;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;10775.29;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;5906.21;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;13098.34;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;2089.03;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;4217.16;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;2808.88;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;4697.97;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;2811.32;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;2389.26;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;14431.0;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;173170.96;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;57879.42;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;57879.42;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;0.0;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;0.0;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;0.0;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;0.0;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;0.0;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;0.0;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;0.0;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;0.0;8;4;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;14748.77;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;17771.68;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;13263.47;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;14040.04;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;13559.58;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;13746.85;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;13460.48;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;14116.4;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;14290.42;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;12790.14;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;15591.61;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;13798.16;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;27215565.44;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;28018530.45;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;22731007.87;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;25645405.89;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19161702.27;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;21600515.73;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23593845.97;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19377443.12;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;20569574.32;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;20243445.51;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23514962.27;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;28219031.26;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;33762245.17;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;57761391.29;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;42241281.76;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;41559104.16;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;41834036.0;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;49510797.93;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;49982997.89;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;42027827.52;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;37032185.97;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;40197598.54;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;48052320.08;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;38608879.3;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8266389.21;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8644731.49;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7350834.48;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6811883.23;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6605351.1;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7558977.37;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8215196.33;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;11872524.57;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8643356.07;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;8632256.44;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7224236.94;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9121039.04;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);27748982.65;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);33127148.78;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);31620519.55;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);29062638.22;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);24579481.23;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);27750914.11;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);26525711.66;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);24744765.79;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);25671758.89;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);25401095.25;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);25099768.82;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);26664108.94;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6283309.7;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;8570594.82;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9975185.92;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6327440.02;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6486299.69;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6434459.26;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6459368.57;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6447403.76;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6444777.88;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6441125.58;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6437335.28;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6446954.19;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1153672.92;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;2049824.75;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1253275.92;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1092778.38;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1084025.82;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1085615.91;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1078545.05;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1122569.42;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1076346.49;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1151409.72;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1139602.37;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1262180.28;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;20312000.03;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;22506729.21;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;20392057.71;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;21642419.82;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17009155.72;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;20230838.94;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;18987798.04;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17174792.61;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;18150634.52;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17808559.95;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17522831.17;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;18954974.47;10;5;221100;sim;Teresina;22
+2018-11-01;2019;RREO;5;PI;2211001;861442;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);209202714.94;11;6;221100;sim;Teresina;22
+2018-12-01;2019;RREO;5;PI;2211001;861442;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);282870579.6;12;6;221100;sim;Teresina;22
+2019-01-01;2019;RREO;5;PI;2211001;861442;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);220911084.29;1;1;221100;sim;Teresina;22
+2019-02-01;2019;RREO;5;PI;2211001;861442;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);220016272.54;2;1;221100;sim;Teresina;22
+2019-03-01;2019;RREO;5;PI;2211001;861442;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);238800854.01;3;2;221100;sim;Teresina;22
+2019-04-01;2019;RREO;5;PI;2211001;861442;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);223425645.59;4;2;221100;sim;Teresina;22
+2019-05-01;2019;RREO;5;PI;2211001;861442;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);214518153.03;5;3;221100;sim;Teresina;22
+2019-06-01;2019;RREO;5;PI;2211001;861442;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);217480924.72;6;3;221100;sim;Teresina;22
+2019-07-01;2019;RREO;5;PI;2211001;861442;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);230294585.71;7;4;221100;sim;Teresina;22
+2019-08-01;2019;RREO;5;PI;2211001;861442;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);202863585.94;8;4;221100;sim;Teresina;22
+2019-09-01;2019;RREO;5;PI;2211001;861442;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);241533033.92;9;5;221100;sim;Teresina;22
+2019-10-01;2019;RREO;5;PI;2211001;861442;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);216794416.88;10;5;221100;sim;Teresina;22

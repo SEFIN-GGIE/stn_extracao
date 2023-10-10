@@ -1,0 +1,336 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);145037286.92;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);236466543.74;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);383639067.63;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);163064884.94;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);215295505.56;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);150324186.37;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);163542452.96;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);167181792.6;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);169780584.77;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);187731660.68;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);173494656.49;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);170080529.22;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;71624033.25;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;136601959.39;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;294430302.02;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;75017606.12;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;121509578.71;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;66892238.07;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;67542924.06;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;76001355.85;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;72922424.95;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;88386243.93;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;76835549.57;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;74302816.52;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;11699664.83;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;29739611.07;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;222207323.91;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;21178727.04;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;20398442.87;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;12468982.85;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;13521276.11;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;12856330.38;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;12392058.12;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;14523667.25;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;11909924.29;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;11856666.77;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;28924303.79;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;32061457.66;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;35576136.01;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;27884462.55;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;30632966.32;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;29779473.57;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;28436832.28;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;29146917.44;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;36056999.01;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;39514236.43;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;39271855.61;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;36894634.6;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;12921051.01;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;17082115.69;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;12087619.28;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11310565.69;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;15639970.06;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;13378401.48;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;13682229.55;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;17146031.14;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;12671699.28;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;13950985.19;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;13924706.84;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;12618232.52;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;10858609.47;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;49348101.85;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;1207193.96;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4128020.34;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;16195777.37;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3868196.01;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4104487.74;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;9224856.95;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4060137.64;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;12179055.58;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4185450.03;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4309887.74;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7220404.15;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;8370673.12;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;23352028.86;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;10515830.5;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;38642422.09;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7397184.16;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7798098.38;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7627219.94;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7741530.9;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;8218299.48;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;7543612.8;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;8623394.89;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;4307164.26;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;15726010.13;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;10135194.74;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;10760649.58;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;16556825.49;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;5885952.66;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;11250821.54;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;11018772.14;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;10566700.54;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;10515105.96;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;10643626.82;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;15992035.23;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;449485.29;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;641335.47;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;539634.42;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;615072.48;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;590834.52;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;1216858.45;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;1248600.35;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;1367799.34;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;1842744.12;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;2217006.79;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;2180153.92;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;2208128.19;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;52484.99;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;56862.16;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;76513.79;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;86777.55;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;313191.38;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;713974.24;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;848870.11;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1011859.85;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1342502.2;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1613547.47;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1724139.76;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1732618.1;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;397000.3;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;584473.31;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;463120.63;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;528294.93;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;277643.14;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;502884.21;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;399730.24;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;355939.49;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;500241.92;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;603459.32;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;456014.16;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;475510.09;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;118889.58;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;368572.39;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;218919.4;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;90948.94;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;48434.73;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;81075.73;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;201645.72;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;103234.84;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;93848.87;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;90593.44;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;89585.72;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;23048.01;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;65581435.19;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;80022693.05;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;75439401.1;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;74888941.0;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;74280303.63;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;73628648.74;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;79129861.69;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;75066472.02;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;81163756.92;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;81900800.85;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;78559718.57;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;74051529.26;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;13611702.26;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20296099.39;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;14744526.43;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19326335.69;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;12954036.76;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;13542463.85;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;16276176.79;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;14076365.62;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19233683.97;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;15377944.0;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;12076874.65;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;13457668.5;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;14972125.68;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17468259.83;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;18017262.94;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;15295188.25;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;15673719.7;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16511959.68;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16325161.66;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16565619.91;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17268843.57;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;19305069.56;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;20017355.51;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;18509072.45;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6150198.24;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;3529304.37;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7415922.41;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8875411.26;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;10249833.79;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9761733.95;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9992867.0;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9950734.56;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9756512.11;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9748361.11;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9310946.01;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7963452.45;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;79.27;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;247.82;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;880.04;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;312.82;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;44.13;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;1446.59;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;411.51;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;1035.84;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;2472.46;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;656.61;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;1331.54;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;6110.9;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;277289.97;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;291637.17;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;248344.29;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;203145.9;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;241220.5;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;241932.91;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;233841.86;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;214506.96;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;247755.63;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;208341.44;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;247892.98;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;255160.16;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;14869818.04;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16822465.39;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;17606715.69;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16759506.31;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16105631.34;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;16760960.81;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;18564090.44;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;17137768.54;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;17507123.66;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19506244.46;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19666960.61;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;18650567.87;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;15700221.73;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;21614679.08;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;17405749.3;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;14429040.77;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;19055817.41;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;16808150.95;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;17737312.43;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;17120440.59;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;17147365.52;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;17754183.67;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;17238357.27;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;15209496.93;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2956279.35;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3105973.31;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2875615.95;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1691666.82;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2309528.48;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2619412.72;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4168599.6;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3624158.41;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3191109.37;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4621909.71;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5186021.89;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3502972.01;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);8022143.09;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);19825074.69;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14627439.81;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15630629.65;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);20345333.32;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);9358858.12;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15532767.81;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15129747.79;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);14920081.42;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15766242.17;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15348493.62;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);20310473.62;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;969647.12;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12447278.73;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6542052.8;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6787514.28;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12386517.68;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1211906.03;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6832031.35;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6833050.49;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6874806.17;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6838167.83;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;6882439.6;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12272180.94;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;50217.07;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;266638.08;12;6;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;103036.8;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;135044.9;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;135044.9;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;135044.9;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;135044.9;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;135161.15;7;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;135174.07;9;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7002278.9;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7111157.88;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8085387.01;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8740078.57;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7823770.74;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8011907.19;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8565691.56;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8161652.4;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;7910114.1;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8928074.34;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8330879.95;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8038292.68;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);137015143.83;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);216641469.05;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);369011627.82;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);147434255.29;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);194950172.24;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);140965328.25;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);148009685.15;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);152052044.81;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);154860503.35;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);171965418.51;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);158146162.87;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);149770055.6;10;5;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);490329.0;8;4;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);900000.0;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);137015143.83;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);216641469.05;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);369011627.82;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);147434255.29;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);194950172.24;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);140965328.25;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);148009685.15;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);152052044.81;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);154860503.35;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);171475089.51;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);158146162.87;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);148870055.6;10;5;420540;sim;Florianópolis;42
+2020-11-01;2021;RREO;5;SC;4205407;508826;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);137015143.83;11;6;420540;sim;Florianópolis;42
+2020-12-01;2021;RREO;5;SC;4205407;508826;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);216641469.05;12;6;420540;sim;Florianópolis;42
+2021-01-01;2021;RREO;5;SC;4205407;508826;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);369011627.82;1;1;420540;sim;Florianópolis;42
+2021-02-01;2021;RREO;5;SC;4205407;508826;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);147434255.29;2;1;420540;sim;Florianópolis;42
+2021-03-01;2021;RREO;5;SC;4205407;508826;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);194950172.24;3;2;420540;sim;Florianópolis;42
+2021-04-01;2021;RREO;5;SC;4205407;508826;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);140965328.25;4;2;420540;sim;Florianópolis;42
+2021-05-01;2021;RREO;5;SC;4205407;508826;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);148009685.15;5;3;420540;sim;Florianópolis;42
+2021-06-01;2021;RREO;5;SC;4205407;508826;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);152052044.81;6;3;420540;sim;Florianópolis;42
+2021-07-01;2021;RREO;5;SC;4205407;508826;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);154860503.35;7;4;420540;sim;Florianópolis;42
+2021-08-01;2021;RREO;5;SC;4205407;508826;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);171475089.51;8;4;420540;sim;Florianópolis;42
+2021-09-01;2021;RREO;5;SC;4205407;508826;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);158146162.87;9;5;420540;sim;Florianópolis;42
+2021-10-01;2021;RREO;5;SC;4205407;508826;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);148870055.6;10;5;420540;sim;Florianópolis;42

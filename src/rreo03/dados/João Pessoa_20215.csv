@@ -1,0 +1,324 @@
+data;ano;demonstrativo;periodo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);198161778.98;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);265780078.4;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);217179931.21;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);187074360.9;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);292903056.78;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);190729667.09;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);223254190.73;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);226293122.61;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);207702279.82;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);233376027.05;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);217667961.39;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);251248216.55;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;47937091.64;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;59320506.66;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;36429182.94;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;47720477.93;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;123840309.02;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;45659052.31;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;42872554.21;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;46895217.71;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;55023572.09;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;53318105.15;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;50180936.8;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;55639337.11;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4397448.85;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4152221.47;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;2110844.7;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;9427815.39;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;57975031.06;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;7679752.61;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4845364.23;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;4914584.41;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5513223.28;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5072884.49;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5343116.09;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;5231399.01;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22100407.22;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;26038719.63;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22085264.57;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19706166.12;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;24374248.72;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;18614063.12;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;19693611.4;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;22517239.47;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;26710233.65;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;27973215.54;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;25347425.75;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;24954043.68;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;12054786.78;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11348967.68;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9756892.97;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10164905.87;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10911180.11;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10835167.15;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10354872.69;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11242257.91;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;13780276.1;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;12912068.39;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11726690.59;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10846327.73;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5263291.84;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;14310028.49;12;6;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;3662971.92;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4285141.47;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4242495.63;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4695519.18;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;5152081.64;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4608207.12;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4497436.24;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;4461807.52;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;11954451.11;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4121156.95;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3470569.39;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2476180.7;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4758618.63;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;26294707.66;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4287573.8;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3283186.71;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3069054.28;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4411631.94;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2862500.49;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;3301896.85;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;2653115.58;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;7784270.45;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;15842520.48;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;5259103.36;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;8577831.25;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;7086009.63;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;9684136.59;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;8239906.8;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;8396105.04;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;8245825.27;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;8310024.85;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;8341226.69;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;8910642.63;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;9782686.96;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;9844041.91;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;1233272.3;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;1249967.32;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;3606963.82;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;5774414.3;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;6737843.6;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;16006604.27;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;-20662369.46;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;1059959.61;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;-8250.23;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;410915.29;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9782436.0;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;9843576.97;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1233272.3;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1249967.32;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3606963.82;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5774414.3;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;6737843.6;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;16006604.27;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-20662369.46;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;1059959.61;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;-8250.23;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;410915.29;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;250.96;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;464.94;12;6;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;129707384.86;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;175462702.05;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;172771636.14;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;126892271.69;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;154941910.0;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;126938112.46;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;161861159.39;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;150054929.57;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;161227342.14;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;166927110.6;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;155283430.77;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;182332566.9;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;34029255.65;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;35665853.57;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;36861316.06;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;48315839.23;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;32385091.91;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;18587450.99;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;55959150.7;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;35190914.08;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;48084209.93;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;38444860.03;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;30192186.59;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;33644171.26;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;29385068.79;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;45036664.15;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;36249587.94;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;29064044.81;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;39005403.19;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;29749702.55;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;25408198.2;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;39008272.12;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;35641481.98;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;38988736.78;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;38060087.31;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;38098602.71;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;6294298.82;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;5455752.03;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8807930.89;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8959716.77;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9388342.94;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8985506.54;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9180831.23;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9773726.09;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;10064813.03;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;9217339.96;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;8497816.63;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7594456.98;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;8092.93;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;3468.77;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;3191.61;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;281.55;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;116.87;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;1495.9;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;1593.34;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;1843.4;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;4147.64;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;1878.36;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;5138.03;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;41113.6;10;5;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;61355.1;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30677.55;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30677.55;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30677.55;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30677.55;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30677.55;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30677.55;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30677.55;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3TransferenciasDaLC871996;Transferências da LC nº 87/1996;30677.55;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;456582.88;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;482130.84;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;460760.13;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;503077.3;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;642982.09;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;648553.51;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;772209.95;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;754333.09;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;769799.72;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;752310.44;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;837377.64;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;822177.93;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23199065.9;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;28065645.84;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;24950002.7;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;27607292.49;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;25449595.6;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;32144765.87;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;26559969.8;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;28182928.35;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;25188579.5;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;29030325.5;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;26234135.84;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;27270587.91;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;36335019.89;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;60753186.85;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;65438846.81;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;12380664.44;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;48039699.85;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;36789959.55;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;43948528.62;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;37112234.89;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;41443632.79;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;50460981.98;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;51426011.18;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;74830778.96;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2950345.07;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5310307.3;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;1486736.47;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2633812.71;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3427864.31;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2673951.43;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3542726.73;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4940266.02;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3867909.78;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3760826.84;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3870617.36;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3954754.62;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);19102307.63;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);30893091.4;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17596367.47;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);22429004.45;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);20560768.8;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17737112.73;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);23158670.93;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);22061245.16;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);20243981.59;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);22978599.64;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);20488752.76;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);21175366.03;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4211733.37;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;12057194.45;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;1120555.27;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4252470.42;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3181086.02;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5306172.17;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4210808.25;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4318538.51;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4188260.06;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4170260.01;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4151794.85;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;4523140.09;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;947231.08;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1603549.3;12;6;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;908557.58;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;984358.65;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;960592.0;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;983735.6;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;1170419.1;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;982224.37;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;977190.13;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;980457.04;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;770832.98;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;13943343.18;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17232347.65;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16475812.2;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17267976.45;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16395324.13;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11470348.56;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17964127.08;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;16572287.55;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15073497.16;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;17831149.5;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15356500.87;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;15881392.96;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);179059471.35;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);234886987.0;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);199583563.74;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);164645356.45;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);272342287.98;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);172992554.36;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);200095519.8;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);204231877.45;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);187458298.23;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);210397427.41;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);197179208.63;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);230072850.52;10;5;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);897003.53;6;3;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;(-) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF)  (IV);1000000.0;8;4;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);179059471.35;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);234886987.0;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);199583563.74;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);164645356.45;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);272342287.98;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);172992554.36;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);200095519.8;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);203334873.92;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);187458298.23;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);209397427.41;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);197179208.63;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);230072850.52;10;5;250750;sim;João Pessoa;25
+2020-11-01;2021;RREO;5;PB;2507507;817511;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);179059471.35;11;6;250750;sim;João Pessoa;25
+2020-12-01;2021;RREO;5;PB;2507507;817511;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);234886987.0;12;6;250750;sim;João Pessoa;25
+2021-01-01;2021;RREO;5;PB;2507507;817511;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);199583563.74;1;1;250750;sim;João Pessoa;25
+2021-02-01;2021;RREO;5;PB;2507507;817511;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);164645356.45;2;1;250750;sim;João Pessoa;25
+2021-03-01;2021;RREO;5;PB;2507507;817511;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);272342287.98;3;2;250750;sim;João Pessoa;25
+2021-04-01;2021;RREO;5;PB;2507507;817511;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);172992554.36;4;2;250750;sim;João Pessoa;25
+2021-05-01;2021;RREO;5;PB;2507507;817511;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);200095519.8;5;3;250750;sim;João Pessoa;25
+2021-06-01;2021;RREO;5;PB;2507507;817511;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);203334873.92;6;3;250750;sim;João Pessoa;25
+2021-07-01;2021;RREO;5;PB;2507507;817511;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);187458298.23;7;4;250750;sim;João Pessoa;25
+2021-08-01;2021;RREO;5;PB;2507507;817511;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);209397427.41;8;4;250750;sim;João Pessoa;25
+2021-09-01;2021;RREO;5;PB;2507507;817511;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);197179208.63;9;5;250750;sim;João Pessoa;25
+2021-10-01;2021;RREO;5;PB;2507507;817511;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);230072850.52;10;5;250750;sim;João Pessoa;25

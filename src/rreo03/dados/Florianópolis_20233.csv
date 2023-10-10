@@ -1,0 +1,350 @@
+data;demonstrativo;uf;cod_completo;populacao;coluna;cod_conta;conta;valor;mes_num;ano;bimestre;cd_municipio;capital;nome_municipio;cd_uf
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);237512966.78;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);208765820.31;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);166577840.67;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);192276016.57;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);186803048.59;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);267188914.27;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);499789262.78;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);274578873.34;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);265986299.83;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);232150410.48;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);236116558.86;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;ReceitasCorrentesLiquidasExcetoTransferenciasEFUNDEB;RECEITAS CORRENTES (I);228775832.59;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;121894231.7;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;99919384.3;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;69385895.94;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;74111827.04;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;84981121.64;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;143808650.8;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;380259855.33;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;149888833.05;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;148665330.7;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;110132750.26;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;109301889.75;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;ReceitaTributariaLiquidaExcetoTransferenciasEFUNDEB;Impostos, Taxas e Contribuições de Melhoria;98171070.3;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;19144538.23;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;16795706.47;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;11030519.66;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;7200826.31;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;10355964.8;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;19059541.91;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;269698682.57;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;38189025.91;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;23180163.66;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;12948142.98;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;14573124.09;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;IPTULiquidoExcetoTransferenciasEFUNDEB;IPTU;13741516.38;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;45819972.98;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;51756230.61;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;27301631.18;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;45844597.8;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;48191169.28;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;74900980.47;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;53986000.14;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;49769430.49;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;50260206.79;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;50825567.52;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;49314507.29;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;ISSLiquidoExcetoTransferenciasEFUNDEB;ISS;50234753.52;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11558577.29;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;15963027.18;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;6490900.1;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10543944.25;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;12531815.56;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;19713972.97;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;9821016.49;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11852487.92;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;12831801.91;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;10581212.23;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;13722560.15;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;ITBILiquidoExcetoTransferenciasEFUNDEB;ITBI;11166099.95;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;36673307.38;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;6054321.59;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;17749622.99;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;6123495.18;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;7427969.58;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;15745924.78;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;21132780.28;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;35587644.09;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;12151527.78;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;26951427.8;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;21564441.45;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;IRRFLiquidoExcetoTransferenciasEFUNDEB;IRRF;14185843.79;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;8697835.82;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;9350098.45;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;6813222.01;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;4398963.5;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;6474202.42;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14388230.67;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;25621375.85;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;14490244.64;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;50241630.56;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;8826399.73;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;10127256.77;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;OutrasReceitasTributarias;Outros Impostos, Taxas e Contribuições de Melhoria;8842856.66;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3ReceitaDeContribuicoes;Contribuições;10207985.06;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3ReceitaDeContribuicoes;Contribuições;11605259.15;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3ReceitaDeContribuicoes;Contribuições;7853028.61;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3ReceitaDeContribuicoes;Contribuições;18924042.21;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3ReceitaDeContribuicoes;Contribuições;12418180.77;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3ReceitaDeContribuicoes;Contribuições;12520095.52;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3ReceitaDeContribuicoes;Contribuições;19993471.51;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3ReceitaDeContribuicoes;Contribuições;16607297.89;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3ReceitaDeContribuicoes;Contribuições;14435053.92;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3ReceitaDeContribuicoes;Contribuições;15668036.94;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3ReceitaDeContribuicoes;Contribuições;15014919.19;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3ReceitaDeContribuicoes;Contribuições;15595872.85;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3ReceitaPatrimonial;Receita Patrimonial;5315352.33;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3ReceitaPatrimonial;Receita Patrimonial;6183700.68;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3ReceitaPatrimonial;Receita Patrimonial;5108649.39;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3ReceitaPatrimonial;Receita Patrimonial;4117964.82;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3ReceitaPatrimonial;Receita Patrimonial;4422234.6;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3ReceitaPatrimonial;Receita Patrimonial;6583906.51;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3ReceitaPatrimonial;Receita Patrimonial;7031834.61;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3ReceitaPatrimonial;Receita Patrimonial;6085131.43;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3ReceitaPatrimonial;Receita Patrimonial;7501233.53;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3ReceitaPatrimonial;Receita Patrimonial;5730810.74;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3ReceitaPatrimonial;Receita Patrimonial;6518295.68;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3ReceitaPatrimonial;Receita Patrimonial;6320727.69;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4511344.91;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5024494.14;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4286093.99;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3465439.02;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;3950995.82;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5105744.91;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5830676.81;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5498241.19;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;6886991.75;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5065332.74;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;5533008.37;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RendimentosDeAplicacaoFinanceira;Rendimentos de Aplicação Financeira;4949959.48;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;804007.42;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1159206.54;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;822555.4;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;652525.8;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;471238.78;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1478161.6;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1201157.8;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;586890.24;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;614241.78;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;665478.0;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;985287.31;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;OutrasReceitasPatrimoniais;Outras Receitas Patrimoniais;1370768.21;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3ReceitaDeServicos;Receita de Serviços;41178.51;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3ReceitaDeServicos;Receita de Serviços;100858.51;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3ReceitaDeServicos;Receita de Serviços;93917.19;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3ReceitaDeServicos;Receita de Serviços;36984.89;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3ReceitaDeServicos;Receita de Serviços;112296.3;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3ReceitaDeServicos;Receita de Serviços;111288.19;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3ReceitaDeServicos;Receita de Serviços;109727.03;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3ReceitaDeServicos;Receita de Serviços;93088.4;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3ReceitaDeServicos;Receita de Serviços;87053.17;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3ReceitaDeServicos;Receita de Serviços;99900.92;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3ReceitaDeServicos;Receita de Serviços;117475.51;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3ReceitaDeServicos;Receita de Serviços;127423.2;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3TransferenciasCorrentes;Transferências Correntes;94763510.71;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3TransferenciasCorrentes;Transferências Correntes;85452122.22;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3TransferenciasCorrentes;Transferências Correntes;79150028.24;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3TransferenciasCorrentes;Transferências Correntes;92860362.75;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3TransferenciasCorrentes;Transferências Correntes;81249251.29;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3TransferenciasCorrentes;Transferências Correntes;94506199.6;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3TransferenciasCorrentes;Transferências Correntes;86590061.67;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3TransferenciasCorrentes;Transferências Correntes;97384786.6;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3TransferenciasCorrentes;Transferências Correntes;88572910.86;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3TransferenciasCorrentes;Transferências Correntes;95446085.16;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3TransferenciasCorrentes;Transferências Correntes;98098968.17;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3TransferenciasCorrentes;Transferências Correntes;102493374.78;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3CotaParteDoFPM;Cota-Parte do FPM;25678888.28;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3CotaParteDoFPM;Cota-Parte do FPM;18657101.83;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3CotaParteDoFPM;Cota-Parte do FPM;17182919.96;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3CotaParteDoFPM;Cota-Parte do FPM;16348967.12;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20547675.61;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3CotaParteDoFPM;Cota-Parte do FPM;31926967.6;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19496677.24;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3CotaParteDoFPM;Cota-Parte do FPM;27619002.43;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3CotaParteDoFPM;Cota-Parte do FPM;16895810.78;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3CotaParteDoFPM;Cota-Parte do FPM;19317184.42;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3CotaParteDoFPM;Cota-Parte do FPM;21474151.72;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3CotaParteDoFPM;Cota-Parte do FPM;20056696.7;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17223472.37;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16217547.39;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16854778.07;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16823618.95;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16600042.22;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17446451.62;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17159694.04;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16621813.04;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;16682213.48;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;18187907.73;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;17222769.53;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3CotaParteDoICMS;Cota-Parte do ICMS;18240408.59;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12546338.77;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12767641.27;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;11780447.99;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;10582494.34;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;7525767.34;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;4712528.65;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;12360850.2;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;13632657.29;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;16853758.51;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;14456993.43;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;16851662.3;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3CotaParteDoIPVA;Cota-Parte do IPVA;15609338.54;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3CotaParteDoITR;Cota-Parte do ITR;7331.16;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3CotaParteDoITR;Cota-Parte do ITR;64180.55;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3CotaParteDoITR;Cota-Parte do ITR;10612.57;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3CotaParteDoITR;Cota-Parte do ITR;28451.01;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3CotaParteDoITR;Cota-Parte do ITR;5540.16;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3CotaParteDoITR;Cota-Parte do ITR;11568.47;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3CotaParteDoITR;Cota-Parte do ITR;10745.69;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3CotaParteDoITR;Cota-Parte do ITR;12534.99;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3CotaParteDoITR;Cota-Parte do ITR;12312.24;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3CotaParteDoITR;Cota-Parte do ITR;12738.84;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3CotaParteDoITR;Cota-Parte do ITR;9924.3;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3CotaParteDoITR;Cota-Parte do ITR;59005.75;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;172736.54;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;137589.79;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;181511.06;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;185247.52;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;134703.07;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;191385.15;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;170280.02;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;121430.15;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;150489.97;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;160433.12;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;144270.86;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3TransferenciasDaLC611989;Transferências da LC nº 61/1989;179901.95;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19646954.57;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19327094.84;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;18970427.05;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19285947.96;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;19329882.76;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;20836621.01;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;21780792.33;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23262540.94;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;21877689.36;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23449630.56;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23338663.98;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3TransferenciasDoFUNDEB;Transferências do FUNDEB;23392167.01;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;19487789.02;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;18280966.55;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;14169331.54;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;29605635.85;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;17105640.13;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;19380677.1;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;15611022.15;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;16114807.76;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;16100636.52;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;19861197.06;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;19057525.48;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3OutrasTransferenciasCorrentes;Outras Transferências Correntes;24955856.24;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5290708.47;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5504495.45;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4986321.3;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;2224834.86;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;3619963.99;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;9658773.65;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5804312.63;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;4519735.97;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6724717.65;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;5072826.46;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;7065010.56;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3OutrasReceitasCorrentes;Outras Receitas Correntes;6067363.77;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17308983.53;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);15504895.46;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);12809643.42;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);23826635.5;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17345569.68;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);17401385.88;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);25442417.07;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);23311563.81;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);19464718.79;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);20045766.0;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);20560441.13;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;DeducoesDaReceitaCorrenteLiquida;DEDUÇÕES (II);21102336.31;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;7909602.23;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;5797747.78;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;3802261.47;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;14890888.92;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;8240833.28;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;8249812.22;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;15422982.91;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;11551832.46;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9163981.61;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9461127.95;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;9217469.95;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;ContribuicaoDoServidorParaOPlanoDePrevidencia;Contrib. do Servidor para o Plano de Previdência;10106355.91;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;136897.98;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;138335.74;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;138336.24;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;138336.24;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;138336.24;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;277358.5;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;138336.24;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;138336.24;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;136457.86;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;134386.32;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;168025.19;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;CompensacaoFinanceiraEntreRegimesPrevidencia;Compensações Financ. entre Regimes Previdência;135740.43;6;2023;3;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;41448.75;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;19907.71;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;45362.6;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;23200.39;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;34390.46;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RendimentosDeAplicacoesDeRecursosPrevidenciarios;Rendimentos de Aplicações de Recursos Previdenciários;31169.88;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9262483.32;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9568811.94;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8869045.71;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8797410.34;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8966400.16;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;8874215.16;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;9839649.17;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11601487.4;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10118916.72;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10427051.34;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;11140555.53;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;DeducaoDeReceitaParaFormacaoDoFUNDEB;Dedução de Receita para Formação do FUNDEB;10829070.09;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);220203983.25;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);193260924.85;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);153768197.25;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);168449381.07;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);169457478.91;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);249787528.39;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);474346845.71;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);251267309.53;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);246521581.04;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);212104644.48;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);215556117.73;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3ReceitaCorrenteLiquida;RECEITA CORRENTE LÍQUIDA (III) = (I - II);207673496.28;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);51754.43;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);59506.47;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);55278.93;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);53133.56;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);53664.16;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);560405.94;12;2022;6;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3TransferenciasObrigatoriasDaUniaoRelativasAsEmendasIndividuais;( - ) Transferências obrigatórias da União relativas às emendas individuais (art. 166-A, § 1º, da CF) (IV);4000000.0;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);220152228.82;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);193201418.38;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);153712918.32;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);168396247.51;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);169403814.75;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);249227122.45;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);474346845.71;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);251267309.53;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);246521581.04;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);212104644.48;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);215556117.73;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDeEndividamento;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DE ENDIVIDAMENTO (V) = (III - IV);203673496.28;6;2023;3;420540;sim;Florianópolis;42
+2022-07-01;RREO;SC;4205407;516524;<MR-11>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);220152228.82;7;2022;4;420540;sim;Florianópolis;42
+2022-08-01;RREO;SC;4205407;516524;<MR-10>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);193201418.38;8;2022;4;420540;sim;Florianópolis;42
+2022-09-01;RREO;SC;4205407;516524;<MR-9>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);153712918.32;9;2022;5;420540;sim;Florianópolis;42
+2022-10-01;RREO;SC;4205407;516524;<MR-8>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);168396247.51;10;2022;5;420540;sim;Florianópolis;42
+2022-11-01;RREO;SC;4205407;516524;<MR-7>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);169403814.75;11;2022;6;420540;sim;Florianópolis;42
+2022-12-01;RREO;SC;4205407;516524;<MR-6>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);249227122.45;12;2022;6;420540;sim;Florianópolis;42
+2023-01-01;RREO;SC;4205407;516524;<MR-5>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);474346845.71;1;2023;1;420540;sim;Florianópolis;42
+2023-02-01;RREO;SC;4205407;516524;<MR-4>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);251267309.53;2;2023;1;420540;sim;Florianópolis;42
+2023-03-01;RREO;SC;4205407;516524;<MR-3>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);246521581.04;3;2023;2;420540;sim;Florianópolis;42
+2023-04-01;RREO;SC;4205407;516524;<MR-2>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);212104644.48;4;2023;2;420540;sim;Florianópolis;42
+2023-05-01;RREO;SC;4205407;516524;<MR-1>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);215556117.73;5;2023;3;420540;sim;Florianópolis;42
+2023-06-01;RREO;SC;4205407;516524;<MR>;RREO3ReceitaCorrenteLiquidaAjustadaParaCalculoDosLimitesDaDespesaComPessoal;RECEITA CORRENTE LÍQUIDA AJUSTADA PARA CÁLCULO DOS LIMITES DA DESPESA COM PESSOAL (VII) = (V - VI);203673496.28;6;2023;3;420540;sim;Florianópolis;42
